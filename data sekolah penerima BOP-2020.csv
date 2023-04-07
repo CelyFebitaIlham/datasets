@@ -1,0 +1,2042 @@
+npsn,nama_sekolah,jenjang,kecamatan,kota_kabupaten,jumlah_siswa
+20100143,SMKN 1 JAKARTA,SMK,Sawah Besar,Jakarta Pusat ,1752
+20100156,SMKN 54 JAKARTA,SMK,Kemayoran,Jakarta Pusat ,968
+20100157,SMKN 44 JAKARTA,SMK,Kemayoran,Jakarta Pusat ,634
+20100158,SMKN 14 JAKARTA,SMK,Johar Baru,Jakarta Pusat ,911
+20100159,SMKN 16 JAKARTA,SMK,Menteng,Jakarta Pusat ,637
+20100160,SMKN 19 JAKARTA,SMK,Tanah Abang,Jakarta Pusat ,670
+20100161,SMKN 2 JAKARTA,SMK,Gambir,Jakarta Pusat ,707
+20100162,SMKN 21 JAKARTA,SMK,Kemayoran,Jakarta Pusat ,552
+20100164,SMKN 3 JAKARTA,SMK,Kemayoran,Jakarta Pusat ,526
+20100165,SMKN 31 JAKARTA,SMK,Johar Baru,Jakarta Pusat ,619
+20100166,SMKN 34 JAKARTA,SMK,Senen,Jakarta Pusat ,661
+20100167,SMKN 38 JAKARTA,SMK,Tanah Abang,Jakarta Pusat ,548
+20100168,SMKN 39 JAKARTA,SMK,Cempaka Putih,Jakarta Pusat ,891
+20100199,SMAN 68 JAKARTA,SMA,Senen,Jakarta Pusat ,887
+20100200,SMAN 7 JAKARTA,SMA,Tanah Abang,Jakarta Pusat ,718
+20100201,SMAN 77 JAKARTA,SMA,Cempaka Putih,Jakarta Pusat ,666
+20100210,SMAN 5 JAKARTA,SMA,Kemayoran,Jakarta Pusat ,883
+20100211,SMAN 4 JAKARTA,SMA,Gambir,Jakarta Pusat ,622
+20100212,SMAN 35 JAKARTA,SMA,Tanah Abang,Jakarta Pusat ,718
+20100216,SMAN 1 JAKARTA,SMA,Sawah Besar,Jakarta Pusat ,884
+20100217,SMAN 10 JAKARTA,SMA,Sawah Besar,Jakarta Pusat ,544
+20100218,SMAN 20 JAKARTA,SMA,Sawah Besar,Jakarta Pusat ,536
+20100219,SMAN 24 JAKARTA,SMA,Tanah Abang,Jakarta Pusat ,512
+20100221,SMAN 25 JAKARTA,SMA,Gambir,Jakarta Pusat ,558
+20100223,SMAN 27 JAKARTA,SMA,Johar Baru,Jakarta Pusat ,777
+20100224,SMAN 30 JAKARTA,SMA,Cempaka Putih,Jakarta Pusat ,888
+20100228,SMP NEGERI 137 JAKARTA,SMP,Cempaka Putih,Jakarta Pusat ,672
+20100230,SMP Negeri 156,SMP,Johar Baru,Jakarta Pusat ,783
+20100231,SMP Negeri 17,SMP,Sawah Besar,Jakarta Pusat ,536
+20100232,SMP Negeri 18,SMP,Menteng,Jakarta Pusat ,766
+20100233,SMP NEGERI 181 JAKARTA,SMP,Tanah Abang,Jakarta Pusat ,636
+20100235,SMP NEGERI 183,SMP,Kemayoran,Jakarta Pusat ,574
+20100236,SMPN 2 JAKARTA,SMP,Johar Baru,Jakarta Pusat ,874
+20100237,SMP Negeri 216,SMP,Senen,Jakarta Pusat ,1046
+20100238,SMP Negeri 228,SMP,Kemayoran,Jakarta Pusat ,888
+20100240,SMP NEGERI 119,SMP,Kemayoran,Jakarta Pusat ,776
+20100241,SMP Negeri 118,SMP,Cempaka Putih,Jakarta Pusat ,656
+20100251,SMP NEGERI 1 JAKARTA,SMP,Menteng,Jakarta Pusat ,779
+20100252,SMP Negeri 10,SMP,Kemayoran,Jakarta Pusat ,775
+20100253,SMP Negeri 269,SMP,Kemayoran,Jakarta Pusat ,744
+20100255,SMP Negeri 273,SMP,Tanah Abang,Jakarta Pusat ,736
+20100256,SMP NEGERI 76 JAKARTA,SMP,Johar Baru,Jakarta Pusat ,662
+20100257,SMP Negeri 77,SMP,Cempaka Putih,Jakarta Pusat ,668
+20100258,SMP NEGERI 78,SMP,Kemayoran,Jakarta Pusat ,555
+20100259,SMP Negeri 79,SMP,Kemayoran,Jakarta Pusat ,784
+20100260,SMP NEGERI 8 JAKARTA,SMP,Menteng,Jakarta Pusat ,719
+20100261,SMP Negeri 93,SMP,Kemayoran,Jakarta Pusat ,648
+20100262,SMP Negeri 94,SMP,Gambir,Jakarta Pusat ,436
+20100267,SMP Negeri 72,SMP,Gambir,Jakarta Pusat ,441
+20100269,SMP Negeri 70,SMP,Tanah Abang,Jakarta Pusat ,647
+20100270,SMP Negeri 28,SMP,Johar Baru,Jakarta Pusat ,776
+20100271,SMP Negeri 280,SMP,Menteng,Jakarta Pusat ,497
+20100272,SMP Negeri 38,SMP,Tanah Abang,Jakarta Pusat ,668
+20100274,SMP Negeri 4,SMP,Sawah Besar,Jakarta Pusat ,682
+20100275,SMP Negeri 40 SSN,SMP,Tanah Abang,Jakarta Pusat ,856
+20100276,SMP Negeri 47 Jakarta,SMP,Cempaka Putih,Jakarta Pusat ,669
+20100277,SMP Negeri 5,SMP,Sawah Besar,Jakarta Pusat ,593
+20100278,SMP Negeri 59,SMP,Kemayoran,Jakarta Pusat ,667
+20100279,SMP Negeri 60,SMP,Gambir,Jakarta Pusat ,475
+20100280,SMP Negeri 64,SMP,Sawah Besar,Jakarta Pusat ,539
+20100370,SDN Bungur 01,SD,Senen,Jakarta Pusat ,382
+20100372,SDN Bungur 03 Pg.,SD,Senen,Jakarta Pusat ,441
+20100374,SD NEGERI CEMPAKA PUTIH BARAT 01 PAGI,SD,Cempaka Putih,Jakarta Pusat ,577
+20100375,SDN Cempaka Putih Barat 03 Pg,SD,Cempaka Putih,Jakarta Pusat ,583
+20100377,SDSN CEMPAKA PUTIH BARAT 05,SD,Cempaka Putih,Jakarta Pusat ,300
+20100378,SDN Cempaka Putih Barat 07 Pg.,SD,Cempaka Putih,Jakarta Pusat ,466
+20100379,SDN BENDUNGAN HILIR 09 PAGI,SD,Tanah Abang,Jakarta Pusat ,368
+20100390,SDN BENDUNGAN HILIR 01,SD,Tanah Abang,Jakarta Pusat ,686
+20100392,SDN BENDUNGAN HILIR 05 PAGI,SD,Tanah Abang,Jakarta Pusat ,333
+20100459,SDN Paseban 03 Pg.,SD,Senen,Jakarta Pusat ,334
+20100460,SDN Paseban 05 Pagi,SD,Senen,Jakarta Pusat ,358
+20100464,SDN PASAR BARU 05,SD,Sawah Besar,Jakarta Pusat ,291
+20100466,SDN Kramat 05 Pagi,SD,Senen,Jakarta Pusat ,146
+20100467,SDN Kramat 06 Pg.,SD,Senen,Jakarta Pusat ,238
+20100468,SDN Kramat 07 Pt.,SD,Senen,Jakarta Pusat ,240
+20100469,SDN KRAMAT 08 PAGI,SD,Senen,Jakarta Pusat ,176
+20100473,SDN MANGGA DUA SELATAN 03 PG.,SD,Sawah Besar,Jakarta Pusat ,212
+20100476,SDN Pasar Baru 03 Pg.,SD,Sawah Besar,Jakarta Pusat ,404
+20100477,SDN Paseban 09 Pg.,SD,Senen,Jakarta Pusat ,200
+20100480,SD NEGERI RAWASARI 03 PAGI,SD,Cempaka Putih,Jakarta Pusat ,209
+20100496,SDN Paseban 18 Pg.,SD,Senen,Jakarta Pusat ,274
+20100501,SDN Petamburan 03 Pagi,SD,Tanah Abang,Jakarta Pusat ,443
+20100513,SDN Karang Anyar 02 PT,SD,Sawah Besar,Jakarta Pusat ,174
+20100514,SD NEGERI KARANG ANYAR 03 PG,SD,Sawah Besar,Jakarta Pusat ,243
+20100515,SD NEGERI KARANG ANYAR 04 PT,SD,Sawah Besar,Jakarta Pusat ,183
+20100516,SD NEGERI KARANG ANYAR 06 PT,SD,Sawah Besar,Jakarta Pusat ,164
+20100517,SDN KARANG ANYAR 07 PAGI,SD,Sawah Besar,Jakarta Pusat ,280
+20100521,SDN Cempaka Putih Barat 15 Pg.,SD,Cempaka Putih,Jakarta Pusat ,421
+20100522,SD NEGERI CEMPAKA PUTIH BARAT 17 PAGI,SD,Cempaka Putih,Jakarta Pusat ,543
+20100523,SDN Cempaka Putih Barat 19 Pg.,SD,Cempaka Putih,Jakarta Pusat ,546
+20100528,SD NEGERI CEMPAKA PUTIH TIMUR 01PG,SD,Cempaka Putih,Jakarta Pusat ,455
+20100530,SD NEGERI CEMPAKA PUTIH TIMUR 03 PAGI,SD,Cempaka Putih,Jakarta Pusat ,412
+20100532,SDN Karang Anyar 08 Pg.,SD,Sawah Besar,Jakarta Pusat ,204
+20100539,SDN Kenari 07,SD,Senen,Jakarta Pusat ,529
+20100545,SDN Kramat 01,SD,Senen,Jakarta Pusat ,335
+20100550,SDN Karet Tengsin 15,SD,Tanah Abang,Jakarta Pusat ,355
+20100552,SD NEGERI KARET TENGSIN 21 PG,SD,Tanah Abang,Jakarta Pusat ,194
+20100565,SDN Tugu Selatan 03 Pg.,SD,Koja,Jakarta Utara ,538
+20100568,SDN Tugu Selatan 01 Pg,SD,Koja,Jakarta Utara ,516
+20100575,SDN TUGU UTARA 09.,SD,Koja,Jakarta Utara ,498
+20100577,SD NEGERI TUGU UTARA 11,SD,Koja,Jakarta Utara ,494
+20100579,SD NEGERI SUNTER JAYA 03 PG,SD,Tanjung Priok,Jakarta Utara ,584
+20100582,SDN Semper Barat 09 Pagi,SD,Cilincing,Jakarta Utara ,709
+20100584,SDN Semper Barat 11 Pg.,SD,Cilincing,Jakarta Utara ,755
+20100586,SDN SEMPER BARAT 13,SD,Cilincing,Jakarta Utara ,639
+20100591,SD NEGERI SEMPER TIMUR 05 PG JAKARTA,SD,Cilincing,Jakarta Utara ,351
+20100593,SDN Sukapura 01 Pg.,SD,Cilincing,Jakarta Utara ,388
+20100596,SD NEGERI SUKAPURA 04 PG,SD,Cilincing,Jakarta Utara ,319
+20100597,SDN SEMPER BARAT 08 PETANG,SD,Cilincing,Jakarta Utara ,347
+20100598,SDN Tugu Utara 13 Pg.,SD,Koja,Jakarta Utara ,290
+20100618,SDN TUGU UTARA 14 PAGI,SD,Koja,Jakarta Utara ,279
+20100619,SDN Tugu Utara 15 Pg.,SD,Koja,Jakarta Utara ,679
+20100622,SDN Tugu Utara 19 Pg.,SD,Koja,Jakarta Utara ,411
+20100624,SDN Tugu Utara 21 Pg.,SD,Koja,Jakarta Utara ,317
+20100625,SDN TUGU UTARA 22,SD,Koja,Jakarta Utara ,615
+20100633,SD NEGERI SEMPER BARAT 07 PG,SD,Cilincing,Jakarta Utara ,334
+20100636,SDN Penjaringan 06 Pg.,SD,Penjaringan,Jakarta Utara ,1339
+20100638,SDN PENJARINGAN 08 PAGI,SD,Penjaringan,Jakarta Utara ,373
+20100639,SD NEGERI PENJARINGAN 10 PG,SD,Penjaringan,Jakarta Utara ,370
+20100645,SDN Rawa Badak Selatan 01 Pg.,SD,Koja,Jakarta Utara ,664
+20100647,SD NEGERI RAWA BADAK SELATAN 03 PG JAKARTA,SD,Koja,Jakarta Utara ,476
+20100648,SD NEGERI RAWA BADAK SELATAN 05,SD,Koja,Jakarta Utara ,406
+20100651,SD NEGERI PENJARINGAN 03,SD,Penjaringan,Jakarta Utara ,1330
+20100652,SD NEGERI PENJARINGAN 01,SD,Penjaringan,Jakarta Utara ,630
+20100653,SDN Pademangan Timur 05 Pg.,SD,Pademangan,Jakarta Utara ,752
+20100654,SDN Pademangan Timur 06 Pg.,SD,Pademangan,Jakarta Utara ,599
+20100659,SDN Pejagalan 03 Pg.,SD,Penjaringan,Jakarta Utara ,506
+20100664,SDN Pejagalan 09 Pg.,SD,Penjaringan,Jakarta Utara ,536
+20100669,SDN Rawa Badak Selatan 07,SD,Koja,Jakarta Utara ,499
+20100671,SDN Rawa Badak Utara 19 Pg.,SD,Koja,Jakarta Utara ,529
+20100673,SDN Rawa Badak Utara 21,SD,Koja,Jakarta Utara ,282
+20100677,SDN ROROTAN 01,SD,Cilincing,Jakarta Utara ,574
+20100679,SDN Rorotan 02 Pg.,SD,Cilincing,Jakarta Utara ,313
+20100681,SDN Rorotan 05,SD,Cilincing,Jakarta Utara ,502
+20100682,SDN Semper Barat 01 Pg.,SD,Cilincing,Jakarta Utara ,334
+20100683,SDN Semper Barat 02 Pt.,SD,Cilincing,Jakarta Utara ,308
+20100684,SDN Semper Barat 03 Pg.,SD,Cilincing,Jakarta Utara ,674
+20100686,SDN SEMPER BARAT 05,SD,Cilincing,Jakarta Utara ,531
+20100689,SDN Rawa Badak Utara 15 Pg.,SD,Koja,Jakarta Utara ,478
+20100690,SD NEGERI RAWA BADAK SELATAN 09 PG JAKARTA,SD,Koja,Jakarta Utara ,460
+20100691,SD NEGERI RAWA BADAK SELATAN 11 PG JAKARTA,SD,Koja,Jakarta Utara ,637
+20100693,SD Standar Nasional Rawa Badak Utara 01 Pg.,SD,Koja,Jakarta Utara ,633
+20100695,SDN Rawa Badak Utara 03 Pg.,SD,Koja,Jakarta Utara ,414
+20100697,SDN RAWA BADAK UTARA 05 PAGI,SD,Koja,Jakarta Utara ,477
+20100699,SD NEGERI RAWA BADAK UTARA 07 PG JAKARTA,SD,Koja,Jakarta Utara ,406
+20100702,SD NEGERI RAWA BADAK UTARA 11 PAGI,SD,Koja,Jakarta Utara ,476
+20100704,SDN Rawa Badak Utara 13 Pg.,SD,Koja,Jakarta Utara ,545
+20100717,SMP NEGERI 112 JAKARTA,SMP,Penjaringan,Jakarta Utara ,742
+20100718,SMP NEGERI 113 JAKARTA,SMP,Pademangan,Jakarta Utara ,467
+20100719,SMP Negeri 114,SMP,Koja,Jakarta Utara ,918
+20100720,SMP NEGERI 116 JAKARTA,SMP,Tanjung Priok,Jakarta Utara ,655
+20100721,SMP Negeri 120,SMP,Penjaringan,Jakarta Utara ,789
+20100740,SMP NEGERI 121 JAKARTA,SMP,Koja,Jakarta Utara ,662
+20100741,SMP NEGERI 122 JAKARTA,SMP,Penjaringan,Jakarta Utara ,889
+20100742,SMP NEGERI 270 JAKARTA,SMP,Kelapa Gading,Jakarta Utara ,660
+20100743,SMP NEGERI 277 JAKARTA,SMP,Koja,Jakarta Utara ,678
+20100744,SMP NEGERI 279 JAKARTA,SMP,Koja,Jakarta Utara ,672
+20100745,SMP Negeri 282,SMP,Tanjung Priok,Jakarta Utara ,578
+20100746,SMP Negeri 30,SMP,Koja,Jakarta Utara ,821
+20100747,SMP NEGERI 34 JAKARTA,SMP,Pademangan,Jakarta Utara ,889
+20100748,SMP Negeri 42,SMP,Pademangan,Jakarta Utara ,706
+20100749,SMP Negeri 53,SMP,Cilincing,Jakarta Utara ,916
+20100750,SMP Negeri 55,SMP,Tanjung Priok,Jakarta Utara ,892
+20100751,SMP NEGERI 65 JAKARTA,SMP,Tanjung Priok,Jakarta Utara ,697
+20100752,SMP Negeri 84,SMP,Koja,Jakarta Utara ,837
+20100753,SMP Negeri 95,SMP,Tanjung Priok,Jakarta Utara ,870
+20100757,SMP NEGERI 266 JAKARTA,SMP,Cilincing,Jakarta Utara ,796
+20100758,SMP Negeri 261,SMP,Penjaringan,Jakarta Utara ,944
+20100759,SMP NEGERI 244 JAKARTA,SMP,Cilincing,Jakarta Utara ,884
+20100760,SMP NEGERI 123 JAKARTA,SMP,Kelapa Gading,Jakarta Utara ,673
+20100761,SMP NEGERI 129 JAKARTA,SMP,Tanjung Priok,Jakarta Utara ,858
+20100762,SMP NEGERI 140 JAKARTA,SMP,Tanjung Priok,Jakarta Utara ,613
+20100763,SMP Negeri 143,SMP,Cilincing,Jakarta Utara ,871
+20100764,SMP NEGERI 151 JAKARTA,SMP,Koja,Jakarta Utara ,808
+20100765,SMP Negeri 152,SMP,Tanjung Priok,Jakarta Utara ,589
+20100766,SMP NEGERI 162 JAKARTA,SMP,Cilincing,Jakarta Utara ,842
+20100767,SMP Negeri 170,SMP,Kelapa Gading,Jakarta Utara ,675
+20100768,SMP NEGERI 173 JAKARTA,SMP,Koja,Jakarta Utara ,887
+20100769,SMP Negeri 200,SMP,Cilincing,Jakarta Utara ,855
+20100770,SMP NEGERI 21 JAKARTA,SMP,Penjaringan,Jakarta Utara ,892
+20100771,SMP Negeri 221,SMP,Tanjung Priok,Jakarta Utara ,718
+20100772,SMP NEGERI 23 JAKARTA,SMP,Pademangan,Jakarta Utara ,627
+20100773,SMP NEGERI 231 JAKARTA,SMP,Cilincing,Jakarta Utara ,997
+20100779,SMAN 75 JAKARTA,SMA,Cilincing,Jakarta Utara ,777
+20100780,SMAN 80 JAKARTA,SMA,Tanjung Priok,Jakarta Utara ,813
+20100781,SMAN 83 JAKARTA,SMA,Cilincing,Jakarta Utara ,654
+20100782,SMAN 92 JAKARTA,SMA,Cilincing,Jakarta Utara ,839
+20100783,SMKN 12 JAKARTA,SMK,Tanjung Priok,Jakarta Utara ,701
+20100795,SMAN 73 JAKARTA,SMA,Cilincing,Jakarta Utara ,694
+20100796,SMAN 72 JAKARTA,SMA,Kelapa Gading,Jakarta Utara ,794
+20100797,SMAN 52 JAKARTA,SMA,Cilincing,Jakarta Utara ,895
+20100802,SMAN 110 JAKARTA,SMA,Koja,Jakarta Utara ,880
+20100803,SMAN 111 JAKARTA,SMA,Penjaringan,Jakarta Utara ,548
+20100804,SMAN 114 JAKARTA,SMA,Cilincing,Jakarta Utara ,546
+20100805,SMAN 115 JAKARTA,SMA,Cilincing,Jakarta Utara ,575
+20100806,SMAN 13 JAKARTA,SMA,Koja,Jakarta Utara ,962
+20100807,SMAN 15 JAKARTA,SMA,Tanjung Priok,Jakarta Utara ,665
+20100809,SMAN 18 JAKARTA,SMA,Tanjung Priok,Jakarta Utara ,778
+20100810,SMAN 40 JAKARTA,SMA,Pademangan,Jakarta Utara ,733
+20100811,SMAN 41 JAKARTA,SMA,Tanjung Priok,Jakarta Utara ,702
+20100812,SMAN 45 JAKARTA,SMA,Kelapa Gading,Jakarta Utara ,873
+20100994,SDN Cilincing 11 Pt.,SD,Cilincing,Jakarta Utara ,320
+20100997,SDN KALIBARU 03,SD,Cilincing,Jakarta Utara ,484
+20101001,SDN Kali Baru 05 Pagi,SD,Cilincing,Jakarta Utara ,561
+20101003,SD Negeri Kalibaru 07 Pagi,SD,Cilincing,Jakarta Utara ,764
+20101005,SDN KALIBARU 09,SD,Cilincing,Jakarta Utara ,669
+20101009,SD KAPUK MUARA 01 PG,SD,Penjaringan,Jakarta Utara ,546
+20101010,SDN CILINCING 09,SD,Cilincing,Jakarta Utara ,469
+20101013,SDN CILINCING 06,SD,Cilincing,Jakarta Utara ,414
+20101026,SDN Cilincing 03,SD,Cilincing,Jakarta Utara ,416
+20101028,SD NEGERI CILINCING 05 PG,SD,Cilincing,Jakarta Utara ,336
+20101031,SDN Pademangan Barat 01 Pg.,SD,Pademangan,Jakarta Utara ,570
+20101033,SDN Pademangan Barat 03 Pg.,SD,Pademangan,Jakarta Utara ,1238
+20101035,SDN Pademangan Barat 05 Pg.,SD,Pademangan,Jakarta Utara ,219
+20101036,SDN Pademangan Barat 07 Pg.,SD,Pademangan,Jakarta Utara ,543
+20101044,SDN Pademangan Timur 01 Pg.,SD,Pademangan,Jakarta Utara ,457
+20101054,SDN Lagoa 02 Pg.,SD,Koja,Jakarta Utara ,563
+20101057,SDN Lagoa 05 Pg.,SD,Koja,Jakarta Utara ,633
+20101059,SDN Lagoa 07 Pg.,SD,Koja,Jakarta Utara ,486
+20101061,SD NEGERI LAGOA 09 PG JAKARTA,SD,Koja,Jakarta Utara ,427
+20101062,SDN LAGOA 11,SD,Koja,Jakarta Utara ,560
+20101064,SDN Pademangan Timur 03 Pg.,SD,Pademangan,Jakarta Utara ,956
+20101170,SD NEGERI TOMANG 08 PAGI,SD,Grogol Petamburan,Jakarta Barat ,228
+20101172,SD NEGERI TOMANG 03 PAGI,SD,Grogol Petamburan,Jakarta Barat ,398
+20101188,SD NEGERI SUKABUMI UTARA 03 PAGI,SD,Kebon Jeruk,Jakarta Barat ,428
+20101199,SD NEGERI SUKABUMI UTARA 04 PAGI,SD,Kebon Jeruk,Jakarta Barat ,237
+20101359,SD NEGERI MANGGA BESAR 03 PG,SD,Taman Sari,Jakarta Barat ,183
+20101361,SD NEGERI KRUKUT 03 PG,SD,Taman Sari,Jakarta Barat ,188
+20101362,SD NEGERI KRUKUT 01 PG,SD,Taman Sari,Jakarta Barat ,214
+20101370,SD NEGERI MANGGA BESAR 07 PG,SD,Taman Sari,Jakarta Barat ,190
+20101373,SD NEGERI MERUYA UTARA 05 PAGI,SD,Kembangan,Jakarta Barat ,542
+20101374,SD NEGERI MERUYA UTARA 04 PT,SD,Kembangan,Jakarta Barat ,288
+20101393,SD NEGERI KEMANGGISAN 12,SD,Palmerah,Jakarta Barat ,218
+20101394,SD NEGERI KEMANGGISAN 10 PAGI,SD,Palmerah,Jakarta Barat ,320
+20101395,SD NEGERI KEMANGGISAN 08 PAGI,SD,Palmerah,Jakarta Barat ,190
+20101402,SD NEGERI KEMBANGAN UTARA 11 PETANG,SD,Kembangan,Jakarta Barat ,348
+20101406,SD NEGERI KEMBANGAN UTARA 06 PAGI,SD,Kembangan,Jakarta Barat ,394
+20101410,SD NEGERI KEMANGGISAN 06 PAGI,SD,Palmerah,Jakarta Barat ,277
+20101412,SD NEGERI RAWA BUAYA 04 PT,SD,Cengkareng,Jakarta Barat ,324
+20101413,SD NEGERI RAWA BUAYA 02 PG,SD,Cengkareng,Jakarta Barat ,326
+20101414,SDN Rawa Buaya 01 Pg.,SD,Cengkareng,Jakarta Barat ,389
+20101415,SD NEGERI PINANGSIA 06 PG,SD,Taman Sari,Jakarta Barat ,195
+20101417,SD NEGERI PINANGSIA 03,SD,Taman Sari,Jakarta Barat ,339
+20101419,SD Negeri Pinangsia 01 Pg.,SD,Taman Sari,Jakarta Barat ,490
+20101424,SD NEGERI RAWA BUAYA 07 PG,SD,Cengkareng,Jakarta Barat ,356
+20101425,SD NEGERI RAWA BUAYA 08 PG,SD,Cengkareng,Jakarta Barat ,396
+20101428,SD NEGERI SLIPI 15 PAGI,SD,Palmerah,Jakarta Barat ,249
+20101436,SD NEGERI RAWA BUAYA 09 PG,SD,Cengkareng,Jakarta Barat ,387
+20101437,SDN Pekojan 04 Petang,SD,Tambora,Jakarta Barat ,168
+20101446,SD NEGERI MERUYA UTARA 15 PT,SD,Kembangan,Jakarta Barat ,304
+20101447,SD NEGERI MERUYA UTARA 13 PAGI,SD,Kembangan,Jakarta Barat ,310
+20101449,SD NEGERI MERUYA UTARA 11 PETANG,SD,Kembangan,Jakarta Barat ,233
+20101452,SD NEGERI PALMERAH 13 PAGI,SD,Palmerah,Jakarta Barat ,417
+20101460,SD NEGERI PALMERAH 23 PAGI,SD,Palmerah,Jakarta Barat ,350
+20101461,SD NEGERI PALMERAH 22 PAGI,SD,Palmerah,Jakarta Barat ,277
+20101462,SD NEGERI PALMERAH 21 PAGI,SD,Palmerah,Jakarta Barat ,245
+20101463,SD NEGERI PALMERAH 20 PAGI,SD,Palmerah,Jakarta Barat ,227
+20101496,SMKN 9 JAKARTA,SMK,Tambora,Jakarta Barat ,723
+20101497,SMKN 60 JAKARTA,SMK,Kebon Jeruk,Jakarta Barat ,626
+20101498,SMKN 53 JAKARTA,SMK,Taman Sari,Jakarta Barat ,1127
+20101499,SMKN 45 JAKARTA,SMK,Kebon Jeruk,Jakarta Barat ,787
+20101500,SMKN 42 JAKARTA,SMK,Cengkareng,Jakarta Barat ,782
+20101501,SMKN 35 JAKARTA,SMK,Taman Sari,Jakarta Barat ,986
+20101502,SMKN 17 JAKARTA,SMK,Palmerah,Jakarta Barat ,639
+20101503,SMKN 13 JAKARTA,SMK,Palmerah,Jakarta Barat ,1066
+20101504,SMKN 11 JAKARTA,SMK,Taman Sari,Jakarta Barat ,633
+20101522,SMP Negeri 89 SSN JAKARTA,SMP,Grogol Petamburan,Jakarta Barat ,883
+20101523,SMP Negeri 249,SMP,Cengkareng,Jakarta Barat ,907
+20101524,SMP NEGERI 248 JAKARTA,SMP,Cengkareng,Jakarta Barat ,780
+20101526,SMP Negeri 225,SMP,Kali Deres,Jakarta Barat ,862
+20101527,SMP NEGERI 224 JAKARTA,SMP,Kali Deres,Jakarta Barat ,516
+20101528,SMP NEGERI 220 JAKARTA,SMP,Kebon Jeruk,Jakarta Barat ,715
+20101529,SMP NEGERI 22 JAKARTA,SMP,Taman Sari,Jakarta Barat ,760
+20101530,SMP NEGERI 219,SMP,Kembangan,Jakarta Barat ,815
+20101531,SMP Negeri 215,SMP,Kembangan,Jakarta Barat ,893
+20101532,SMP Negeri 207,SMP,Kembangan,Jakarta Barat ,781
+20101533,SMP Negeri 206,SMP,Kembangan,Jakarta Barat ,745
+20101534,SMP Negeri 264,SMP,Cengkareng,Jakarta Barat ,826
+20101535,SMP Negeri 271,SMP,Kebon Jeruk,Jakarta Barat ,875
+20101536,SMP NEGERI 274 JAKARTA,SMP,Grogol Petamburan,Jakarta Barat ,616
+20101537,SMP NEGERI 88 JAKARTA,SMP,Palmerah,Jakarta Barat ,893
+20101538,SMP NEGERI 83 JAKARTA,SMP,Grogol Petamburan,Jakarta Barat ,601
+20101539,SMP NEGERI 82 JAKARTA,SMP,Grogol Petamburan,Jakarta Barat ,886
+20101540,SMP Negeri 75 Jakarta,SMP,Kebon Jeruk,Jakarta Barat ,701
+20101541,SMP NEGERI 69 JAKARTA,SMP,Grogol Petamburan,Jakarta Barat ,768
+20101542,SMP NEGERI 63,SMP,Tambora,Jakarta Barat ,733
+20101543,SMP NEGERI 61 JAKARTA,SMP,Palmerah,Jakarta Barat ,657
+20101544,SMP NEGERI 54 JAKARTA,SMP,Taman Sari,Jakarta Barat ,805
+20101545,SMP NEGERI 45 JAKARTA,SMP,Cengkareng,Jakarta Barat ,856
+20101546,SMP Negeri 32,SMP,Tambora,Jakarta Barat ,862
+20101547,SMP NEGERI 278 JAKARTA,SMP,Kali Deres,Jakarta Barat ,527
+20101548,SMP NEGERI 205 JAKARTA,SMP,Kali Deres,Jakarta Barat ,779
+20101549,SMP NEGERI 204,SMP,Kali Deres,Jakarta Barat ,662
+20101550,SMP NEGERI 130 JAKARTA,SMP,Palmerah,Jakarta Barat ,689
+20101551,SMP Negeri 127,SMP,Kebon Jeruk,Jakarta Barat ,780
+20101552,SMP Negeri 125,SMP,Kali Deres,Jakarta Barat ,662
+20101553,SMP Negeri 111,SMP,Palmerah,Jakarta Barat ,960
+20101554,SMP Negeri 108,SMP,Cengkareng,Jakarta Barat ,882
+20101556,SMP NEGERI 105 JAKARTA,SMP,Kembangan,Jakarta Barat ,771
+20101557,SMP NEGERI 101 JAKARTA,SMP,Palmerah,Jakarta Barat ,884
+20101558,SMP Negeri 100,SMP,Cengkareng,Jakarta Barat ,520
+20101562,SMP NEGERI 132 JAKARTA,SMP,Cengkareng,Jakarta Barat ,770
+20101563,SMP NEGERI 134 JAKARTA,SMP,Kembangan,Jakarta Barat ,739
+20101564,SMP NEGERI 142 JAKARTA,SMP,Kembangan,Jakarta Barat ,884
+20101565,SMP Negeri 201,SMP,Cengkareng,Jakarta Barat ,789
+20101566,SMP NEGERI 197 JAKARTA,SMP,Kebon Jeruk,Jakarta Barat ,671
+20101568,SMP NEGERI 191 JAKARTA,SMP,Kebon Jeruk,Jakarta Barat ,871
+20101569,SMP Negeri 190,SMP,Kali Deres,Jakarta Barat ,668
+20101570,SMP Negeri 189,SMP,Kebon Jeruk,Jakarta Barat ,775
+20101571,SMP NEGERI 187 JAKARTA,SMP,Kali Deres,Jakarta Barat ,663
+20101572,SMP Negeri 186,SMP,Kali Deres,Jakarta Barat ,882
+20101573,SMP Negeri 176,SMP,Cengkareng,Jakarta Barat ,704
+20101574,SMP Negeri 169,SMP,Kali Deres,Jakarta Barat ,649
+20101576,SMP NEGERI 159 JAKARTA,SMP,Tambora,Jakarta Barat ,650
+20101583,SMAN 96 JAKARTA,SMA,Cengkareng,Jakarta Barat ,775
+20101584,SMAN 95 JAKARTA,SMA,Kali Deres,Jakarta Barat ,1002
+20101585,SMAN 94 JAKARTA,SMA,Kali Deres,Jakarta Barat ,667
+20101586,SMAN 85 JAKARTA,SMA,Kembangan,Jakarta Barat ,776
+20101587,SMAN 84 JAKARTA,SMA,Kali Deres,Jakarta Barat ,777
+20101588,SMAN 78 JAKARTA,SMA,Palmerah,Jakarta Barat ,1214
+20101589,SMAN 65 JAKARTA,SMA,Kebon Jeruk,Jakarta Barat ,631
+20101604,SMAN 57 JAKARTA,SMA,Kebon Jeruk,Jakarta Barat ,667
+20101605,SMAN 56 JAKARTA,SMA,Kali Deres,Jakarta Barat ,691
+20101620,SMAN 33 JAKARTA,SMA,Cengkareng,Jakarta Barat ,780
+20101621,SMAN 23 JAKARTA,SMA,Grogol Petamburan,Jakarta Barat ,703
+20101622,SMAN 2 JAKARTA,SMA,Taman Sari,Jakarta Barat ,741
+20101623,SMAN 19 JAKARTA,SMA,Tambora,Jakarta Barat ,622
+20101624,SMAN 17 JAKARTA,SMA,Taman Sari,Jakarta Barat ,731
+20101625,SMAN 16 JAKARTA,SMA,Palmerah,Jakarta Barat ,771
+20101626,SMAN 112 JAKARTA,SMA,Kembangan,Jakarta Barat ,820
+20101627,SMAN 101 JAKARTA,SMA,Kembangan,Jakarta Barat ,830
+20101912,SD NEGERI JOGLO 08 PG,SD,Kembangan,Jakarta Barat ,307
+20101913,SD NEGERI JOGLO 06 PAGI,SD,Kembangan,Jakarta Barat ,270
+20101915,SD NEGERI JOGLO 04 PT,SD,Kembangan,Jakarta Barat ,301
+20101916,SD NEGERI JOGLO 03 PG,SD,Kembangan,Jakarta Barat ,382
+20101917,SDN JEMBATAN LIMA 04 PETANG,SD,Tambora,Jakarta Barat ,217
+20101921,SDN Jembatan Besi 04 Pt.,SD,Tambora,Jakarta Barat ,277
+20101924,SDN Kali Anyar 02 Pt.,SD,Tambora,Jakarta Barat ,249
+20101925,SD NEGERI KAPUK 13 PT,SD,Cengkareng,Jakarta Barat ,384
+20101926,SDN KAPUK 12 PETANG,SD,Cengkareng,Jakarta Barat ,378
+20101929,SD NEGERI KAPUK 08 PT,SD,Cengkareng,Jakarta Barat ,379
+20101930,SD NEGERI KAPUK 07 PETANG,SD,Cengkareng,Jakarta Barat ,423
+20101932,SD NEGERI KAPUK 05 PG,SD,Cengkareng,Jakarta Barat ,314
+20101933,SD NEGERI KAPUK 04 PT,SD,Cengkareng,Jakarta Barat ,460
+20101935,SDN KALIDERES 02 PETANG,SD,Kali Deres,Jakarta Barat ,294
+20101939,SD NEGERI JELAMBAR 03 PG,SD,Grogol Petamburan,Jakarta Barat ,336
+20101940,SD NEGERI JELAMBAR 01 PG,SD,Grogol Petamburan,Jakarta Barat ,265
+20101942,SD NEGERI JATI PULO 08 PAGI,SD,Palmerah,Jakarta Barat ,360
+20101943,SD NEGERI JATI PULO 07,SD,Palmerah,Jakarta Barat ,372
+20101946,SD NEGERI JATI PULO 04 PETANG,SD,Palmerah,Jakarta Barat ,182
+20101947,SD NEGERI JATI PULO 03 PAGI,SD,Palmerah,Jakarta Barat ,320
+20101949,SD NEGERI JELAMBAR 06 PG,SD,Grogol Petamburan,Jakarta Barat ,336
+20101955,SD NEGERI JELAMBAR BARU 07,SD,Grogol Petamburan,Jakarta Barat ,330
+20101957,SD NEGERI JELAMBAR BARU 05 PG,SD,Grogol Petamburan,Jakarta Barat ,372
+20101961,SD NEGERI JELAMBAR BARU 01 PG,SD,Grogol Petamburan,Jakarta Barat ,327
+20101965,SD NEGERI KEDOYA UTARA 01,SD,Kebon Jeruk,Jakarta Barat ,582
+20101971,SDN KEDAUNG KALIANGKE 14,SD,Cengkareng,Jakarta Barat ,508
+20101972,SD NEGERI KEDAUNG KALIANGKE 13 PG,SD,Cengkareng,Jakarta Barat ,273
+20101973,SD NEGERI KEDAUNG KALI ANGKE 12 PG.,SD,Cengkareng,Jakarta Barat ,259
+20101980,SD NEGERI KEMANGGISAN 01 PAGI,SD,Palmerah,Jakarta Barat ,344
+20101981,SD NEGERI KELAPA DUA 06 PG,SD,Kebon Jeruk,Jakarta Barat ,255
+20101982,SD NEGERI KELAPA DUA 05 PG,SD,Kebon Jeruk,Jakarta Barat ,246
+20101984,SD NEGERI KELAPA DUA 03 PG,SD,Kebon Jeruk,Jakarta Barat ,433
+20101990,SD NEGERI KEDAUNG KALIANGKE 08 PG,SD,Cengkareng,Jakarta Barat ,284
+20101994,SD NEGERI KEBON JERUK 06 PG,SD,Kebon Jeruk,Jakarta Barat ,537
+20101996,SD NEGERI KEBON JERUK 04 PG,SD,Kebon Jeruk,Jakarta Barat ,608
+20102001,SD NEGERI KEAGUNGAN 04 PT,SD,Taman Sari,Jakarta Barat ,190
+20102002,SD NEGERI KEAGUNGAN 03 PG,SD,Taman Sari,Jakarta Barat ,198
+20102003,SD NEGERI KEAGUNGAN 02 PT,SD,Taman Sari,Jakarta Barat ,193
+20102004,SD NEGERI KEAGUNGAN 01 PG,SD,Taman Sari,Jakarta Barat ,183
+20102006,SD NEGERI KEBON JERUK 10,SD,Kebon Jeruk,Jakarta Barat ,532
+20102009,SD NEGERI KEDAUNG KALIANGKE 05 PG,SD,Cengkareng,Jakarta Barat ,364
+20102011,SD NEGERI KEDAUNG KALIANGKE 03 PG,SD,Cengkareng,Jakarta Barat ,317
+20102017,SD NEGERI KEBON JERUK 15 PG,SD,Kebon Jeruk,Jakarta Barat ,427
+20102020,SD NEGERI KAPUK 15 PAGI,SD,Cengkareng,Jakarta Barat ,628
+20102022,SD NEGERI CENGKARENG BARAT 04 PTG,SD,Cengkareng,Jakarta Barat ,267
+20102023,SD NEGERI CENGKARENG BARAT 03 PG,SD,Cengkareng,Jakarta Barat ,369
+20102025,SDN Angke 06 Pg.,SD,Tambora,Jakarta Barat ,282
+20102028,SD NEGERI ANGKE 03 PAGI,SD,Tambora,Jakarta Barat ,271
+20102034,SD NEGERI CENGKARENG BARAT 06 PT,SD,Cengkareng,Jakarta Barat ,245
+20102044,SD NEGERI CENGKARENG BARAT 11,SD,Cengkareng,Jakarta Barat ,512
+20102075,SD NEGERI GROGOL 07,SD,Grogol Petamburan,Jakarta Barat ,347
+20102077,SD NEGERI DURI KOSAMBI 07 PG,SD,Cengkareng,Jakarta Barat ,753
+20102080,SD NEGERI DURI KOSAMBI 04 PG,SD,Cengkareng,Jakarta Barat ,546
+20102082,SD NEGERI DURI KOSAMBI 02 PG,SD,Cengkareng,Jakarta Barat ,314
+20102083,SD NEGERI DURI KOSAMBI 01 PG,SD,Cengkareng,Jakarta Barat ,574
+20102085,SD NEGERI DURI KEPA 16 PG,SD,Kebon Jeruk,Jakarta Barat ,315
+20102087,SD NEGERI DURI KOSAMBI 09 PG,SD,Cengkareng,Jakarta Barat ,425
+20102096,SDN Duri Utara 06 Pt.,SD,Tambora,Jakarta Barat ,207
+20102100,SD NEGERI DURI UTARA 02 PETANG,SD,Tambora,Jakarta Barat ,205
+20102104,SDN CENGKARENG TIMUR 16 PETANG,SD,Cengkareng,Jakarta Barat ,356
+20102107,SD NEGERI CENGKARENG TIMUR 11 PT,SD,Cengkareng,Jakarta Barat ,238
+20102116,SD NEGERI CENGKARENG TIMUR 19 PT,SD,Cengkareng,Jakarta Barat ,285
+20102117,SD NEGERI CENGKARENG TIMUR 20 PT,SD,Cengkareng,Jakarta Barat ,251
+20102119,SD NEGERI DURI KEPA 11 PG,SD,Kebon Jeruk,Jakarta Barat ,436
+20102130,SD NEGERI CENGKARENG TIMUR 22 PT,SD,Cengkareng,Jakarta Barat ,295
+20102131,SD NEGERI PULO 05 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,164
+20102133,SDN Pulo 09 Pg.,SD,Kebayoran Baru,Jakarta Selatan ,170
+20102134,SD NEGERI RAGUNAN 01,SD,Pasar Minggu,Jakarta Selatan ,604
+20102140,SDN PONDOK PINANG 10 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,520
+20102144,SDN PONDOK PINANG 08 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,414
+20102145,SD NEGERI RAGUNAN 07 PAGI,SD,Pasar Minggu,Jakarta Selatan ,370
+20102146,SDN Ragunan 08 PAGI,SD,Pasar Minggu,Jakarta Selatan ,314
+20102147,SDN RAGUNAN 09 PAGI,SD,Pasar Minggu,Jakarta Selatan ,245
+20102148,SDN Rawajati 06 Pg.,SD,Pancoran,Jakarta Selatan ,245
+20102149,SDN Rawajati 05 Pagi,SD,Pancoran,Jakarta Selatan ,342
+20102150,SDN Rawajati 03 Pagi,SD,Pancoran,Jakarta Selatan ,405
+20102152,SDN Rawajati 01 Pg.,SD,Pancoran,Jakarta Selatan ,280
+20102156,SD NEGERI RAWA BARAT 05,SD,Kebayoran Baru,Jakarta Selatan ,444
+20102160,SD NEGERI RAGUNAN 10 PAGI,SD,Pasar Minggu,Jakarta Selatan ,215
+20102161,SDN Rawajati 07 Pg.,SD,Pancoran,Jakarta Selatan ,250
+20102173,SDN PENGADEGAN 07 PAGI,SD,Pancoran,Jakarta Selatan ,330
+20102180,SDN Pondok Pinang 05 Pg.,SD,Kebayoran Lama,Jakarta Selatan ,621
+20102184,SD NEGERI PETUKANGAN UTARA 10 PG,SD,Pesanggrahan,Jakarta Selatan ,493
+20102190,SDN Petukangan Utara 02,SD,Pesanggrahan,Jakarta Selatan ,480
+20102192,SD NEGERI PENGADEGAN 03,SD,Pancoran,Jakarta Selatan ,632
+20102193,SMAN 47 JAKARTA,SMA,Kebayoran Lama,Jakarta Selatan ,889
+20102195,SD NEGERI ULUJAMI 02,SD,Pesanggrahan,Jakarta Selatan ,447
+20102196,SD NEGERI ULUJAMI 01 PAGI,SD,Pesanggrahan,Jakarta Selatan ,383
+20102200,SDN Tegal Parang 06 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,347
+20102201,SDN Tegal Parang 05,SD,Mampang Prapatan,Jakarta Selatan ,209
+20102202,SD NEGERI TEGAL PARANG 03 PG,SD,Mampang Prapatan,Jakarta Selatan ,233
+20102203,SDN Tegal Parang 01 Pg,SD,Mampang Prapatan,Jakarta Selatan ,245
+20102207,SD NEGERI ULUJAMI 04 PAGI,SD,Pesanggrahan,Jakarta Selatan ,376
+20102208,SD NEGERI ULUJAMI 06 PAGI,SD,Pesanggrahan,Jakarta Selatan ,400
+20102209,SD NEGERI ULUJAMI 07 PAGI,SD,Pesanggrahan,Jakarta Selatan ,392
+20102210,SMAN 46 JAKARTA,SMA,Kebayoran Baru,Jakarta Selatan ,981
+20102211,SMAN 43 JAKARTA,SMA,Setia Budi,Jakarta Selatan ,663
+20102212,SMAN 38 JAKARTA,SMA,Jagakarsa,Jakarta Selatan ,779
+20102213,SMAN 37 JAKARTA,SMA,Tebet,Jakarta Selatan ,770
+20102214,SMAN 34 JAKARTA,SMA,Cilandak,Jakarta Selatan ,893
+20102215,SMAN 32 JAKARTA,SMA,Kebayoran Lama,Jakarta Selatan ,890
+20102216,SMAN 3 JAKARTA,SMA,Setia Budi,Jakarta Selatan ,987
+20102217,SMAN 29 JAKARTA,SMA,Kebayoran Lama,Jakarta Selatan ,775
+20102218,SMAN 26 JAKARTA,SMA,Tebet,Jakarta Selatan ,663
+20102219,SMAN 109 JAKARTA,SMA,Jagakarsa,Jakarta Selatan ,777
+20102230,SMAN 108 JAKARTA,SMA,Pesanggrahan,Jakarta Selatan ,554
+20102233,SD NEGERI TEBET TIMUR 17 PAGI,SD,Tebet,Jakarta Selatan ,555
+20102237,SD NEGERI TANJUNG BARAT 07 PAGI,SD,Jagakarsa,Jakarta Selatan ,600
+20102238,SDN Tanjung Barat 04 Pg,SD,Jagakarsa,Jakarta Selatan ,375
+20102239,SD NEGERI TANJUNG BARAT 03 PAGI,SD,Jagakarsa,Jakarta Selatan ,380
+20102246,SDN Srengseng Sawah 04,SD,Jagakarsa,Jakarta Selatan ,845
+20102247,SD NEGERI SRENGSENG SAWAH 01 PAGI,SD,Jagakarsa,Jakarta Selatan ,784
+20102248,SD NEGERI SELONG 04 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,92
+20102249,SD NEGERI TANJUNG BARAT 09 PAGI,SD,Jagakarsa,Jakarta Selatan ,651
+20102251,SD NEGERI TEBET BARAT 01 PAGI,SD,Tebet,Jakarta Selatan ,219
+20102253,SD NEGERI TEBET TIMUR 11 PAGI,SD,Tebet,Jakarta Selatan ,119
+20102255,SDN Tebet Timur 07,SD,Tebet,Jakarta Selatan ,468
+20102259,SDN TEBET TIMUR 01 PAGI,SD,Tebet,Jakarta Selatan ,248
+20102260,SD NEGERI TEBET BARAT 08 PAGI,SD,Tebet,Jakarta Selatan ,362
+20102263,SDN TEBET BARAT 05,SD,Tebet,Jakarta Selatan ,371
+20102264,SDN TEBET BARAT 03 PAGI,SD,Tebet,Jakarta Selatan ,92
+20102268,SDN Mampang Prapatan 03 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,204
+20102269,SDN Mampang Prapatan 02 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,364
+20102271,SDN Lenteng Agung 11,SD,Jagakarsa,Jakarta Selatan ,528
+20102275,SD NEGERI LENTENG AGUNG 07 PAGI,SD,Jagakarsa,Jakarta Selatan ,681
+20102276,SDN Lenteng Agung 05 Pg.,SD,Jagakarsa,Jakarta Selatan ,430
+20102278,SD NEGERI LENTENG AGUNG 03,SD,Jagakarsa,Jakarta Selatan ,507
+20102283,SD NEGERI MANGGARAI 01 PAGI,SD,Tebet,Jakarta Selatan ,372
+20102289,SDN Manggarai 09,SD,Tebet,Jakarta Selatan ,940
+20102295,SDN MANGGARAI 03,SD,Tebet,Jakarta Selatan ,280
+20102297,SD NEGERI KUNINGAN TIMUR 01,SD,Setia Budi,Jakarta Selatan ,85
+20102298,SDN Kuningan Barat 03 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,172
+20102299,SDN KEBON BARU 05,SD,Tebet,Jakarta Selatan ,278
+20102300,SD NEGERI KEBON BARU 03 PAGI,SD,Tebet,Jakarta Selatan ,343
+20102313,SD NEGERI KEBON BARU 07 PAGI,SD,Tebet,Jakarta Selatan ,514
+20102314,SD NEGERI KEBON BARU 09 PAGI,SD,Tebet,Jakarta Selatan ,780
+20102321,SD NEGERI KRAMAT PELA 09 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,407
+20102322,SDN Kramat Pela 07,SD,Kebayoran Baru,Jakarta Selatan ,392
+20102326,SDN KEBON BARU 11,SD,Tebet,Jakarta Selatan ,332
+20102334,SD NEGERI PEJATEN TIMUR 05 PG,SD,Pasar Minggu,Jakarta Selatan ,568
+20102350,SD NEGERI PASAR MINGGU 05 PG,SD,Pasar Minggu,Jakarta Selatan ,230
+20102358,SD N PELA MAMPANG 13 PG,SD,Mampang Prapatan,Jakarta Selatan ,250
+20102362,SD N PELA MAMPANG 09,SD,Mampang Prapatan,Jakarta Selatan ,248
+20102372,SD NEGERI MENTENG DALAM 01 PAGI,SD,Tebet,Jakarta Selatan ,528
+20102376,SDN Menteng Atas 14,SD,Setia Budi,Jakarta Selatan ,569
+20102380,SD NEGERI MENTENG ATAS 04 PAGI,SD,Setia Budi,Jakarta Selatan ,97
+20102387,SD NEGERI MENTENG DALAM 07 PAGI,SD,Tebet,Jakarta Selatan ,664
+20102392,SD NEGERI PANCORAN 10 PAGI,SD,Pancoran,Jakarta Selatan ,272
+20102394,SDN PANCORAN 08 PAGI,SD,Pancoran,Jakarta Selatan ,235
+20102395,SDN Pancoran 07 Pg.,SD,Pancoran,Jakarta Selatan ,321
+20102396,SD NEGERI PANCORAN 05 PAGI,SD,Pancoran,Jakarta Selatan ,185
+20102402,SMP NEGERI 11 JAKARTA,SMP,Kebayoran Baru,Jakarta Selatan ,905
+20102419,SMP Negeri 107,SMP,Pasar Minggu,Jakarta Selatan ,682
+20102420,SMP Negeri 104,SMP,Mampang Prapatan,Jakarta Selatan ,650
+20102466,SMP NEGERI RAGUNAN,SMP,Pasar Minggu,Jakarta Selatan ,73
+20102467,SMP NEGERI 37 JAKARTA,SMP,Cilandak,Jakarta Selatan ,891
+20102468,SMP Negeri 33,SMP,Tebet,Jakarta Selatan ,657
+20102469,SMP NEGERI 31,SMP,Kebayoran Lama,Jakarta Selatan ,818
+20102470,SMP NEGERI 3 JAKARTA,SMP,Tebet,Jakarta Selatan ,882
+20102471,SMP Negeri 29,SMP,Kebayoran Baru,Jakarta Selatan ,799
+20102472,SMP NEGERI 276,SMP,Jagakarsa,Jakarta Selatan ,665
+20102473,SMP NEGERI 267 JAKARTA,SMP,Pesanggrahan,Jakarta Selatan ,772
+20102474,SMP NEGERI 265,SMP,Tebet,Jakarta Selatan ,874
+20102475,SMP Negeri 254,SMP,Jagakarsa,Jakarta Selatan ,883
+20102476,SMP Negeri 253,SMP,Jagakarsa,Jakarta Selatan ,912
+20102477,SMP Negeri 250,SMP,Kebayoran Baru,Jakarta Selatan ,738
+20102478,SMP NEGERI 247 JAKARTA,SMP,Mampang Prapatan,Jakarta Selatan ,629
+20102479,SMP Negeri 245,SMP,Pesanggrahan,Jakarta Selatan ,552
+20102480,SMP Negeri 41,SMP,Pasar Minggu,Jakarta Selatan ,772
+20102481,SMP NEGERI 43 JAKARTA,SMP,Mampang Prapatan,Jakarta Selatan ,650
+20102482,SMP Negeri 46,SMP,Pasar Minggu,Jakarta Selatan ,418
+20102483,SMP Negeri 98,SMP,Jagakarsa,Jakarta Selatan ,664
+20102484,SMP NEGERI 96 JAKARTA,SMP,Cilandak,Jakarta Selatan ,658
+20102485,SMP Negeri 87,SMP,Kebayoran Lama,Jakarta Selatan ,659
+20102486,SMP Negeri 86,SMP,Cilandak,Jakarta Selatan ,836
+20102487,SMP NEGERI 85 JAKARTA,SMP,Cilandak,Jakarta Selatan ,886
+20102488,SMP NEGERI 73 JAKARTA,SMP,Tebet,Jakarta Selatan ,962
+20102489,SMP NEGERI 68 JAKARTA,SMP,Cilandak,Jakarta Selatan ,782
+20102490,SMP Negeri 67,SMP,Setia Budi,Jakarta Selatan ,570
+20102491,SMP NEGERI 66,SMP,Kebayoran Lama,Jakarta Selatan ,575
+20102492,SMP Negeri 58,SMP,Setia Budi,Jakarta Selatan ,665
+20102493,SMP Negeri 57,SMP,Setia Budi,Jakarta Selatan ,666
+20102494,SMP NEGERI 56,SMP,Pasar Minggu,Jakarta Selatan ,976
+20102495,SMP NEGERI 48 JAKARTA,SMP,Kebayoran Lama,Jakarta Selatan ,864
+20102496,SMP NEGERI 242,SMP,Jagakarsa,Jakarta Selatan ,737
+20102497,SMP Negeri 240,SMP,Kebayoran Baru,Jakarta Selatan ,806
+20102498,SMP NEGERI 163 JAKARTA,SMP,Pasar Minggu,Jakarta Selatan ,707
+20102499,SMP Negeri 161,SMP,Kebayoran Lama,Jakarta Selatan ,1003
+20102500,SMP NEGERI 155,SMP,Pancoran,Jakarta Selatan ,589
+20102501,SMP NEGERI 154,SMP,Pancoran,Jakarta Selatan ,669
+20102502,SMP Negeri 153,SMP,Kebayoran Lama,Jakarta Selatan ,697
+20102503,SMP Negeri 15,SMP,Tebet,Jakarta Selatan ,740
+20102504,SMP NEGERI 145 JAKARTA,SMP,Setia Budi,Jakarta Selatan ,699
+20102505,SMP Negeri 141,SMP,Mampang Prapatan,Jakarta Selatan ,657
+20102506,SMP Negeri 131,SMP,Jagakarsa,Jakarta Selatan ,665
+20102507,SMP Negeri 13,SMP,Kebayoran Baru,Jakarta Selatan ,874
+20102508,SMP NEGERI 124 JAKARTA,SMP,Mampang Prapatan,Jakarta Selatan ,674
+20102509,SMP NEGERI 12,SMP,Kebayoran Baru,Jakarta Selatan ,876
+20102510,SMP Negeri 115,SMP,Tebet,Jakarta Selatan ,1026
+20102511,SMP Negeri 164,SMP,Kebayoran Lama,Jakarta Selatan ,887
+20102512,SMP NEGERI 166,SMP,Jagakarsa,Jakarta Selatan ,781
+20102513,SMPN 175 JAKARTA,SMP,Jagakarsa,Jakarta Selatan ,734
+20102514,SMP NEGERI 239,SMP,Jagakarsa,Jakarta Selatan ,998
+20102515,SMP Negeri 238,SMP,Pancoran,Jakarta Selatan ,654
+20102516,SMP Negeri 235,SMP,Pesanggrahan,Jakarta Selatan ,668
+20102517,SMP NEGERI 227 JAKARTA,SMP,Pasar Minggu,Jakarta Selatan ,772
+20102518,SMP Negeri 226,SMP,Cilandak,Jakarta Selatan ,890
+20102519,SMP Negeri 218,SMP,Pasar Minggu,Jakarta Selatan ,797
+20102520,SMP NEGERI 212 JAKARTA,SMP,Pasar Minggu,Jakarta Selatan ,756
+20102521,SMP NEGERI 211,SMP,Jagakarsa,Jakarta Selatan ,665
+20102522,SMP Negeri 19 Jakarta,SMP,Kebayoran Baru,Jakarta Selatan ,1109
+20102523,SMP Negeri 185,SMP,Kebayoran Lama,Jakarta Selatan ,524
+20102524,SMP NEGERI 182,SMP,Pancoran,Jakarta Selatan ,930
+20102525,SMP NEGERI 178,SMP,Pesanggrahan,Jakarta Selatan ,852
+20102526,SMP Negeri 177,SMP,Pesanggrahan,Jakarta Selatan ,1004
+20102527,SMP NEGERI 110,SMP,Pesanggrahan,Jakarta Selatan ,668
+20102562,SMAN 97 JAKARTA,SMA,Jagakarsa,Jakarta Selatan ,1003
+20102563,SMAN 90 JAKARTA,SMA,Pesanggrahan,Jakarta Selatan ,1006
+20102564,SMAN 87 JAKARTA,SMA,Pesanggrahan,Jakarta Selatan ,699
+20102565,SMAN 86 JAKARTA,SMA,Pesanggrahan,Jakarta Selatan ,670
+20102566,SMAN 82 JAKARTA,SMA,Kebayoran Baru,Jakarta Selatan ,661
+20102568,SMAN 8 JAKARTA,SMA,Tebet,Jakarta Selatan ,1068
+20102569,SMAN 74 JAKARTA,SMA,Kebayoran Lama,Jakarta Selatan ,776
+20102570,SMAN 70 JAKARTA,SMA,Kebayoran Baru,Jakarta Selatan ,1114
+20102571,SMAN 66 JAKARTA,SMA,Cilandak,Jakarta Selatan ,850
+20102572,SMAN 63 JAKARTA,SMA,Pesanggrahan,Jakarta Selatan ,668
+20102573,SMAN 60 JAKARTA,SMA,Mampang Prapatan,Jakarta Selatan ,795
+20102574,SMAN 6 JAKARTA,SMA,Kebayoran Baru,Jakarta Selatan ,998
+20102575,SMAN 55 JAKARTA,SMA,Pancoran,Jakarta Selatan ,875
+20102576,SMAN RAGUNAN JAKARTA,SMA,Pasar Minggu,Jakarta Selatan ,310
+20102578,SMKN 15 JAKARTA,SMK,Kebayoran Baru,Jakarta Selatan ,716
+20102579,SMKN 6 JAKARTA,SMK,Kebayoran Baru,Jakarta Selatan ,886
+20102580,SMK NEGERI 41 JAKARTA,SMK,Cilandak,Jakarta Selatan ,739
+20102581,SMKN 32 JAKARTA,SMK,Tebet,Jakarta Selatan ,692
+20102582,SMKN 30 JAKARTA,SMK,Kebayoran Baru,Jakarta Selatan ,623
+20102585,SMKN 28 JAKARTA,SMK,Cilandak,Jakarta Selatan ,932
+20102586,SMKN 25 JAKARTA,SMK,Pasar Minggu,Jakarta Selatan ,532
+20102587,SMKN 20 JAKARTA,SMK,Cilandak,Jakarta Selatan ,773
+20102589,SMKN 18 JAKARTA,SMK,Kebayoran Lama,Jakarta Selatan ,663
+20102592,SMAN 49 JAKARTA,SMA,Jagakarsa,Jakarta Selatan ,664
+20102597,SMKN 8 JAKARTA,SMK,Pasar Minggu,Jakarta Selatan ,1059
+20102599,SMKN 47 JAKARTA,SMK,Pasar Minggu,Jakarta Selatan ,739
+20102600,SMKN 43 JAKARTA,SMK,Kebayoran Lama,Jakarta Selatan ,426
+20102601,SMKN 37 JAKARTA,SMK,Pasar Minggu,Jakarta Selatan ,838
+20102602,SMKN 29 JAKARTA,SMK,Kebayoran Baru,Jakarta Selatan ,1109
+20102742,SDN Grogol Selatan 08,SD,Kebayoran Lama,Jakarta Selatan ,450
+20102921,SDN Grogol Selatan 09 Pg.,SD,Kebayoran Lama,Jakarta Selatan ,782
+20102943,SDN Duren Tiga 05 Pagi,SD,Pancoran,Jakarta Selatan ,333
+20102944,SD NEGERI DUREN TIGA 01 PAGI,SD,Pancoran,Jakarta Selatan ,282
+20102956,SD NEGERI DUREN TIGA 07,SD,Pancoran,Jakarta Selatan ,161
+20102958,SDN Duren Tiga 09,SD,Pancoran,Jakarta Selatan ,281
+20102975,SD NEGERI KEBAGUSAN 03 PAGI,SD,Pasar Minggu,Jakarta Selatan ,439
+20102976,SD NEGERI KEBAGUSAN 02 PAGI,SD,Pasar Minggu,Jakarta Selatan ,379
+20102983,SD NEGERI KARET 04,SD,Setia Budi,Jakarta Selatan ,501
+20103022,SD NEGERI JAGAKARSA 10 PAGI,SD,Jagakarsa,Jakarta Selatan ,371
+20103067,SD NEGERI RAGUNAN 11 PT,SD,Pasar Minggu,Jakarta Selatan ,145
+20103103,SDN Cilandak Timur 02 Petang,SD,Pasar Minggu,Jakarta Selatan ,297
+20103104,SD NEGERI CILANDAK TIMUR 01 PG,SD,Pasar Minggu,Jakarta Selatan ,341
+20103106,SD NEGERI CILANDAK BARAT 04 PAGI,SD,Cilandak,Jakarta Selatan ,336
+20103112,SDN Cikoko 01 Pg.,SD,Pancoran,Jakarta Selatan ,292
+20103116,SD NEGERI CILANDAK TIMUR 03 PG,SD,Pasar Minggu,Jakarta Selatan ,563
+20103118,SD NEGERI CILANDAK TIMUR 05 PG,SD,Pasar Minggu,Jakarta Selatan ,557
+20103126,SD NEGERI CIPETE UTARA 01 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,405
+20103133,SDN Ciganjur 02 Pagi,SD,Jagakarsa,Jakarta Selatan ,500
+20103134,SD N BANGKA 01 PG,SD,Mampang Prapatan,Jakarta Selatan ,273
+20103136,SD NEGERI BINTARO 09 PAGI,SD,Pesanggrahan,Jakarta Selatan ,383
+20103137,SDN BINTARO 08 PAGI,SD,Pesanggrahan,Jakarta Selatan ,446
+20103139,SD NEGERI BINTARO 05 PAGI,SD,Pesanggrahan,Jakarta Selatan ,357
+20103140,SDN BINTARO 04 PAGI,SD,Pesanggrahan,Jakarta Selatan ,408
+20103142,SD NEGERI BINTARO 02,SD,Pesanggrahan,Jakarta Selatan ,727
+20103143,SDN Bintaro 01,SD,Pesanggrahan,Jakarta Selatan ,530
+20103144,SD N BANGKA 07 PG,SD,Mampang Prapatan,Jakarta Selatan ,197
+20103145,SDN Bangka 06 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,152
+20103146,SD N BANGKA 05 PG,SD,Mampang Prapatan,Jakarta Selatan ,168
+20103149,SD NEGERI BINTARO 12,SD,Pesanggrahan,Jakarta Selatan ,363
+20103150,SDN Bintaro 13 Pg.,SD,Pesanggrahan,Jakarta Selatan ,367
+20103151,SDN Ciganjur 01 Pg.,SD,Jagakarsa,Jakarta Selatan ,690
+20103153,SD NEGERI BUKIT DURI 11 PAGI,SD,Tebet,Jakarta Selatan ,349
+20103159,SD NEGERI BINTARO 14 PAGI,SD,Pesanggrahan,Jakarta Selatan ,428
+20103161,SDN BUKIT DURI 01 PAGI,SD,Tebet,Jakarta Selatan ,522
+20103163,SD NEGERI BUKIT DURI 03,SD,Tebet,Jakarta Selatan ,619
+20103256,SMAN 99 JAKARTA,SMA,Ciracas,Jakarta Timur ,1033
+20103257,SMAN 98 JAKARTA,SMA,Pasar Rebo,Jakarta Timur ,1033
+20103258,SMAN 93 JAKARTA,SMA,Kramat Jati,Jakarta Timur ,777
+20103278,SMAN 91 JAKARTA,SMA,Duren Sawit,Jakarta Timur ,700
+20103279,SMAN 9 JAKARTA,SMA,Makasar,Jakarta Timur ,782
+20103280,SMAN 36 JAKARTA,SMA,Pulo Gadung,Jakarta Timur ,927
+20103281,SMAN 31 JAKARTA,SMA,Matraman,Jakarta Timur ,1144
+20103282,SMAN 22 JAKARTA,SMA,Matraman,Jakarta Timur ,919
+20103283,SMAN 21 JAKARTA,SMA,Pulo Gadung,Jakarta Timur ,823
+20103284,SMAN 14 JAKARTA,SMA,Kramat Jati,Jakarta Timur ,781
+20103285,SMAN 12 JAKARTA,SMA,Duren Sawit,Jakarta Timur ,666
+20103286,SMAN 113 JAKARTA,SMA,Cipayung,Jakarta Timur ,1074
+20103287,SMAN 11 JAKARTA,SMA,Cakung,Jakarta Timur ,667
+20103288,SMAN 107 JAKARTA,SMA,Cakung,Jakarta Timur ,739
+20103289,SMAN 106 JAKARTA,SMA,Pasar Rebo,Jakarta Timur ,779
+20103290,SMAN 105 JAKARTA,SMA,Ciracas,Jakarta Timur ,778
+20103291,SMAN 104 JAKARTA,SMA,Pasar Rebo,Jakarta Timur ,883
+20103292,SMAN 103 JAKARTA,SMA,Duren Sawit,Jakarta Timur ,743
+20103293,SMAN 102 JAKARTA,SMA,Cakung,Jakarta Timur ,773
+20103294,SMAN 100 JAKARTA,SMA,Jatinegara,Jakarta Timur ,664
+20103296,SMAN 39 JAKARTA,SMA,Pasar Rebo,Jakarta Timur ,1152
+20103297,SMAN 42 JAKARTA,SMA,Makasar,Jakarta Timur ,888
+20103298,SMAN 44 JAKARTA,SMA,Duren Sawit,Jakarta Timur ,780
+20103299,SMAN 89 JAKARTA,SMA,Cakung,Jakarta Timur ,743
+20103300,SMAN 88 JAKARTA,SMA,Pasar Rebo,Jakarta Timur ,592
+20103301,SMAN 81 JAKARTA,SMA,Makasar,Jakarta Timur ,890
+20103302,SMAN 76 JAKARTA,SMA,Cakung,Jakarta Timur ,656
+20103303,SMAN 71 JAKARTA,SMA,Duren Sawit,Jakarta Timur ,892
+20103304,SMAN 67 JAKARTA,SMA,Makasar,Jakarta Timur ,893
+20103305,SMAN 64 JAKARTA,SMA,Cipayung,Jakarta Timur ,779
+20103306,SMAN 62 JAKARTA,SMA,Kramat Jati,Jakarta Timur ,672
+20103307,SMAN 61 JAKARTA,SMA,Duren Sawit,Jakarta Timur ,740
+20103308,SMAN 59 JAKARTA,SMA,Duren Sawit,Jakarta Timur ,780
+20103309,SMAN 58 JAKARTA,SMA,Ciracas,Jakarta Timur ,892
+20103310,SMAN 54 JAKARTA,SMA,Jatinegara,Jakarta Timur ,892
+20103311,SMAN 53 JAKARTA,SMA,Jatinegara,Jakarta Timur ,778
+20103312,SMAN 51 JAKARTA,SMA,Kramat Jati,Jakarta Timur ,890
+20103313,SMAN 50 JAKARTA,SMA,Jatinegara,Jakarta Timur ,777
+20103314,SMAN 48 JAKARTA,SMA,Makasar,Jakarta Timur ,892
+20103320,SDN PULO GEBANG 20,SD,Cakung,Jakarta Timur ,635
+20103321,SD NEGERI PULO GEBANG 19 PETANG,SD,Cakung,Jakarta Timur ,339
+20103326,SD NEGERI PULO GEBANG 13 PAGI,SD,Cakung,Jakarta Timur ,739
+20103328,SDN Pulogebang 11,SD,Cakung,Jakarta Timur ,761
+20103340,SDN Pulogebang 09 Pg.,SD,Cakung,Jakarta Timur ,394
+20103341,SDN Pulogebang 08 Pg.,SD,Cakung,Jakarta Timur ,344
+20103342,SDN PULOGEBANG 07,SD,Cakung,Jakarta Timur ,578
+20103343,SDN Pulogebang 06 Pg.,SD,Cakung,Jakarta Timur ,544
+20103346,SD NEGERI PULOGEBANG 24 PAGI,SD,Cakung,Jakarta Timur ,422
+20103348,SD NEGERI RAWAMANGUN 09,SD,Pulo Gadung,Jakarta Timur ,593
+20103351,SDN RAWAMANGUN 05,SD,Pulo Gadung,Jakarta Timur ,544
+20103354,SDN RAWAMANGUN 02,SD,Pulo Gadung,Jakarta Timur ,453
+20103356,SDN RAWAMANGUN 01,SD,Pulo Gadung,Jakarta Timur ,760
+20103358,SDN RAMBUTAN 06 PAGI,SD,Ciracas,Jakarta Timur ,433
+20103359,SDN Rambutan 05 Pg.,SD,Ciracas,Jakarta Timur ,378
+20103360,SDN Rambutan 03 Pg.,SD,Ciracas,Jakarta Timur ,702
+20103361,SDN Rambutan 02,SD,Ciracas,Jakarta Timur ,563
+20103362,SDN Rambutan 01,SD,Ciracas,Jakarta Timur ,363
+20103364,SDN Pulogebang 05,SD,Cakung,Jakarta Timur ,600
+20103365,SD NEGERI PULO GEBANG 04 PAGI,SD,Cakung,Jakarta Timur ,649
+20103369,SDN Pisangan Timur 20 Pg.,SD,Pulo Gadung,Jakarta Timur ,335
+20103371,SDN Pisangan Timur 18,SD,Pulo Gadung,Jakarta Timur ,341
+20103374,SDN Pisangan Timur 13 Pg.,SD,Pulo Gadung,Jakarta Timur ,514
+20103376,SDN PISANGAN TIMUR 11,SD,Pulo Gadung,Jakarta Timur ,355
+20103377,SDN Pisangan Timur 10 Pg.,SD,Pulo Gadung,Jakarta Timur ,199
+20103380,SDN PISANGAN TIMUR 05 PAGI,SD,Pulo Gadung,Jakarta Timur ,413
+20103382,SDN PONDOK RANGGON 02,SD,Cipayung,Jakarta Timur ,707
+20103383,SDN PONDOK RANGGON 03 PG,SD,Cipayung,Jakarta Timur ,731
+20103384,SDN PONDOK RANGGON 04 PAGI,SD,Cipayung,Jakarta Timur ,797
+20103385,SDN Pulogebang 03 Pg.,SD,Cakung,Jakarta Timur ,588
+20103386,SDN Pulogebang 02,SD,Cakung,Jakarta Timur ,644
+20103387,SD NEGERI PULO GEBANG 01 PAGI,SD,Cakung,Jakarta Timur ,587
+20103389,SDN Pulogadung 09 Pg.,SD,Pulo Gadung,Jakarta Timur ,376
+20103391,SDN Pulogadung 07,SD,Pulo Gadung,Jakarta Timur ,452
+20103392,SDN PULOGADUNG 05,SD,Pulo Gadung,Jakarta Timur ,356
+20103394,SD NEGERI PULOGADUNG 03 PAGI,SD,Pulo Gadung,Jakarta Timur ,555
+20103396,SDN Pulogadung 01 Pg.,SD,Pulo Gadung,Jakarta Timur ,523
+20103397,SDN PONDOK RANGGON 01 PG,SD,Cipayung,Jakarta Timur ,447
+20103415,SDN Utan Kayu Selatan 25 Pg.,SD,Matraman,Jakarta Timur ,249
+20103416,SD NEGERI UTAN KAYU SELATAN 23 PAGI,SD,Matraman,Jakarta Timur ,213
+20103418,SDN Utan Kayu Selatan 20 Pg.,SD,Matraman,Jakarta Timur ,308
+20103419,SD NEGERI UTAN KAYU SELATAN 18 PAGI,SD,Matraman,Jakarta Timur ,189
+20103439,SDN Utan Kayu Selatan 17 Pg.,SD,Matraman,Jakarta Timur ,356
+20103440,SD NEGERI UTAN KAYU SELATAN 16 PAGI,SD,Matraman,Jakarta Timur ,190
+20103441,SDN Tengah 01,SD,Kramat Jati,Jakarta Timur ,664
+20103445,SDN Susukan 08 Pg.,SD,Ciracas,Jakarta Timur ,379
+20103446,SDN Susukan 07 Pg.,SD,Ciracas,Jakarta Timur ,345
+20103447,SDN Susukan 06 Pg.,SD,Ciracas,Jakarta Timur ,324
+20103448,SDN Susukan 05 Pg.,SD,Ciracas,Jakarta Timur ,410
+20103449,SDN Susukan 04 Pg.,SD,Ciracas,Jakarta Timur ,382
+20103460,SDN Susukan 03 Pg.,SD,Ciracas,Jakarta Timur ,345
+20103461,SDN Susukan 02 Pg.,SD,Ciracas,Jakarta Timur ,379
+20103464,SDN SETU 02,SD,Cipayung,Jakarta Timur ,609
+20103465,SDN Setu 01 Pg,SD,Cipayung,Jakarta Timur ,574
+20103469,SDN Tengah 03,SD,Kramat Jati,Jakarta Timur ,371
+20103475,SD NEGERI UJUNG MENTENG 07 PAGI,SD,Cakung,Jakarta Timur ,383
+20103476,SD NEGERI UJUNG MENTENG 06 PETANG,SD,Cakung,Jakarta Timur ,281
+20103478,SD NEGERI UJUNG MENTENG 03 PAGI,SD,Cakung,Jakarta Timur ,352
+20103479,SDN UJUNG MENTENG 02,SD,Cakung,Jakarta Timur ,444
+20103483,SDN Tengah 08,SD,Kramat Jati,Jakarta Timur ,499
+20103484,SDN Tengah 07 Pg.,SD,Kramat Jati,Jakarta Timur ,619
+20103485,SDN TENGAH 06 PAGI,SD,Kramat Jati,Jakarta Timur ,257
+20103486,SDN Tengah 05 Pg.,SD,Kramat Jati,Jakarta Timur ,295
+20103489,SMP Negeri 158,SMP,Pulo Gadung,Jakarta Timur ,733
+20103507,SMP NEGERI 102 JAKARTA,SMP,Pasar Rebo,Jakarta Timur ,658
+20103508,SMP NEGERI 103,SMP,Pasar Rebo,Jakarta Timur ,1020
+20103509,SMP NEGERI 157 JAKARTA,SMP,Cipayung,Jakarta Timur ,999
+20103510,SMP Negeri 150,SMP,Kramat Jati,Jakarta Timur ,894
+20103511,SMP Negeri 149,SMP,Jatinegara,Jakarta Timur ,670
+20103512,SMP NEGERI 148 JAKARTA,SMP,Jatinegara,Jakarta Timur ,703
+20103513,SMP NEGERI 147 JAKARTA,SMP,Ciracas,Jakarta Timur ,994
+20103514,SMP NEGERI 146 JAKARTA,SMP,Cakung,Jakarta Timur ,804
+20103515,SMP Negeri 144,SMP,Cakung,Jakarta Timur ,888
+20103516,SMP NEGERI 14 JAKARTA,SMP,Jatinegara,Jakarta Timur ,487
+20103517,SMP NEGERI 139 JAKARTA,SMP,Duren Sawit,Jakarta Timur ,925
+20103518,SMP NEGERI 138 JAKARTA,SMP,Cakung,Jakarta Timur ,1105
+20103519,SMP Negeri 135,SMP,Duren Sawit,Jakarta Timur ,881
+20103520,SMP NEGERI 128 JAKARTA,SMP,Makasar,Jakarta Timur ,816
+20103521,SMP NEGERI 126 JAKARTA,SMP,Kramat Jati,Jakarta Timur ,915
+20103522,SMP Negeri 117,SMP,Duren Sawit,Jakarta Timur ,769
+20103523,SMP Negeri 109 JAKARTA,SMP,Makasar,Jakarta Timur ,929
+20103524,SMP NEGERI 106 JAKARTA,SMP,Ciracas,Jakarta Timur ,886
+20103564,SMP Negeri 160 JAKARTA,SMP,Cipayung,Jakarta Timur ,662
+20103565,SMP Negeri 99,SMP,Pulo Gadung,Jakarta Timur ,889
+20103568,SMP NEGERI 281 JAKARTA,SMP,Kramat Jati,Jakarta Timur ,1084
+20103569,SMP Negeri 275,SMP,Makasar,Jakarta Timur ,881
+20103570,SMP Negeri 272,SMP,Cipayung,Jakarta Timur ,776
+20103571,SMP NEGERI 27 JAKARTA,SMP,Duren Sawit,Jakarta Timur ,773
+20103572,SMP NEGERI 268 JAKARTA,SMP,Makasar,Jakarta Timur ,984
+20103573,SMP Negeri 263,SMP,Kramat Jati,Jakarta Timur ,701
+20103574,SMP Negeri 262,SMP,Cakung,Jakarta Timur ,656
+20103575,SMP NEGERI 26 JAKARTA,SMP,Jatinegara,Jakarta Timur ,625
+20103576,SMP Negeri 259,SMP,Cipayung,Jakarta Timur ,1084
+20103577,SMP Negeri 258,SMP,Ciracas,Jakarta Timur ,1077
+20103578,SMP NEGERI 257 JAKARTA,SMP,Ciracas,Jakarta Timur ,922
+20103579,SMP NEGERI 256 JAKARTA,SMP,Cakung,Jakarta Timur ,985
+20103580,SMP Negeri 255,SMP,Duren Sawit,Jakarta Timur ,884
+20103581,SMP NEGERI 252 JAKARTA,SMP,Duren Sawit,Jakarta Timur ,991
+20103582,SMP Negeri 251,SMP,Pasar Rebo,Jakarta Timur ,641
+20103584,SMP Negeri 36,SMP,Jatinegara,Jakarta Timur ,666
+20103586,SMP NEGERI 97 JAKARTA,SMP,Matraman,Jakarta Timur ,957
+20103587,SMP Negeri 92,SMP,Pulo Gadung,Jakarta Timur ,740
+20103588,SMP Negeri 91,SMP,Pasar Rebo,Jakarta Timur ,594
+20103589,SMP Negeri 90,SMP,Cakung,Jakarta Timur ,779
+20103590,SMP NEGERI 9 JAKARTA,SMP,Ciracas,Jakarta Timur ,882
+20103591,SMP NEGERI 81 JAKARTA,SMP,Cipayung,Jakarta Timur ,1021
+20103592,SMP NEGERI 80 JAKARTA,SMP,Makasar,Jakarta Timur ,925
+20103593,SMP Negeri 74,SMP,Pulo Gadung,Jakarta Timur ,889
+20103594,SMP NEGERI 7 JAKARTA,SMP,Matraman,Jakarta Timur ,884
+20103595,SMP Negeri 62,SMP,Jatinegara,Jakarta Timur ,954
+20103596,SMP NEGERI 6 JAKARTA,SMP,Duren Sawit,Jakarta Timur ,635
+20103597,SMP NEGERI 52 JAKARTA,SMP,Jatinegara,Jakarta Timur ,666
+20103598,SMP Negeri 51,SMP,Duren Sawit,Jakarta Timur ,855
+20103599,SMP Negeri 50,SMP,Kramat Jati,Jakarta Timur ,440
+20103601,SMP NEGERI 44 JAKARTA,SMP,Pulo Gadung,Jakarta Timur ,894
+20103602,SMP Negeri 25,SMP,Jatinegara,Jakarta Timur ,662
+20103603,SMP Negeri 246,SMP,Cipayung,Jakarta Timur ,593
+20103604,SMP Negeri 199,SMP,Duren Sawit,Jakarta Timur ,779
+20103605,SMP Negeri 198,SMP,Duren Sawit,Jakarta Timur ,764
+20103606,SMP Negeri 196,SMP,Cipayung,Jakarta Timur ,521
+20103607,SMP NEGERI 195 JAKARTA,SMP,Duren Sawit,Jakarta Timur ,781
+20103608,SMP Negeri 194,SMP,Duren Sawit,Jakarta Timur ,889
+20103609,SMP Negeri 193,SMP,Cakung,Jakarta Timur ,880
+20103610,SMP NEGERI 192 JAKARTA,SMP,Cipayung,Jakarta Timur ,549
+20103611,SMP Negeri 188,SMP,Ciracas,Jakarta Timur ,545
+20103612,SMP NEGERI 184 JAKARTA,SMP,Pasar Rebo,Jakarta Timur ,1004
+20103614,SMP NEGERI 179 JAKARTA,SMP,Pasar Rebo,Jakarta Timur ,1022
+20103615,SMP Negeri 174,SMP,Ciracas,Jakarta Timur ,739
+20103616,SMP Negeri 172,SMP,Cakung,Jakarta Timur ,893
+20103617,SMP NEGERI 171 JAKARTA,SMP,Ciracas,Jakarta Timur ,888
+20103618,SMP Negeri 168,SMP,Cakung,Jakarta Timur ,739
+20103619,SMP NEGERI 167 JAKARTA,SMP,Duren Sawit,Jakarta Timur ,704
+20103620,SMP Negeri 20,SMP,Kramat Jati,Jakarta Timur ,1158
+20103621,SMP N 202 JAKARTA,SMP,Duren Sawit,Jakarta Timur ,839
+20103622,SMP NEGERI 203 JAKARTA,SMP,Pasar Rebo,Jakarta Timur ,665
+20103623,SMP Negeri 243,SMP,Jatinegara,Jakarta Timur ,669
+20103624,SMP NEGERI 24 JAKARTA,SMP,Kramat Jati,Jakarta Timur ,664
+20103625,SMP Negeri 237,SMP,Cipayung,Jakarta Timur ,657
+20103626,SMP Negeri 236,SMP,Cakung,Jakarta Timur ,670
+20103627,SMP Negeri 234,SMP,Cakung,Jakarta Timur ,906
+20103628,SMP Negeri 233,SMP,Ciracas,Jakarta Timur ,772
+20103629,SMP Negeri 232,SMP,Pulo Gadung,Jakarta Timur ,756
+20103630,SMP NEGERI 230 JAKARTA,SMP,Cipayung,Jakarta Timur ,1108
+20103631,SMP Negeri 223,SMP,Pasar Rebo,Jakarta Timur ,660
+20103632,SMP NEGERI 222 JAKARTA,SMP,Cipayung,Jakarta Timur ,668
+20103633,SMP NEGERI 217 JAKARTA,SMP,Pasar Rebo,Jakarta Timur ,737
+20103634,SMP NEGERI 214 JAKARTA,SMP,Makasar,Jakarta Timur ,873
+20103635,SMP NEGERI 213 JAKARTA,SMP,Duren Sawit,Jakarta Timur ,891
+20103636,SMP Negeri 210,SMP,Ciracas,Jakarta Timur ,790
+20103637,SMP Negeri 209,SMP,Kramat Jati,Jakarta Timur ,881
+20103638,SMP NEGERI 208 JAKARTA,SMP,Ciracas,Jakarta Timur ,728
+20103639,SMP Negeri 165,SMP,Duren Sawit,Jakarta Timur ,669
+20103778,SMKN 7 JAKARTA,SMK,Pulo Gadung,Jakarta Timur ,895
+20103779,SMKN 58 JAKARTA,SMK,Cipayung,Jakarta Timur ,1198
+20103780,SMKN 52 JAKARTA,SMK,Ciracas,Jakarta Timur ,886
+20103781,SMKN 51 JAKARTA,SMK,Cipayung,Jakarta Timur ,840
+20103782,SMKN 50 JAKARTA,SMK,Jatinegara,Jakarta Timur ,680
+20103783,SMKN 5 JAKARTA,SMK,Matraman,Jakarta Timur ,1136
+20103784,SMKN 48 JAKARTA,SMK,Duren Sawit,Jakarta Timur ,846
+20103785,SMKN 46 JAKARTA,SMK,Jatinegara,Jakarta Timur ,816
+20103786,SMKN 40 JAKARTA,SMK,Matraman,Jakarta Timur ,638
+20103787,SMKN 26 JAKARTA,SMK,Pulo Gadung,Jakarta Timur ,1905
+20103788,SMKN 24 JAKARTA,SMK,Cipayung,Jakarta Timur ,1231
+20103790,SMKN 22 JAKARTA,SMK,Pasar Rebo,Jakarta Timur ,844
+20103791,SMKN 10 JAKARTA,SMK,Kramat Jati,Jakarta Timur ,737
+20103794,SDN Pisangan Timur 01 Pg.,SD,Pulo Gadung,Jakarta Timur ,512
+20104104,SDN Kayu Putih 03,SD,Pulo Gadung,Jakarta Timur ,451
+20104105,SDN Jatinegara Kaum 15 Pg.,SD,Pulo Gadung,Jakarta Timur ,315
+20104106,SDN Jatinegara Kaum 14 Pg.,SD,Pulo Gadung,Jakarta Timur ,223
+20104108,SD NEGERI JATINEGARA KAUM 11 PAGI,SD,Pulo Gadung,Jakarta Timur ,352
+20104112,SD NEGERI JATINEGARA KAUM 07 PAGI,SD,Pulo Gadung,Jakarta Timur ,411
+20104113,SDN Jatinegara Kaum 06 Pg.,SD,Pulo Gadung,Jakarta Timur ,432
+20104114,SDN JATINEGARA KAUM 05,SD,Pulo Gadung,Jakarta Timur ,374
+20104116,SDN Jatinegara Kaum 03,SD,Pulo Gadung,Jakarta Timur ,407
+20104118,SDN Kayu Putih 08 Pg.,SD,Pulo Gadung,Jakarta Timur ,426
+20104119,SDN Kayu Putih 09 Pg.,SD,Pulo Gadung,Jakarta Timur ,376
+20104121,SDN Kebon Pala 15 Pagi,SD,Makasar,Jakarta Timur ,224
+20104122,SDN Kebon Pala 14 Pg.,SD,Makasar,Jakarta Timur ,202
+20104124,SDN Kebon Pala 13 Pagi,SD,Makasar,Jakarta Timur ,219
+20104125,SDN Kebon Pala 12 Pg.,SD,Makasar,Jakarta Timur ,284
+20104126,SDN Kebon Pala 11 Pg.,SD,Makasar,Jakarta Timur ,286
+20104128,SDN Kebon Pala 09,SD,Makasar,Jakarta Timur ,342
+20104130,SDN Kebon Pala 07 Pg.,SD,Makasar,Jakarta Timur ,357
+20104132,SDN KEBON PALA 05,SD,Makasar,Jakarta Timur ,509
+20104133,SDN Kebon Pala 04 Pg.,SD,Makasar,Jakarta Timur ,345
+20104134,SDN Kebon Pala 03 Pg.,SD,Makasar,Jakarta Timur ,343
+20104135,SDN Kebon Pala 02 Pg.,SD,Makasar,Jakarta Timur ,319
+20104138,SDN Jatinegara Kaum 01 Pg.,SD,Pulo Gadung,Jakarta Timur ,361
+20104139,SDN Jatinegara 15 Pagi,SD,Cakung,Jakarta Timur ,505
+20104143,SDN Dukuh 09 PAGI,SD,Kramat Jati,Jakarta Timur ,416
+20104144,SDN Dukuh 08 Pg.,SD,Kramat Jati,Jakarta Timur ,346
+20104147,SDN Dukuh 05 Pg.,SD,Kramat Jati,Jakarta Timur ,382
+20104148,SDN DUKUH 04,SD,Kramat Jati,Jakarta Timur ,443
+20104151,SDN Dukuh 01,SD,Kramat Jati,Jakarta Timur ,674
+20104155,SDN Ciracas 15 Pg.,SD,Ciracas,Jakarta Timur ,441
+20104156,SD Negeri Jati 01 Pg.,SD,Pulo Gadung,Jakarta Timur ,207
+20104157,SDN Jati 03 Pg.,SD,Pulo Gadung,Jakarta Timur ,564
+20104162,SD NEGERI JATINEGARA 10 PAGI,SD,Cakung,Jakarta Timur ,378
+20104163,SD NEGERI JATINEGARA 09 PAGI,SD,Cakung,Jakarta Timur ,299
+20104164,SDN JATINEGARA 08,SD,Cakung,Jakarta Timur ,579
+20104167,SD NEGERI JATINEGARA 02 PAGI,SD,Cakung,Jakarta Timur ,375
+20104168,SD Negeri Jatinegara 01 Pagi,SD,Cakung,Jakarta Timur ,628
+20104172,SD NEGERI Jati 07 Pg.,SD,Pulo Gadung,Jakarta Timur ,402
+20104173,SDN JATI 06,SD,Pulo Gadung,Jakarta Timur ,490
+20104174,SD NEGERI JATI 05 PAGI,SD,Pulo Gadung,Jakarta Timur ,356
+20104175,SDN Ciracas 14 Pg.,SD,Ciracas,Jakarta Timur ,636
+20104176,SDN Kelapa Dua Wetan 01 Pg.,SD,Ciracas,Jakarta Timur ,446
+20104178,SDN Munjul 01 Pg.,SD,Cipayung,Jakarta Timur ,752
+20104180,SDN Makasar 09 Pg.,SD,Makasar,Jakarta Timur ,382
+20104181,SDN MAKASAR 08 PG,SD,Makasar,Jakarta Timur ,381
+20104182,SDN Makasar 07 Pg.,SD,Makasar,Jakarta Timur ,343
+20104183,SDN Makasar 06 Pg.,SD,Makasar,Jakarta Timur ,478
+20104184,SDN Makasar 05 Pg.,SD,Makasar,Jakarta Timur ,437
+20104186,SDN Makasar 03,SD,Makasar,Jakarta Timur ,370
+20104187,SDN Makasar 02 Pt.,SD,Makasar,Jakarta Timur ,337
+20104192,SDN LUBANG BUAYA 13 PAGI,SD,Cipayung,Jakarta Timur ,493
+20104193,SDN Lubang Buaya 12 Pg.,SD,Cipayung,Jakarta Timur ,384
+20104195,SDN UJUNG MENTENG 04 PAGI,SD,Cakung,Jakarta Timur ,379
+20104197,SDN Pinang Ranti 09 Pg.,SD,Makasar,Jakarta Timur ,701
+20104198,SDN Pinang Ranti 08 Pagi,SD,Makasar,Jakarta Timur ,302
+20104199,SDN Pinang Ranti 07 Pg.,SD,Makasar,Jakarta Timur ,337
+20104201,SDN Pinang Ranti 05 Pg.,SD,Makasar,Jakarta Timur ,413
+20104202,SDN Pinang Ranti 04 Pg.,SD,Makasar,Jakarta Timur ,343
+20104204,SDN Pinang Ranti 02,SD,Makasar,Jakarta Timur ,511
+20104205,SDN Penggilingan 03 Pg.,SD,Cakung,Jakarta Timur ,272
+20104206,SDN Penggilingan 09 Pg.,SD,Cakung,Jakarta Timur ,518
+20104207,SD NEGERI PENGGILINGAN 08 PETANG,SD,Cakung,Jakarta Timur ,345
+20104209,SDN Penggilingan 06 Pt.,SD,Cakung,Jakarta Timur ,346
+20104210,SDN Penggilingan 04 Petang,SD,Cakung,Jakarta Timur ,256
+20104212,SDN Penggilingan 01,SD,Cakung,Jakarta Timur ,549
+20104213,SDN LUBANG BUAYA 11 PG,SD,Cipayung,Jakarta Timur ,484
+20104218,SDN Kramat Jati 11,SD,Kramat Jati,Jakarta Timur ,630
+20104221,SDN Kramat Jati 07,SD,Kramat Jati,Jakarta Timur ,462
+20104226,SDN KramatJati 03,SD,Kramat Jati,Jakarta Timur ,535
+20104227,SDN Kramat Jati 02 Pg.,SD,Kramat Jati,Jakarta Timur ,398
+20104228,SDN Kramat Jati 01 Pg.,SD,Kramat Jati,Jakarta Timur ,464
+20104229,SDN KELAPA DUA WETAN 06 PAGI,SD,Ciracas,Jakarta Timur ,571
+20104232,SDN Kramat Jati 16 Pg.,SD,Kramat Jati,Jakarta Timur ,204
+20104233,SDN Kramat Jati 18 Pg.,SD,Kramat Jati,Jakarta Timur ,297
+20104235,SDN Kramat Jati 19 Pg.,SD,Kramat Jati,Jakarta Timur ,344
+20104236,SDN LUBANG BUAYA 09,SD,Cipayung,Jakarta Timur ,411
+20104237,SDN Lubang Buaya 08 Pg.,SD,Cipayung,Jakarta Timur ,304
+20104239,SDN Lubang Buaya 06 Pg.,SD,Cipayung,Jakarta Timur ,760
+20104240,SDN Lubang Buaya 05 Pg.,SD,Cipayung,Jakarta Timur ,414
+20104241,SDN Lubang Buaya 04 Pg.,SD,Cipayung,Jakarta Timur ,669
+20104242,SDN Lubang Buaya 03 Pg.,SD,Cipayung,Jakarta Timur ,558
+20104244,SDN Lubang Buaya 01 Pg.,SD,Cipayung,Jakarta Timur ,414
+20104247,SDN Kramat Jati 25 Pg.,SD,Kramat Jati,Jakarta Timur ,249
+20104248,SDN Kramat Jati 24,SD,Kramat Jati,Jakarta Timur ,583
+20104252,SDN Kelapa Dua Wetan 02 Pagi,SD,Ciracas,Jakarta Timur ,586
+20104253,SDN CIRACAS 13 PAGI,SD,Ciracas,Jakarta Timur ,633
+20104254,SDN CAKUNG TIMUR 06,SD,Cakung,Jakarta Timur ,763
+20104255,SDN CAKUNG BARAT 05,SD,Cakung,Jakarta Timur ,466
+20104256,SD NEGERI CAKUNG BARAT 04 PAGI,SD,Cakung,Jakarta Timur ,631
+20104257,SDN Cakung Barat 03 Pg.,SD,Cakung,Jakarta Timur ,295
+20104258,SDN CAKUNG BARAT 02 PAGI,SD,Cakung,Jakarta Timur ,735
+20104259,SDN CAKUNG BARAT 01,SD,Cakung,Jakarta Timur ,667
+20104260,SDN BATU AMPAR 13 PAGI,SD,Kramat Jati,Jakarta Timur ,320
+20104261,SDN BATU AMPAR 12 PAGI,SD,Kramat Jati,Jakarta Timur ,384
+20104262,SDN Batu Ampar 11 Pg.,SD,Kramat Jati,Jakarta Timur ,383
+20104263,SDN BATU AMPAR 08 PAGI.,SD,Kramat Jati,Jakarta Timur ,376
+20104264,SDN Batu Ampar 07 Pg.,SD,Kramat Jati,Jakarta Timur ,248
+20104265,SDN BATU AMPAR 06,SD,Kramat Jati,Jakarta Timur ,376
+20104266,SDN Batu Ampar 05 Pg.,SD,Kramat Jati,Jakarta Timur ,279
+20104269,SDN Batu Ampar 02,SD,Kramat Jati,Jakarta Timur ,636
+20104270,SDN BATU AMPAR 01 PAGI,SD,Kramat Jati,Jakarta Timur ,382
+20104271,SD NEGERI CAKUNG BARAT 06 PAGI,SD,Cakung,Jakarta Timur ,449
+20104272,SDN Cakung Barat 07 Pg.,SD,Cakung,Jakarta Timur ,459
+20104273,SD NEGERI CAKUNG BARAT 08 PG,SD,Cakung,Jakarta Timur ,636
+20104274,SD NEGERI CAKUNG TIMUR 05 PAGI,SD,Cakung,Jakarta Timur ,446
+20104275,SDN Cakung Timur 04 Pg.,SD,Cakung,Jakarta Timur ,378
+20104276,SD NEGERI CAKUNG TIMUR 03 PAGI,SD,Cakung,Jakarta Timur ,398
+20104277,SDN Cakung Timur 02 Pg.,SD,Cakung,Jakarta Timur ,342
+20104278,SDN CAKUNG TIMUR 01,SD,Cakung,Jakarta Timur ,484
+20104280,SDN Cakung Barat 18 Pt.,SD,Cakung,Jakarta Timur ,233
+20104283,SD NEGERI CAKUNG BARAT 15 PAGI,SD,Cakung,Jakarta Timur ,859
+20104311,SDN BAMBU APUS 04 PG,SD,Cipayung,Jakarta Timur ,699
+20104312,SDN BAMBU APUS 03 PAGI,SD,Cipayung,Jakarta Timur ,703
+20104314,SDN Bambu Apus 01 Pg.,SD,Cipayung,Jakarta Timur ,701
+20104315,SDN Bale Kambang 03 Pg.,SD,Kramat Jati,Jakarta Timur ,447
+20104316,SDN Balekambang 01 Pg.,SD,Kramat Jati,Jakarta Timur ,383
+20104330,SDN Cipinang Melayu 04,SD,Makasar,Jakarta Timur ,695
+20104331,SDN Cipinang Melayu 03 Pg.,SD,Makasar,Jakarta Timur ,414
+20104334,SDN Cipinang Melayu 01 Pg.,SD,Makasar,Jakarta Timur ,778
+20104335,SDN Cipinang 05 Pg.,SD,Pulo Gadung,Jakarta Timur ,380
+20104337,SDN Cipinang 03 Pg.,SD,Pulo Gadung,Jakarta Timur ,446
+20104344,SDN Cipayung 05 Pg.,SD,Cipayung,Jakarta Timur ,479
+20104346,SDN CIPAYUNG 04 PG,SD,Cipayung,Jakarta Timur ,538
+20104347,SDN Cipayung 03 Pg.,SD,Cipayung,Jakarta Timur ,441
+20104348,SDN Cipinang Melayu 05 Pg.,SD,Makasar,Jakarta Timur ,430
+20104351,SDN Ciracas 11 Pg.,SD,Ciracas,Jakarta Timur ,446
+20104352,SDN Ciracas 10,SD,Ciracas,Jakarta Timur ,632
+20104353,SDN Ciracas 09 Pagi,SD,Ciracas,Jakarta Timur ,371
+20104355,SDN Ciracas 07 Pg.,SD,Ciracas,Jakarta Timur ,670
+20104356,SDN Ciracas 06 Pg.,SD,Ciracas,Jakarta Timur ,406
+20104357,SDN Ciracas 05 Pg.,SD,Ciracas,Jakarta Timur ,433
+20104364,SDN Cipinang Melayu 10 Pg.,SD,Makasar,Jakarta Timur ,337
+20104365,SDN Cipinang Melayu 09 Pg.,SD,Makasar,Jakarta Timur ,412
+20104366,SDN Cipinang Melayu 08 Pg.,SD,Makasar,Jakarta Timur ,381
+20104367,SDN Cipayung 02 Pg.,SD,Cipayung,Jakarta Timur ,416
+20104368,SDN CIPAYUNG 01 PG,SD,Cipayung,Jakarta Timur ,383
+20104369,SDN CEGER 01 PG,SD,Cipayung,Jakarta Timur ,442
+20104372,SDN CAWANG 12,SD,Kramat Jati,Jakarta Timur ,315
+20104375,SDN Cawang 09,SD,Kramat Jati,Jakarta Timur ,397
+20104377,SDN Cawang 07 Pg.,SD,Kramat Jati,Jakarta Timur ,560
+20104380,SDN Cawang 04,SD,Kramat Jati,Jakarta Timur ,414
+20104383,SDN Cawang 01,SD,Kramat Jati,Jakarta Timur ,825
+20104385,SDN CEGER 02 PG,SD,Cipayung,Jakarta Timur ,449
+20104389,SDN Cililitan 03 Pg.,SD,Kramat Jati,Jakarta Timur ,285
+20104390,SDN Cililitan 02,SD,Kramat Jati,Jakarta Timur ,542
+20104391,SDN Cililitan 01 Pagi,SD,Kramat Jati,Jakarta Timur ,382
+20104394,SDN CILANGKAP 03 PG,SD,Cipayung,Jakarta Timur ,728
+20104396,SDN Cilangkap 01 Pg.,SD,Cipayung,Jakarta Timur ,905
+20104400,SDN CIBUBUR 04 PAGI,SD,Ciracas,Jakarta Timur ,757
+20104401,SDN Cibubur 03 Pg.,SD,Ciracas,Jakarta Timur ,765
+20104403,SDN Cibubur 01 Pg.,SD,Ciracas,Jakarta Timur ,762
+20104464,SD NEGERI PULAU HARAPAN 01 PG,SD,Kepulauan Seribu Utara,Kepulauan Seribu,181
+20104465,SDN PULAU HARAPAN 02 PAGI,SD,Kepulauan Seribu Utara,Kepulauan Seribu,72
+20104466,SD NEGERI PULAU KELAPA 01 PG,SD,Kepulauan Seribu Utara,Kepulauan Seribu,309
+20104467,SD NEGERI PULAU KELAPA 02 PG,SD,Kepulauan Seribu Utara,Kepulauan Seribu,315
+20104468,SD NEGERI PULAU PANGGANG 01 PG,SD,Kepulauan Seribu Utara,Kepulauan Seribu,200
+20104469,SD NEGERI PULAU PANGGANG 02 PG,SD,Kepulauan Seribu Utara,Kepulauan Seribu,223
+20104470,SD NEGERI PULAU PANGGANG 03 PG JAKARTA,SD,Kepulauan Seribu Utara,Kepulauan Seribu,137
+20104471,SD NEGERI PULAU PARI 01 PG,SD,Kepulauan Seribu Selatan,Kepulauan Seribu,151
+20104472,SD NEGERI PULAU PARI 02 PG,SD,Kepulauan Seribu Selatan,Kepulauan Seribu,240
+20104473,SD NEGERI PULAU TIDUNG 01 PG,SD,Kepulauan Seribu Selatan,Kepulauan Seribu,139
+20104474,SD NEGERI PULAU TIDUNG 02 PG,SD,Kepulauan Seribu Selatan,Kepulauan Seribu,138
+20104475,SD NEGERI PULAU TIDUNG 03 PG,SD,Kepulauan Seribu Selatan,Kepulauan Seribu,143
+20104476,SD NEGERI PULAU TIDUNG 04 PG,SD,Kepulauan Seribu Selatan,Kepulauan Seribu,19
+20104477,SD NEGERI PERCONTOHAN PULAU UNTUNG JAWA 01 PG,SD,Kepulauan Seribu Selatan,Kepulauan Seribu,272
+20104481,SD NEGERI PERCONTOHAN BENDUNGAN HILIR 12 PG,SD,Tanah Abang,Jakarta Pusat ,363
+20104482,SD NEGERI CEMPAKA BARU 01,SD,Kemayoran,Jakarta Pusat ,666
+20104484,SDN Cempaka Baru 03 Pg.,SD,Kemayoran,Jakarta Pusat ,469
+20104485,SD NEGERI CEMPAKA BARU 05,SD,Kemayoran,Jakarta Pusat ,448
+20104487,SD NEGERI CEMPAKA BARU 07 PG,SD,Kemayoran,Jakarta Pusat ,345
+20104488,SD NEGERI CEMPAKA BARU 09 PAGI,SD,Kemayoran,Jakarta Pusat ,384
+20104489,SD NEGERI CEMPAKA BARU 11 PAGI,SD,Kemayoran,Jakarta Pusat ,345
+20104490,SD NEGERI CEMPAKA BARU 12,SD,Kemayoran,Jakarta Pusat ,681
+20104498,SDN Cideng 02 Pg.,SD,Gambir,Jakarta Pusat ,313
+20104499,SDN Cideng 04,SD,Gambir,Jakarta Pusat ,190
+20104501,SDN CIDENG 07,SD,Gambir,Jakarta Pusat ,288
+20104503,SDN Cideng 09,SD,Gambir,Jakarta Pusat ,247
+20104504,SDN Cideng 10,SD,Gambir,Jakarta Pusat ,228
+20104506,SDN Cideng 13 Pg.,SD,Gambir,Jakarta Pusat ,190
+20104508,SD NEGERI CIKINI 01 PAGI,SD,Menteng,Jakarta Pusat ,189
+20104509,SD NEGERI CIKINI 02,SD,Menteng,Jakarta Pusat ,390
+20104515,SDN Duri Pulo 01 Pg.,SD,Gambir,Jakarta Pusat ,186
+20104516,SD NEGERI DURI PULO 02 PAGI,SD,Gambir,Jakarta Pusat ,192
+20104517,SDN Duri Pulo 03 Pg.,SD,Gambir,Jakarta Pusat ,222
+20104518,SDN Duri Pulo 04 Pg.,SD,Gambir,Jakarta Pusat ,184
+20104519,SDN DURI PULO 05 PAGI,SD,Gambir,Jakarta Pusat ,186
+20104521,SD NEGERI DURI PULO 07,SD,Gambir,Jakarta Pusat ,366
+20104522,SDN Duri Pulo 08 Pg.,SD,Gambir,Jakarta Pusat ,221
+20104524,SDN Duri Pulo 10,SD,Gambir,Jakarta Pusat ,253
+20104525,SDN GALUR 01,SD,Johar Baru,Jakarta Pusat ,236
+20104527,SD NEGERI GALUR 03,SD,Johar Baru,Jakarta Pusat ,244
+20104529,SDN Gondangdia 01 Pg.,SD,Menteng,Jakarta Pusat ,363
+20104530,SD NEGERI GONDANGDIA 03 PG,SD,Menteng,Jakarta Pusat ,251
+20104532,SD NEGERI GONDANGDIA 05 PG,SD,Menteng,Jakarta Pusat ,164
+20104533,SDN GUNUNG SAHARI SELATAN 01,SD,Kemayoran,Jakarta Pusat ,381
+20104535,SDN GUNUNG SAHARI UTARA 01 PAGI,SD,Sawah Besar,Jakarta Pusat ,254
+20104536,SD NEGERI HARAPAN MULIA 01 PAGI,SD,Kemayoran,Jakarta Pusat ,663
+20104538,SEKOLAH DASAR NEGERI HARAPAN MULIA 03 PAGI,SD,Kemayoran,Jakarta Pusat ,758
+20104540,SD NEGERI JOHAR BARU 01 PAGI,SD,Johar Baru,Jakarta Pusat ,270
+20104541,SD NEGERI JOHAR BARU 03 PAGI,SD,Johar Baru,Jakarta Pusat ,184
+20104542,SD NEGERI JOHAR BARU 04 PETANG,SD,Johar Baru,Jakarta Pusat ,119
+20104543,SD NEGERI JOHAR BARU 05 PAGI,SD,Johar Baru,Jakarta Pusat ,174
+20104544,SD NEGERI JOHAR BARU 07 PAGI,SD,Johar Baru,Jakarta Pusat ,203
+20104545,SD NEGERI JOHAR BARU 09 PAGI,SD,Johar Baru,Jakarta Pusat ,348
+20104546,SD NEGERI JOHAR BARU 10 PAGI,SD,Johar Baru,Jakarta Pusat ,499
+20104548,SD NEGERI JOHAR BARU 13 PAGI,SD,Johar Baru,Jakarta Pusat ,246
+20104549,SD NEGERI JOHAR BARU 14 PT,SD,Johar Baru,Jakarta Pusat ,168
+20104550,SD NEGERI JOHAR BARU 15 PAGI,SD,Johar Baru,Jakarta Pusat ,241
+20104551,SD NEGERI JOHAR BARU 16 PT,SD,Johar Baru,Jakarta Pusat ,176
+20104552,SD NEGERI JOHAR BARU 17 PAGI,SD,Johar Baru,Jakarta Pusat ,359
+20104553,SD NEGERI JOHAR BARU 18 PT,SD,Johar Baru,Jakarta Pusat ,212
+20104554,SD NEGERI JOHAR BARU 19 PAGI,SD,Johar Baru,Jakarta Pusat ,311
+20104556,SD NEGERI JOHAR BARU 21 PAGI,SD,Johar Baru,Jakarta Pusat ,173
+20104557,SD NEGERI JOHAR BARU 23 PAGI,SD,Johar Baru,Jakarta Pusat ,175
+20104558,SD NEGERI JOHAR BARU 25 PAGI,SD,Johar Baru,Jakarta Pusat ,135
+20104559,SDN Johar Baru 29 Pg.,SD,Johar Baru,Jakarta Pusat ,465
+20104571,SDN Kampung Bali 01,SD,Tanah Abang,Jakarta Pusat ,260
+20104573,SDN Kampung Bali 03 Pg.,SD,Tanah Abang,Jakarta Pusat ,252
+20104574,SDN Kampung Bali 07 Pg.,SD,Tanah Abang,Jakarta Pusat ,136
+20104575,SD NEGERI KAMPUNG RAWA 01 PAGI,SD,Johar Baru,Jakarta Pusat ,277
+20104576,SD NEGERI KAMPUNG RAWA 02 PT,SD,Johar Baru,Jakarta Pusat ,272
+20104577,SD NEGERI KARANG ANYAR 01 PG,SD,Sawah Besar,Jakarta Pusat ,182
+20104579,SD NEGERI KARANG ANYAR 05 PG,SD,Sawah Besar,Jakarta Pusat ,209
+20104582,SDN Karet Tengsin 13 Pg.,SD,Tanah Abang,Jakarta Pusat ,601
+20104584,SDN Kartini 01 Pg.,SD,Sawah Besar,Jakarta Pusat ,388
+20104586,SD NEGERI KEBON KACANG 01,SD,Tanah Abang,Jakarta Pusat ,702
+20104588,SD NEGERI KEBON KACANG 05 PAGI,SD,Tanah Abang,Jakarta Pusat ,216
+20104590,SDN Kebon Kelapa 02 Pg.,SD,Gambir,Jakarta Pusat ,366
+20104591,SD NEGERI KEBON KOSONG 01 PAGI,SD,Kemayoran,Jakarta Pusat ,351
+20104592,SD NEGERI KEBON KOSONG 02,SD,Kemayoran,Jakarta Pusat ,482
+20104593,SD NEGERI KEBON KOSONG 03 PAGI,SD,Kemayoran,Jakarta Pusat ,304
+20104595,SD NEGERI KEBON KOSONG 05 PAGI,SD,Kemayoran,Jakarta Pusat ,294
+20104596,SD NEGERI KEBON KOSONG 07 PAGI,SD,Kemayoran,Jakarta Pusat ,350
+20104597,SD NEGERI KEBON KOSONG 09 PAGI,SD,Kemayoran,Jakarta Pusat ,440
+20104600,SD NEGERI KEBON KOSONG 13 PAGI,SD,Kemayoran,Jakarta Pusat ,522
+20104602,SD NEGERI KEBON KOSONG 15 PAGI,SD,Kemayoran,Jakarta Pusat ,362
+20104603,SD NEGERI KEBON KOSONG 16 PAGI,SD,Kemayoran,Jakarta Pusat ,278
+20104604,SD NEGERI KEBON KOSONG 17 PG,SD,Kemayoran,Jakarta Pusat ,828
+20104607,SD NEGERI KEBON MELATI 01 PG,SD,Tanah Abang,Jakarta Pusat ,842
+20104610,SDN KEBON SIRIH 01,SD,Menteng,Jakarta Pusat ,20
+20104612,SDN KEBON SIRIH 04,SD,Menteng,Jakarta Pusat ,309
+20104614,SD NEGERI KEMAYORAN I PG,SD,Kemayoran,Jakarta Pusat ,538
+20104618,SD NEGERI KEMAYORAN 07 PAGI,SD,Kemayoran,Jakarta Pusat ,200
+20104620,SD NEGERI KEMAYORAN 09,SD,Kemayoran,Jakarta Pusat ,338
+20104622,SD NEGERI KEMAYORAN 11 PG,SD,Kemayoran,Jakarta Pusat ,259
+20104624,SD NEGERI KEMAYORAN 13 PG,SD,Kemayoran,Jakarta Pusat ,148
+20104625,SD NEGERI KEMAYORAN 14 PETANG,SD,Kemayoran,Jakarta Pusat ,92
+20104626,SD NEGERI KEMAYORAN 15,SD,Kemayoran,Jakarta Pusat ,427
+20104627,SD NEGERI KEMAYORAN 16 PETANG,SD,Kemayoran,Jakarta Pusat ,166
+20104629,SDN Kenari 01,SD,Senen,Jakarta Pusat ,972
+20104631,SDN Kenari 08,SD,Senen,Jakarta Pusat ,500
+20104632,SDN Kramat 03 Pg.,SD,Senen,Jakarta Pusat ,362
+20104635,SDN Kramat 09 Pt.,SD,Senen,Jakarta Pusat ,178
+20104636,SDN Kwitang 01 Pagi,SD,Senen,Jakarta Pusat ,184
+20104637,SDN Kwitang 02 Pt.,SD,Senen,Jakarta Pusat ,171
+20104638,SDN Mangga Dua Selatan 01 Pg.,SD,Sawah Besar,Jakarta Pusat ,425
+20104639,SD NEGERI MANGGA DUA SELATAN 05 PG,SD,Sawah Besar,Jakarta Pusat ,271
+20104640,SDN MENTENG 01 PAGI,SD,Menteng,Jakarta Pusat ,409
+20104641,SDN MENTENG 02 PAGI,SD,Menteng,Jakarta Pusat ,508
+20104642,SD NEGERI PERCONTOHAN MENTENG 03 PG,SD,Menteng,Jakarta Pusat ,379
+20104643,SDN Gambir 01 Pagi,SD,Gambir,Jakarta Pusat ,152
+20104644,SDN PASAR BARU 01,SD,Sawah Besar,Jakarta Pusat ,337
+20104645,SDN Pasar Baru 07 Pg.,SD,Sawah Besar,Jakarta Pusat ,414
+20104646,SDN Pasar Baru 11,SD,Sawah Besar,Jakarta Pusat ,337
+20104648,SDN Paseban 01 Pg.,SD,Senen,Jakarta Pusat ,178
+20104649,SDN Paseban 07 Pagi,SD,Senen,Jakarta Pusat ,214
+20104651,SDN PASEBAN 11 PAGI,SD,Senen,Jakarta Pusat ,185
+20104652,SDN Paseban 15 Pg.,SD,Senen,Jakarta Pusat ,162
+20104653,SD NEGERI PEGANGSAAN 01 PG,SD,Menteng,Jakarta Pusat ,324
+20104655,SDN Petamburan 01,SD,Tanah Abang,Jakarta Pusat ,393
+20104657,SDN Petamburan 05,SD,Tanah Abang,Jakarta Pusat ,499
+20104658,SDN Petamburan 07,SD,Tanah Abang,Jakarta Pusat ,404
+20104659,SD NEGERI PETOJO SELATAN 01 PAGI,SD,Gambir,Jakarta Pusat ,377
+20104661,SDN Petojo Selatan 05 Pg.,SD,Gambir,Jakarta Pusat ,141
+20104662,SDN Petojo Selatan 06 Pg.,SD,Gambir,Jakarta Pusat ,175
+20104663,SD NEGERI PETOJO UTARA 01 PAGI,SD,Gambir,Jakarta Pusat ,185
+20104664,SDN Petojo Utara 03 Pg.,SD,Gambir,Jakarta Pusat ,221
+20104667,SDN Petojo Utara 05,SD,Gambir,Jakarta Pusat ,309
+20104668,SD NEGERI PETOJO UTARA 09 PAGI,SD,Gambir,Jakarta Pusat ,258
+20104669,SDN Petojo Utara 13 Pg.,SD,Gambir,Jakarta Pusat ,314
+20104670,SD NEGERI RAWASARI 01 PAGI,SD,Cempaka Putih,Jakarta Pusat ,171
+20104671,SD NEGERI RAWASARI 02 PAGI,SD,Cempaka Putih,Jakarta Pusat ,255
+20104672,SD NEGERI RAWASARI 05 PAGI,SD,Cempaka Putih,Jakarta Pusat ,304
+20104674,SDN Senen 03 Pg.,SD,Senen,Jakarta Pusat ,186
+20104675,SD NEGERI SERDANG 01 PAGI,SD,Kemayoran,Jakarta Pusat ,361
+20104676,SD NEGERI SERDANG 03,SD,Kemayoran,Jakarta Pusat ,364
+20104679,SD NEGERI SERDANG 05 PAGI,SD,Kemayoran,Jakarta Pusat ,364
+20104681,SD NEGERI SERDANG 07 PAGI,SD,Kemayoran,Jakarta Pusat ,656
+20104683,SD NEGERI SERDANG 11,SD,Kemayoran,Jakarta Pusat ,443
+20104685,SD NEGERI SERDANG 13 PAGI,SD,Kemayoran,Jakarta Pusat ,347
+20104687,SD NEGERI SUMUR BATU 01 PAGI,SD,Kemayoran,Jakarta Pusat ,349
+20104688,SD NEGERI SUMUR BATU 03 PAGI,SD,Kemayoran,Jakarta Pusat ,374
+20104689,SD NEGERI SUMUR BATU 04 PAGI,SD,Kemayoran,Jakarta Pusat ,209
+20104690,SD NEGERI SUMUR BATU 06,SD,Kemayoran,Jakarta Pusat ,388
+20104692,SD NEGERI SUMUR BATU 08 PAGI,SD,Kemayoran,Jakarta Pusat ,579
+20104694,SD NEGERI SUMUR BATU 12 PG,SD,Kemayoran,Jakarta Pusat ,334
+20104695,SD NEGERI SUMUR BATU 14 PAGI,SD,Kemayoran,Jakarta Pusat ,381
+20104696,SD NEGERI SUMUR BATU 15 PT,SD,Kemayoran,Jakarta Pusat ,219
+20104697,SDN Tanah Tinggi 01 Pg.,SD,Johar Baru,Jakarta Pusat ,231
+20104698,SD NEGERI TANAH TINGGI 02 PT,SD,Johar Baru,Jakarta Pusat ,158
+20104699,SD NEGERI TANAH TINGGI 03 PAGI,SD,Johar Baru,Jakarta Pusat ,199
+20104700,SD NEGERI TANAH TINGGI 04 PT,SD,Johar Baru,Jakarta Pusat ,183
+20104701,SD NEGERI TANAH TINGGI 05,SD,Johar Baru,Jakarta Pusat ,325
+20104702,SD NEGERI TANAH TINGGI 06 PT,SD,Johar Baru,Jakarta Pusat ,149
+20104704,SD NEGERI TANAH TINGGI 09 PG,SD,Johar Baru,Jakarta Pusat ,278
+20104705,SD NEGERI TANAH TINGGI 10 PT,SD,Johar Baru,Jakarta Pusat ,245
+20104706,SD NEGERI TANAH TINGGI 11 PAGI,SD,Johar Baru,Jakarta Pusat ,264
+20104707,SD NEGERI UTAN PANJANG 01 PG,SD,Kemayoran,Jakarta Pusat ,439
+20104709,SD NEGERI UTAN PANJANG 03 PAGI,SD,Kemayoran,Jakarta Pusat ,406
+20104841,SDN Ancol 01 Pg.,SD,Pademangan,Jakarta Utara ,528
+20104842,SD Negeri Ancol 03 Jakarta,SD,Pademangan,Jakarta Utara ,583
+20104844,SDN Cilincing 01 Pg.,SD,Cilincing,Jakarta Utara ,351
+20104845,SDN Cilincing 02 Pg.,SD,Cilincing,Jakarta Utara ,306
+20104846,SDN Cilincing 07 Pg.,SD,Cilincing,Jakarta Utara ,453
+20104847,SD NEGERI CILINCING 08 PAGI,SD,Cilincing,Jakarta Utara ,317
+20104848,SDN Kali Baru 01 Pg.,SD,Cilincing,Jakarta Utara ,572
+20104849,SDN Kamal Muara 01 Pg.,SD,Penjaringan,Jakarta Utara ,740
+20104850,SDN KAPUK MUARA 03,SD,Penjaringan,Jakarta Utara ,1149
+20104852,SD NEGERI KEBON BAWANG 01,SD,Tanjung Priok,Jakarta Utara ,543
+20104854,SDN Kebon Bawang 03 Pg.,SD,Tanjung Priok,Jakarta Utara ,537
+20104856,SDN Kebon Bawang 05 Pg.,SD,Tanjung Priok,Jakarta Utara ,738
+20104858,SD NEGERI KEBON BAWANG 07 PG,SD,Tanjung Priok,Jakarta Utara ,287
+20104859,SDN Kebon Bawang 08 Pt.,SD,Tanjung Priok,Jakarta Utara ,276
+20104860,SDN KEBON BAWANG 09 PETANG,SD,Tanjung Priok,Jakarta Utara ,382
+20104861,SDN Kelapa Gading Barat 01,SD,Kelapa Gading,Jakarta Utara ,480
+20104863,SDN Kelapa Gading Timur 01,SD,Kelapa Gading,Jakarta Utara ,466
+20104865,SDN Kelapa Gading Tim. 03 Pg.,SD,Kelapa Gading,Jakarta Utara ,732
+20104869,SDN Lagoa 01 Pg.,SD,Koja,Jakarta Utara ,625
+20104871,SDN Marunda 01 Pg.,SD,Cilincing,Jakarta Utara ,359
+20104872,SDN Marunda 02 Pg.,SD,Cilincing,Jakarta Utara ,852
+20104873,SD NEGERI MARUNDA 03 PG,SD,Cilincing,Jakarta Utara ,599
+20104874,SDN Pademangan Barat 09 Pg.,SD,Pademangan,Jakarta Utara ,573
+20104875,SDN Pademangan Barat 11 Pg.,SD,Pademangan,Jakarta Utara ,733
+20104877,SDN Papanggo 01 Pg.,SD,Tanjung Priok,Jakarta Utara ,666
+20104879,SDN Papanggo 03 Pg.,SD,Tanjung Priok,Jakarta Utara ,381
+20104880,SDN Pegangsaan Dua 01,SD,Kelapa Gading,Jakarta Utara ,327
+20104882,SDN Pegangsaan Dua 03,SD,Kelapa Gading,Jakarta Utara ,276
+20104884,SDN Pegangsaan Dua 05 Pg.,SD,Kelapa Gading,Jakarta Utara ,381
+20104885,SDN Pegangsaan Dua 06 Pg.,SD,Kelapa Gading,Jakarta Utara ,563
+20104886,SD NEGERI PERCONTOHAN PEGANGSAAN DUA 07 PAGI,SD,Kelapa Gading,Jakarta Utara ,349
+20104891,SD NEGERI PEJAGALAN 01 PG,SD,Penjaringan,Jakarta Utara ,885
+20104892,SDN Pejagalan 05 Pg.,SD,Penjaringan,Jakarta Utara ,511
+20104895,SDN Pluit 01 Pg.,SD,Penjaringan,Jakarta Utara ,371
+20104896,SDN Pluit 03 Pg.,SD,Penjaringan,Jakarta Utara ,610
+20104903,SDN Rawa Badak Utara 09 Pg.,SD,Koja,Jakarta Utara ,374
+20104906,SDN Rawa Badak Utara 23 Pg.,SD,Koja,Jakarta Utara ,593
+20104907,SDN Rorotan 03 Pg.,SD,Cilincing,Jakarta Utara ,381
+20104911,SDN Semper Barat 15 Pg.,SD,Cilincing,Jakarta Utara ,347
+20104912,SDN Semper Timur 01 Pg.,SD,Cilincing,Jakarta Utara ,277
+20104913,SDN Semper Timur 02 Pt.,SD,Cilincing,Jakarta Utara ,279
+20104914,SD NEGERI SEMPER TIMUR 03,SD,Cilincing,Jakarta Utara ,598
+20104915,SD NEGERI SEMPER TIMUR 07,SD,Cilincing,Jakarta Utara ,317
+20104916,SDN SUKAPURA 02,SD,Cilincing,Jakarta Utara ,508
+20104917,SDN Sukapura 05 Pg.,SD,Cilincing,Jakarta Utara ,331
+20104918,SDN Sukapura 06 Pt.,SD,Cilincing,Jakarta Utara ,349
+20104919,SDN Sungai Bambu 01 Pg.,SD,Tanjung Priok,Jakarta Utara ,466
+20104921,SDN Sungai Bambu 03 Pg.,SD,Tanjung Priok,Jakarta Utara ,491
+20104923,SDN Sungai Bambu 05,SD,Tanjung Priok,Jakarta Utara ,654
+20104925,SDN SUNTER AGUNG 01,SD,Tanjung Priok,Jakarta Utara ,525
+20104927,SD NEGERI SUNTER AGUNG 03 PG,SD,Tanjung Priok,Jakarta Utara ,491
+20104929,SDN Sunter Agung 05 Pg.,SD,Tanjung Priok,Jakarta Utara ,459
+20104930,SDN Sunter Agung 07,SD,Tanjung Priok,Jakarta Utara ,431
+20104932,SD NEGERI SUNTER AGUNG 09 PG,SD,Tanjung Priok,Jakarta Utara ,627
+20104934,SDN Sunter Agung 11 Pg.,SD,Tanjung Priok,Jakarta Utara ,337
+20104935,SDN Sunter Agung 12 Pg.,SD,Tanjung Priok,Jakarta Utara ,376
+20104936,SDN Sunter Agung 13 Pagi,SD,Tanjung Priok,Jakarta Utara ,380
+20104937,SDN Sunter Jaya 01 Pg.,SD,Tanjung Priok,Jakarta Utara ,572
+20104940,SD NEGERI SUNTER JAYA 05 PG,SD,Tanjung Priok,Jakarta Utara ,545
+20104942,SDN Sunter Jaya 07 Pg.,SD,Tanjung Priok,Jakarta Utara ,480
+20104944,SD NEGERI SUNTER JAYA 09,SD,Tanjung Priok,Jakarta Utara ,463
+20104946,SDN Tanjung Priok 01 Pg.,SD,Tanjung Priok,Jakarta Utara ,366
+20104947,SDN Tanjung Priok 02 Pagi,SD,Tanjung Priok,Jakarta Utara ,608
+20104949,SD NEGERI TANJUNG PRIOK 04 PG,SD,Tanjung Priok,Jakarta Utara ,759
+20104952,SDN TUGU UTARA 01 PAGI,SD,Koja,Jakarta Utara ,586
+20104954,SD NEGERI TUGU UTARA 03 PG JAKARTA,SD,Koja,Jakarta Utara ,343
+20104956,SD NEGERI TUGU UTARA 05,SD,Koja,Jakarta Utara ,341
+20104958,SDN Tugu Utara 07 Pg.,SD,Koja,Jakarta Utara ,577
+20104963,SDN Tugu Utara 17 Pg.,SD,Koja,Jakarta Utara ,317
+20104965,SDN Warakas 01 Pg.,SD,Tanjung Priok,Jakarta Utara ,730
+20104967,SDN Warakas 03,SD,Tanjung Priok,Jakarta Utara ,544
+20104969,SDN Warakas 05 Pg,SD,Tanjung Priok,Jakarta Utara ,533
+20104971,SD NEGERI WARAKAS 07 PG,SD,Tanjung Priok,Jakarta Utara ,493
+20105139,SD NEGERI ANGKE 01 PAGI,SD,Tambora,Jakarta Barat ,413
+20105143,SD NEGERI ANGKE 05 PAGI,SD,Tambora,Jakarta Barat ,381
+20105145,SD NEGERI CENGKARENG BARAT 01 PG,SD,Cengkareng,Jakarta Barat ,220
+20105146,SD NEGERI CENGKARENG BARAT 02 PT,SD,Cengkareng,Jakarta Barat ,201
+20105149,SD NEGERI CENGKARENG BARAT 05 PG,SD,Cengkareng,Jakarta Barat ,282
+20105151,SD NEGERI CENGKARENG BARAT 07 PG,SD,Cengkareng,Jakarta Barat ,340
+20105152,SD NEGERI CENGKARENG BARAT 08,SD,Cengkareng,Jakarta Barat ,283
+20105153,SD NEGERI CENGKARENG BARAT 09 PG,SD,Cengkareng,Jakarta Barat ,374
+20105154,SD NEGERI CENGKARENG BARAT 10 PG,SD,Cengkareng,Jakarta Barat ,323
+20105156,SD NEGERI CENGKARENG BARAT 12 PG,SD,Cengkareng,Jakarta Barat ,218
+20105157,SD NEGERI CENGKARENG BARAT 13 PG,SD,Cengkareng,Jakarta Barat ,347
+20105158,SD NEGERI CENGKARENG BARAT 14 PAGI,SD,Cengkareng,Jakarta Barat ,326
+20105159,SD NEGERI CENGKARENG BARAT 15 PAGI,SD,Cengkareng,Jakarta Barat ,324
+20105160,SD NEGERI CENGKARENG BARAT 16 PG,SD,Cengkareng,Jakarta Barat ,379
+20105161,SD NEGERI CENGKARENG BARAT 17 PT,SD,Cengkareng,Jakarta Barat ,287
+20105163,SD NEGERI CENGKARENG BARAT 19 PG,SD,Cengkareng,Jakarta Barat ,317
+20105165,SD NEGERI CENGKARENG TIMUR 01 PG,SD,Cengkareng,Jakarta Barat ,429
+20105167,SD NEGERI CENGKARENG TIMUR 03 PG,SD,Cengkareng,Jakarta Barat ,313
+20105168,SD NEGERI CENGKARENG TIMUR 04 PT,SD,Cengkareng,Jakarta Barat ,245
+20105169,SD NEGERI CENGKARENG TIMUR 05 PG,SD,Cengkareng,Jakarta Barat ,454
+20105171,SDN Cengkareng Timur 07 Pagi,SD,Cengkareng,Jakarta Barat ,376
+20105172,SD NEGERI CENGKARENG TIMUR 09 PG,SD,Cengkareng,Jakarta Barat ,278
+20105173,SD NEGERI CENGKARENG TIMUR 10 PG,SD,Cengkareng,Jakarta Barat ,298
+20105175,SD NEGERI CENGKARENG TIMUR 12 PG,SD,Cengkareng,Jakarta Barat ,224
+20105176,SD NEGERI CENGKARENG TIMUR 13 PTG,SD,Cengkareng,Jakarta Barat ,267
+20105177,SD NEGERI CENGKARENG TIMUR 14 PG,SD,Cengkareng,Jakarta Barat ,330
+20105178,SD NEGERI CENGKARENG TIMUR 15 PG,SD,Cengkareng,Jakarta Barat ,356
+20105180,SD NEGERI CENGKARENG TIMUR 17 PG,SD,Cengkareng,Jakarta Barat ,284
+20105181,SD NEGERI CENGKARENG TIMUR 18 PG,SD,Cengkareng,Jakarta Barat ,317
+20105186,SD NEGERI DURI KEPA 01 PG,SD,Kebon Jeruk,Jakarta Barat ,462
+20105187,SD NEGERI DURI KEPA 03,SD,Kebon Jeruk,Jakarta Barat ,341
+20105188,SD NEGERI DURI KEPA 05 PG,SD,Kebon Jeruk,Jakarta Barat ,492
+20105189,SD NEGERI DURI KEPA 07 PG,SD,Kebon Jeruk,Jakarta Barat ,736
+20105192,SD NEGERI DURI KEPA 13,SD,Kebon Jeruk,Jakarta Barat ,546
+20105194,SD NEGERI DURI KEPA 17 PG,SD,Kebon Jeruk,Jakarta Barat ,370
+20105199,SD NEGERI DURI KOSAMBI 05 PT,SD,Cengkareng,Jakarta Barat ,350
+20105200,SD NEGERI DURI KOSAMBI 06 PG,SD,Cengkareng,Jakarta Barat ,542
+20105205,SD NEGERI DURI KOSAMBI 11 PT,SD,Cengkareng,Jakarta Barat ,315
+20105206,SDN DURI UTARA 01 PAGI,SD,Tambora,Jakarta Barat ,249
+20105208,SDN Duri Utara 03 Pg.,SD,Tambora,Jakarta Barat ,224
+20105209,SD NEGERI DURI UTARA 04 PETANG,SD,Tambora,Jakarta Barat ,199
+20105210,SDN Duri Utara 05 Pagi,SD,Tambora,Jakarta Barat ,236
+20105212,SD NEGERI GROGOL 01 PG,SD,Grogol Petamburan,Jakarta Barat ,480
+20105213,SD NEGERI GROGOL 05 PG,SD,Grogol Petamburan,Jakarta Barat ,184
+20105215,SD NEGERI GROGOL 11,SD,Grogol Petamburan,Jakarta Barat ,298
+20105216,SD NEGERI JATI PULO 01 PAGI,SD,Palmerah,Jakarta Barat ,376
+20105219,SD NEGERI JATI PULO 05 PAGI,SD,Palmerah,Jakarta Barat ,278
+20105220,SD NEGERI JATI PULO 06 PAGI,SD,Palmerah,Jakarta Barat ,284
+20105230,SD NEGERI JELAMBAR 08 PG,SD,Grogol Petamburan,Jakarta Barat ,384
+20105241,SD NEGERI JELAMBAR BARU 09 PAGI,SD,Grogol Petamburan,Jakarta Barat ,300
+20105242,SDN Jembatan Besi 01 Pg.,SD,Tambora,Jakarta Barat ,281
+20105243,SDN JEMBATAN BESI 02 PT,SD,Tambora,Jakarta Barat ,270
+20105244,SDN Jembatan Besi 03 Pg.,SD,Tambora,Jakarta Barat ,275
+20105246,SDN JEMBATAN LIMA 01 PAGI,SD,Tambora,Jakarta Barat ,230
+20105247,SDN JEMBATAN LIMA 02 PETANG,SD,Tambora,Jakarta Barat ,220
+20105248,SDN Jembatan Lima 03 Pg.,SD,Tambora,Jakarta Barat ,219
+20105251,SD NEGERI JOGLO 02 PT,SD,Kembangan,Jakarta Barat ,364
+20105254,SD NEGERI JOGLO 05 PAGI,SD,Kembangan,Jakarta Barat ,377
+20105256,SD NEGERI JOGLO 07 PT,SD,Kembangan,Jakarta Barat ,297
+20105259,SD NEGERI JOGLO 10 PAGI,SD,Kembangan,Jakarta Barat ,381
+20105261,SDN Kali Anyar 01 Pg.,SD,Tambora,Jakarta Barat ,250
+20105263,SDN Kalideres 01 Pagi,SD,Kali Deres,Jakarta Barat ,335
+20105265,SDN Kalideres 03 Pagi.,SD,Kali Deres,Jakarta Barat ,273
+20105266,SDN KALIDERES 04 PETANG,SD,Kali Deres,Jakarta Barat ,302
+20105267,SD NEGERI KALIDERES 05 PG,SD,Kali Deres,Jakarta Barat ,406
+20105268,SDN Kalideres 06 Pg.,SD,Kali Deres,Jakarta Barat ,310
+20105269,SDN Kalideres 07 Pg.,SD,Kali Deres,Jakarta Barat ,571
+20105271,SDN Kalideres 09 Pg.,SD,Kali Deres,Jakarta Barat ,252
+20105272,SDN Kalideres 10 Pagi,SD,Kali Deres,Jakarta Barat ,327
+20105273,SD NEGERI KALIDERES 12 PG,SD,Kali Deres,Jakarta Barat ,372
+20105274,SD NEGERI KALIDERES 13 PT,SD,Kali Deres,Jakarta Barat ,311
+20105275,SD NEGERI KALIDERES 14 PT,SD,Kali Deres,Jakarta Barat ,302
+20105276,SD NEGERI KAMAL 01 PG,SD,Kali Deres,Jakarta Barat ,346
+20105277,SD NEGERI KAMAL 02 PG,SD,Kali Deres,Jakarta Barat ,385
+20105278,SD NEGERI KAMAL 03,SD,Kali Deres,Jakarta Barat ,491
+20105280,SDN Kamal 05 Pg.,SD,Kali Deres,Jakarta Barat ,376
+20105281,SD NEGERI KAMAL 06 PG,SD,Kali Deres,Jakarta Barat ,381
+20105282,SDN KAMAL 07 PG,SD,Kali Deres,Jakarta Barat ,272
+20105283,SD NEGERI KAMAL 08 PT,SD,Kali Deres,Jakarta Barat ,349
+20105284,SD NEGERI KAMAL 09,SD,Kali Deres,Jakarta Barat ,388
+20105285,SD NEGERI KAMAL 10 PT,SD,Kali Deres,Jakarta Barat ,246
+20105286,SD NEGERI KAPUK 01 PG,SD,Cengkareng,Jakarta Barat ,380
+20105287,SD NEGERI KAPUK 02 PAGI,SD,Cengkareng,Jakarta Barat ,410
+20105288,SD NEGERI KAPUK 03 PG,SD,Cengkareng,Jakarta Barat ,381
+20105291,SD NEGERI KAPUK 06 PAGI,SD,Cengkareng,Jakarta Barat ,410
+20105294,SD NEGERI KAPUK 09 PG,SD,Cengkareng,Jakarta Barat ,511
+20105295,SD NEGERI KAPUK 10 PT,SD,Cengkareng,Jakarta Barat ,507
+20105296,SD NEGERI KAPUK 11 PG,SD,Cengkareng,Jakarta Barat ,396
+20105299,SD NEGERI KAPUK 14 PG,SD,Cengkareng,Jakarta Barat ,352
+20105301,SD NEGERI KAPUK 16 PAGI,SD,Cengkareng,Jakarta Barat ,380
+20105306,SD NEGERI KEAGUNGAN 05 PG,SD,Taman Sari,Jakarta Barat ,192
+20105307,SD NEGERI KEAGUNGAN 06 PT,SD,Taman Sari,Jakarta Barat ,189
+20105308,SD NEGERI KEBON JERUK 01,SD,Kebon Jeruk,Jakarta Barat ,445
+20105309,SD NEGERI KEBON JERUK 02 PG,SD,Kebon Jeruk,Jakarta Barat ,264
+20105314,SD NEGERI KEBON JERUK 08 PAGI,SD,Kebon Jeruk,Jakarta Barat ,410
+20105316,SD NEGERI KEBON JERUK 11 PAGI,SD,Kebon Jeruk,Jakarta Barat ,435
+20105321,SD NEGERI KEBON JERUK 17 PAGI,SD,Kebon Jeruk,Jakarta Barat ,408
+20105322,SD NEGERI KEDAUNG KALIANGKE 01 PG,SD,Cengkareng,Jakarta Barat ,277
+20105326,SD NEGERI KEDAUNG KALIANGKE 06,SD,Cengkareng,Jakarta Barat ,411
+20105327,SD NEGERI KEDAUNG KALIANGKE 07 PT,SD,Cengkareng,Jakarta Barat ,243
+20105329,SD NEGERI KEDAUNG KALIANGKE 09 PT,SD,Cengkareng,Jakarta Barat ,233
+20105330,SD NEGERI KEDAUNG KALIANGKE 10,SD,Cengkareng,Jakarta Barat ,356
+20105331,SD NEGERI KEDAUNG KALIANGKE 11 PG,SD,Cengkareng,Jakarta Barat ,307
+20105338,SD NEGERI KEDOYA SELATAN 01 PAGI.,SD,Kebon Jeruk,Jakarta Barat ,710
+20105340,SD NEGERI KEDOYA SELATAN 04 PG,SD,Kebon Jeruk,Jakarta Barat ,379
+20105344,SD NEGERI KEDOYA UTARA 03,SD,Kebon Jeruk,Jakarta Barat ,554
+20105346,SD NEGERI KEDOYA UTARA 04,SD,Kebon Jeruk,Jakarta Barat ,503
+20105348,SD NEGERI KEDOYA UTARA 09,SD,Kebon Jeruk,Jakarta Barat ,774
+20105349,SD NEGERI KELAPA DUA 01 PG,SD,Kebon Jeruk,Jakarta Barat ,564
+20105353,SD NEGERI KEMANGGISAN 03 PAGI,SD,Palmerah,Jakarta Barat ,351
+20105354,SD NEGERI KEMANGGISAN 05 PAGI,SD,Palmerah,Jakarta Barat ,298
+20105361,SDN KEMANGGISAN 14,SD,Palmerah,Jakarta Barat ,292
+20105363,SD NEGERI KEMANGGISAN 17 PAGI,SD,Palmerah,Jakarta Barat ,408
+20105366,SD NEGERI KEMBANGAN SELATAN 01 PG,SD,Kembangan,Jakarta Barat ,592
+20105368,SD NEGERI KEMBANGAN SELATAN 03 PAGI,SD,Kembangan,Jakarta Barat ,315
+20105370,SD NEGERI KEMBANGAN UTARA 01 PG,SD,Kembangan,Jakarta Barat ,492
+20105373,SD NEGERI KEMBANGAN UTARA 04 PG,SD,Kembangan,Jakarta Barat ,563
+20105376,SD NEGERI KEMBANGAN UTARA 07 PT,SD,Kembangan,Jakarta Barat ,339
+20105377,SD NEGERI KEMBANGAN UTARA 08 PT,SD,Kembangan,Jakarta Barat ,331
+20105378,SD NEGERI KEMBANGAN UTARA 09 PG,SD,Kembangan,Jakarta Barat ,354
+20105379,SD NEGERI KEMBANGAN UTARA 10 PG,SD,Kembangan,Jakarta Barat ,345
+20105381,SD NEGERI KEMBANGAN UTARA 12 PT,SD,Kembangan,Jakarta Barat ,351
+20105382,SD NEGERI KOTA BAMBU 01 PAGI,SD,Palmerah,Jakarta Barat ,362
+20105383,SD NEGERI KOTA BAMBU 02 PETANG,SD,Palmerah,Jakarta Barat ,360
+20105384,SD NEGERI KOTA BAMBU 03 PAGI,SD,Palmerah,Jakarta Barat ,662
+20105385,SD NEGERI KOTA BAMBU 04,SD,Palmerah,Jakarta Barat ,366
+20105388,SD NEGERI KOTA BAMBU 07 PAGI,SD,Palmerah,Jakarta Barat ,269
+20105393,SD NEGERI MANGGA BESAR 01 PG,SD,Taman Sari,Jakarta Barat ,169
+20105396,SDN Mangga Besar 05 Pg.,SD,Taman Sari,Jakarta Barat ,169
+20105399,SD NEGERI MANGGA BESAR 11 PG,SD,Taman Sari,Jakarta Barat ,302
+20105400,SD NEGERI MANGGA BESAR 15 PG,SD,Taman Sari,Jakarta Barat ,391
+20105401,SD NEGERI MAPHAR 01 PG,SD,Taman Sari,Jakarta Barat ,282
+20105403,SD NEGERI MERUYA SELATAN 01 PAGI,SD,Kembangan,Jakarta Barat ,648
+20105405,SD NEGERI MERUYA SELATAN 03,SD,Kembangan,Jakarta Barat ,521
+20105406,SD NEGERI MERUYA SELATAN 04,SD,Kembangan,Jakarta Barat ,630
+20105408,SD NEGERI MERUYA SELATAN 06 PG,SD,Kembangan,Jakarta Barat ,354
+20105411,SD NEGERI MERUYA UTARA 02 PAGI,SD,Kembangan,Jakarta Barat ,602
+20105412,SD NEGERI MERUYA UTARA 03 PG,SD,Kembangan,Jakarta Barat ,271
+20105416,SD NEGERI MERUYA UTARA 07 PG,SD,Kembangan,Jakarta Barat ,229
+20105417,SD NEGERI MERUYA UTARA 08 PG,SD,Kembangan,Jakarta Barat ,255
+20105418,SD NEGERI MERUYA UTARA 09 PG,SD,Kembangan,Jakarta Barat ,271
+20105419,SD NEGERI MERUYA UTARA 10 PG,SD,Kembangan,Jakarta Barat ,274
+20105421,SD NEGERI MERUYA UTARA 12 PAGI,SD,Kembangan,Jakarta Barat ,346
+20105424,SD N PALMERAH 01 PAGI,SD,Palmerah,Jakarta Barat ,254
+20105425,SD Negeri Palmerah 03 Pg.,SD,Palmerah,Jakarta Barat ,143
+20105427,SD NEGERI PALMERAH 05 PAGI,SD,Palmerah,Jakarta Barat ,135
+20105428,SD NEGERI PALMERAH 07 PAGI,SD,Palmerah,Jakarta Barat ,279
+20105434,SD NEGERI PALMERAH 15 PAGI,SD,Palmerah,Jakarta Barat ,365
+20105435,SD NEGERI PALMERAH 17 PAGI,SD,Palmerah,Jakarta Barat ,365
+20105436,SD NEGERI PALMERAH 19 PAGI,SD,Palmerah,Jakarta Barat ,303
+20105442,SD NEGERI PALMERAH 25 PAGI,SD,Palmerah,Jakarta Barat ,367
+20105445,SD NEGERI PEGADUNGAN 01 PG,SD,Kali Deres,Jakarta Barat ,288
+20105446,SDN Pegadungan 02 Pg.,SD,Kali Deres,Jakarta Barat ,338
+20105447,SD NEGERI PEGADUNGAN 03 PG,SD,Kali Deres,Jakarta Barat ,375
+20105448,SDN PEGADUNGAN 04 PG,SD,Kali Deres,Jakarta Barat ,284
+20105449,SD NEGERI PEGADUNGAN 05 PG,SD,Kali Deres,Jakarta Barat ,335
+20105450,SDN Pegadungan 06 Pg.,SD,Kali Deres,Jakarta Barat ,316
+20105452,SDN PEGADUNGAN 08 PT,SD,Kali Deres,Jakarta Barat ,196
+20105454,SD NEGERI PEGADUNGAN 10 PT,SD,Kali Deres,Jakarta Barat ,241
+20105455,SDN PEGADUNGAN 11 PG,SD,Kali Deres,Jakarta Barat ,572
+20105457,SD NEGERI PEGADUNGAN 12 PG,SD,Kali Deres,Jakarta Barat ,335
+20105458,SD NEGERI PEGADUNGAN 13 PAGI,SD,Kali Deres,Jakarta Barat ,347
+20105461,SDN Pekojan 01 Pg.,SD,Tambora,Jakarta Barat ,212
+20105462,SDN Pekojan 02 Petang,SD,Tambora,Jakarta Barat ,208
+20105463,SDN Pekojan 03 Pg.,SD,Tambora,Jakarta Barat ,217
+20105465,SDN Pekojan 05 Pagi,SD,Tambora,Jakarta Barat ,205
+20105474,SD NEGERI RAWA BUAYA 03 PG,SD,Cengkareng,Jakarta Barat ,350
+20105476,SD NEGERI RAWA BUAYA 05 PT,SD,Cengkareng,Jakarta Barat ,279
+20105480,SD NEGERI RAWA BUAYA 10 PT,SD,Cengkareng,Jakarta Barat ,378
+20105481,SD NEGERI SEMANAN 01 PG,SD,Kali Deres,Jakarta Barat ,315
+20105482,SD NEGERI SEMANAN 02 PT,SD,Kali Deres,Jakarta Barat ,306
+20105483,SD NEGERI SEMANAN 03 PG,SD,Kali Deres,Jakarta Barat ,308
+20105484,SD NEGERI SEMANAN 04 PG,SD,Kali Deres,Jakarta Barat ,413
+20105485,SDN Semanan 05 Pg.,SD,Kali Deres,Jakarta Barat ,377
+20105486,SD NEGERI SEMANAN 06 PG,SD,Kali Deres,Jakarta Barat ,340
+20105487,SD NEGERI SEMANAN 07 PT,SD,Kali Deres,Jakarta Barat ,307
+20105488,SD NEGERI SEMANAN 08 PG,SD,Kali Deres,Jakarta Barat ,337
+20105489,SDN SEMANAN 09 PAGI,SD,Kali Deres,Jakarta Barat ,375
+20105490,SD NEGERI SEMANAN 10 PETANG,SD,Kali Deres,Jakarta Barat ,381
+20105491,SD NEGERI SEMANAN 11 PETANG,SD,Kali Deres,Jakarta Barat ,384
+20105492,SD NEGERI SEMANAN 12 PG,SD,Kali Deres,Jakarta Barat ,367
+20105493,SD NEGERI SEMANAN 13 PT,SD,Kali Deres,Jakarta Barat ,339
+20105494,SD NEGERI SEMANAN 14 PT,SD,Kali Deres,Jakarta Barat ,369
+20105495,SD NEGERI SLIPI 01,SD,Palmerah,Jakarta Barat ,607
+20105499,SD NEGERI SLIPI 07 PAGI,SD,Palmerah,Jakarta Barat ,564
+20105501,SD NEGERI SLIPI 11 PAGI,SD,Palmerah,Jakarta Barat ,414
+20105505,SD NEGERI SLIPI 18 PAGI,SD,Palmerah,Jakarta Barat ,155
+20105506,SD NEGERI SRENGSENG 01,SD,Kembangan,Jakarta Barat ,546
+20105508,SD NEGERI SRENGSENG 03 PAGI,SD,Kembangan,Jakarta Barat ,300
+20105509,SD NEGERI SRENGSENG 04,SD,Kembangan,Jakarta Barat ,370
+20105510,SD NEGERI SRENGSENG 05 PG,SD,Kembangan,Jakarta Barat ,314
+20105511,SD NEGERI SRENGSENG 06 PAGI,SD,Kembangan,Jakarta Barat ,308
+20105513,SD NEGERI SRENGSENG 08 PETANG,SD,Kembangan,Jakarta Barat ,275
+20105514,SD NEGERI SUKABUMI SELATAN 01 PAGI.,SD,Kebon Jeruk,Jakarta Barat ,250
+20105515,SD NEGERI SUKABUMI SELATAN 03 PG,SD,Kebon Jeruk,Jakarta Barat ,256
+20105516,SD NEGERI SUKABUMI SELATAN 05 PG,SD,Kebon Jeruk,Jakarta Barat ,284
+20105517,SD NEGERI SUKABUMI SELATAN 06 PAGI.,SD,Kebon Jeruk,Jakarta Barat ,442
+20105518,SD NEGERI SUKABUMI SELATAN 07 PAGI,SD,Kebon Jeruk,Jakarta Barat ,442
+20105519,SD NEGERI SUKABUMI UTARA 01 PG,SD,Kebon Jeruk,Jakarta Barat ,473
+20105521,SD NEGERI SUKABUMI UTARA 05,SD,Kebon Jeruk,Jakarta Barat ,362
+20105522,SD NEGERI SUKABUMI UTARA 07 PAGI,SD,Kebon Jeruk,Jakarta Barat ,398
+20105523,SD NEGERI SUKABUMI UTARA 08 PAGI,SD,Kebon Jeruk,Jakarta Barat ,201
+20105524,SD NEGERI SUKABUMI UTARA 09 PG,SD,Kebon Jeruk,Jakarta Barat ,230
+20105525,SD NEGERI TAMANSARI 01 PG,SD,Taman Sari,Jakarta Barat ,175
+20105526,SD NEGERI TAMANSARI 03 PG,SD,Taman Sari,Jakarta Barat ,191
+20105527,SD NEGERI TAMANSARI 05,SD,Taman Sari,Jakarta Barat ,159
+20105529,SD NEGERI TAMANSARI 07 PG,SD,Taman Sari,Jakarta Barat ,270
+20105530,SD NEGERI TAMANSARI 08 PG,SD,Taman Sari,Jakarta Barat ,321
+20105531,SD NEGERI TAMANSARI 09 PG,SD,Taman Sari,Jakarta Barat ,168
+20105532,SD NEGERI TAMBORA 01 PAGI,SD,Tambora,Jakarta Barat ,286
+20105533,SD NEGERI TAMBORA 02 PETANG,SD,Tambora,Jakarta Barat ,253
+20105534,SD NEGERI TAMBORA 03 PAGI,SD,Tambora,Jakarta Barat ,288
+20105535,SD NEGERI TANAH SEREAL 01 PAGI,SD,Tambora,Jakarta Barat ,261
+20105536,SDN TANAH SEREAL 02 PETANG,SD,Tambora,Jakarta Barat ,257
+20105537,SD NEGERI TANAH SEREAL 03 PAGI,SD,Tambora,Jakarta Barat ,280
+20105538,SD NEGERI TANAH SEREAL 04 PETANG,SD,Tambora,Jakarta Barat ,219
+20105539,SD NEGERI TANJUNG DUREN SELATAN 01 PG,SD,Grogol Petamburan,Jakarta Barat ,509
+20105542,SD NEGERI TANJUNG DUREN SELATAN 05 PG,SD,Grogol Petamburan,Jakarta Barat ,405
+20105544,SD NEGERI TANJUNG DUREN UTARA 01 PG,SD,Grogol Petamburan,Jakarta Barat ,305
+20105545,SD NEGERI TANJUNG DUREN UTARA 02 PG,SD,Grogol Petamburan,Jakarta Barat ,339
+20105547,SD NEGERI TANJUNG DUREN UTARA 06 PAGI,SD,Grogol Petamburan,Jakarta Barat ,467
+20105549,SD NEGERI TEGAL ALUR 01 PG,SD,Kali Deres,Jakarta Barat ,314
+20105560,SDN Tegal Alur 02,SD,Kali Deres,Jakarta Barat ,564
+20105561,SD NEGERI TEGAL ALUR 03 PG,SD,Kali Deres,Jakarta Barat ,381
+20105562,SD NEGERI TEGAL ALUR 04 PG,SD,Kali Deres,Jakarta Barat ,313
+20105564,SDN Tegal Alur 06 Pg.,SD,Kali Deres,Jakarta Barat ,373
+20105565,SD NEGERI TEGAL ALUR 07 PG,SD,Kali Deres,Jakarta Barat ,343
+20105566,SD NEGERI TEGAL ALUR 08 PG,SD,Kali Deres,Jakarta Barat ,382
+20105568,SDN Tegal Alur 09 Pg.,SD,Kali Deres,Jakarta Barat ,313
+20105569,SD NEGERI TEGAL ALUR 10 PG,SD,Kali Deres,Jakarta Barat ,274
+20105570,SD NEGERI TEGAL ALUR 11 PG,SD,Kali Deres,Jakarta Barat ,272
+20105571,SD NEGERI TEGAL ALUR 12 PT,SD,Kali Deres,Jakarta Barat ,309
+20105572,SDN Tegal Alur 13 Pt.,SD,Kali Deres,Jakarta Barat ,342
+20105573,SDN Tegal Alur 14 Pt.,SD,Kali Deres,Jakarta Barat ,264
+20105574,SD NEGERI TEGAL ALUR 15 PG,SD,Kali Deres,Jakarta Barat ,285
+20105575,SD NEGERI TEGAL ALUR 16 PT,SD,Kali Deres,Jakarta Barat ,303
+20105576,SDN Tegal Alur 17,SD,Kali Deres,Jakarta Barat ,541
+20105578,SDN Tegal Alur 19 Pt.,SD,Kali Deres,Jakarta Barat ,273
+20105579,SD NEGERI TEGAL ALUR 20 PT,SD,Kali Deres,Jakarta Barat ,277
+20105580,SD NEGERI TEGAL ALUR 21 PT,SD,Kali Deres,Jakarta Barat ,304
+20105581,SD NEGERI TOMANG 01 PAGI,SD,Grogol Petamburan,Jakarta Barat ,495
+20105587,SD NEGERI TOMANG 11 PAGI,SD,Grogol Petamburan,Jakarta Barat ,368
+20105590,SD NEGERI WIJAYA KUSUMA 01 PG,SD,Grogol Petamburan,Jakarta Barat ,187
+20105591,SD NEGERI WIJAYA KUSUMA 02 PG,SD,Grogol Petamburan,Jakarta Barat ,254
+20105592,SD NEGERI WIJAYA KUSUMA 03 PG,SD,Grogol Petamburan,Jakarta Barat ,380
+20105594,SD NEGERI WIJAYA KUSUMA 05 PG,SD,Grogol Petamburan,Jakarta Barat ,369
+20105596,SD NEGERI WIJAYA KUSUMA 07 PG,SD,Grogol Petamburan,Jakarta Barat ,368
+20105813,SDN BANGKA 03 PAGI,SD,Mampang Prapatan,Jakarta Selatan ,232
+20105814,SD NEGERI BINTARO 03 PAGI,SD,Pesanggrahan,Jakarta Selatan ,348
+20105821,SD NEGERI BUKIT DURI 05 PAGI,SD,Tebet,Jakarta Selatan ,613
+20105828,SDN Ciganjur 04 Pg.,SD,Jagakarsa,Jakarta Selatan ,779
+20105830,SD NEGERI CILANDAK BARAT 01 PAGI,SD,Cilandak,Jakarta Selatan ,193
+20105831,SDN CILANDAK BARAT 03 PG.,SD,Cilandak,Jakarta Selatan ,287
+20105832,SDN CILANDAK BARAT 06 PG.,SD,Cilandak,Jakarta Selatan ,198
+20105833,SDN CILANDAK BARAT 07 PG.,SD,Cilandak,Jakarta Selatan ,377
+20105834,SD NEGERI CILANDAK BARAT 08,SD,Cilandak,Jakarta Selatan ,380
+20105837,SD NEGERI CILANDAK BARAT 12 PAGI,SD,Cilandak,Jakarta Selatan ,278
+20105838,SD NEGERI CILANDAK BARAT 13,SD,Cilandak,Jakarta Selatan ,210
+20105840,SD NEGERI CILANDAK BARAT 15 PAGI,SD,Cilandak,Jakarta Selatan ,117
+20105841,SD NEGERI CILANDAK BARAT 17 PAGI,SD,Cilandak,Jakarta Selatan ,209
+20105846,SDN Cipedak 01 Pg.,SD,Jagakarsa,Jakarta Selatan ,505
+20105847,SD NEGERI CIPEDAK 02,SD,Jagakarsa,Jakarta Selatan ,538
+20105848,SDN Cipedak 03 Pg.,SD,Jagakarsa,Jakarta Selatan ,876
+20105849,SDN Cipedak 05 Pg.,SD,Jagakarsa,Jakarta Selatan ,735
+20105851,SD NEGERI CIPETE SELATAN 01,SD,Cilandak,Jakarta Selatan ,344
+20105853,SDN Cipete Selatan 03,SD,Cilandak,Jakarta Selatan ,474
+20105855,SD NEGERI CIPETE SELATAN 05 PAGI,SD,Cilandak,Jakarta Selatan ,394
+20105860,SDN CIPETE UTARA 05 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,251
+20105862,SD NEGERI CIPETE UTARA 09 PG,SD,Kebayoran Baru,Jakarta Selatan ,214
+20105863,SD NEGERI CIPETE UTARA 10 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,170
+20105864,SD NEGERI CIPETE UTARA 11 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,199
+20105865,SD NEGERI CIPETE UTARA 12 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,185
+20105866,SD NEGERI CIPETE UTARA 13 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,346
+20105868,SD NEGERI CIPETE UTARA 15 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,495
+20105870,SDN Cipulir 01 Pagi,SD,Kebayoran Lama,Jakarta Selatan ,379
+20105872,SDN CIPULIR 03 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,942
+20105874,SDN Cipulir 05 Pg.,SD,Kebayoran Lama,Jakarta Selatan ,507
+20105876,SD NEGERI CIPULIR 07,SD,Kebayoran Lama,Jakarta Selatan ,443
+20105879,SDN Cipulir 11 Pg.,SD,Kebayoran Lama,Jakarta Selatan ,320
+20105881,SDN Duren Tiga 13 Pg.,SD,Pancoran,Jakarta Selatan ,276
+20105882,SDN Duren Tiga 14 Pg.,SD,Pancoran,Jakarta Selatan ,239
+20105884,SD NEGERI GANDARIA SELATAN 01,SD,Cilandak,Jakarta Selatan ,358
+20105885,SDN Gandaria Selatan 03 Pg.,SD,Cilandak,Jakarta Selatan ,340
+20105887,SDN GANDARIA UTARA 01 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,181
+20105891,SDN GANDARIA UTARA 03 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,501
+20105895,SD NEGERI GANDARIA UTARA 08 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,230
+20105896,SDN GANDARIA UTARA 11 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,267
+20105898,SD NEGERI GROGOL SELATAN 01 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,864
+20105900,SD NEGERI GROGOL SELATAN 05,SD,Kebayoran Lama,Jakarta Selatan ,620
+20105904,SDN Grogol Selatan 13 Pg.,SD,Kebayoran Lama,Jakarta Selatan ,485
+20105906,SDN GROGOL SELATAN 17 PG.,SD,Kebayoran Lama,Jakarta Selatan ,393
+20105907,SDN GROGOL UTARA 01,SD,Kebayoran Lama,Jakarta Selatan ,292
+20105909,SDN Grogol Utara 03 Pagi,SD,Kebayoran Lama,Jakarta Selatan ,495
+20105913,SD NEGERI GROGOL UTARA 09 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,873
+20105915,SDN Grogol Utara 12 Pagi,SD,Kebayoran Lama,Jakarta Selatan ,518
+20105916,SDN Grogol Utara 13 Pg.,SD,Kebayoran Lama,Jakarta Selatan ,248
+20105919,SDN Grogol Utara 16 Pagi,SD,Kebayoran Lama,Jakarta Selatan ,504
+20105921,SD NEGERI GUNTUR 01,SD,Setia Budi,Jakarta Selatan ,509
+20105922,SDN Guntur 03 Pg.,SD,Setia Budi,Jakarta Selatan ,466
+20105923,SDN Gunung 01 Pagi.,SD,Kebayoran Baru,Jakarta Selatan ,513
+20105927,SD NEGERI GUNUNG 05,SD,Kebayoran Baru,Jakarta Selatan ,378
+20105929,SDN Jagakarsa 01 Pg.,SD,Jagakarsa,Jakarta Selatan ,346
+20105930,SDN Jagakarsa 02 Pg.,SD,Jagakarsa,Jakarta Selatan ,436
+20105931,SDN Jagakarsa 03 Pg.,SD,Jagakarsa,Jakarta Selatan ,410
+20105932,SDN JAGAKARSA 04 PAGI,SD,Jagakarsa,Jakarta Selatan ,230
+20105933,SDN Jagakarsa 05 Pg.,SD,Jagakarsa,Jakarta Selatan ,444
+20105934,SDN Jagakarsa 06 Pg.,SD,Jagakarsa,Jakarta Selatan ,443
+20105935,SDN Jagakarsa 07 Pg.,SD,Jagakarsa,Jakarta Selatan ,314
+20105936,SDN Jagakarsa 08 Pg.,SD,Jagakarsa,Jakarta Selatan ,336
+20105937,SDN Jagakarsa 09 Pg.,SD,Jagakarsa,Jakarta Selatan ,377
+20105938,SDN JAGAKARSA 11 PAGI,SD,Jagakarsa,Jakarta Selatan ,305
+20105939,SDN Jagakarsa 12 Pagi,SD,Jagakarsa,Jakarta Selatan ,243
+20105940,SDN Jagakarsa 13 Pg.,SD,Jagakarsa,Jakarta Selatan ,278
+20105941,SD NEGERI JAGAKARSA 14,SD,Jagakarsa,Jakarta Selatan ,242
+20105942,SD NEGERI JATIPADANG 01,SD,Pasar Minggu,Jakarta Selatan ,533
+20105944,SD NEGERI JATI PADANG 05 PAGI,SD,Pasar Minggu,Jakarta Selatan ,416
+20105945,SD NEGERI KALIBATA 01,SD,Pancoran,Jakarta Selatan ,438
+20105946,SD NEGERI KALIBATA 03,SD,Pancoran,Jakarta Selatan ,199
+20105947,SDN Kalibata 04 Pg.,SD,Pancoran,Jakarta Selatan ,281
+20105949,SDN Kalibata 07 Pg.,SD,Pancoran,Jakarta Selatan ,388
+20105951,SDN Kalibata 11 Pg.,SD,Pancoran,Jakarta Selatan ,390
+20105952,SD NEGERI KARET 01 PAGI,SD,Setia Budi,Jakarta Selatan ,152
+20105955,SD NEGERI KARET KUNINGAN 01 PAGI,SD,Setia Budi,Jakarta Selatan ,120
+20105957,SD NEGERI KARET KUNINGAN 03 PAGI,SD,Setia Budi,Jakarta Selatan ,334
+20105961,SDN KEBAYORAN LAMA SELATAN 03,SD,Kebayoran Lama,Jakarta Selatan ,527
+20105962,SDN KEBAYORAN LAMA SELATAN 05 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,539
+20105964,SDN Kebayoran Lama Selatan 09 Pagi,SD,Kebayoran Lama,Jakarta Selatan ,355
+20105966,SD NEGERI KEBAYORAN LAMA SELATAN 11 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,247
+20105967,SD NEGERI KEBAYORAN LAMA SELATAN 12 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,429
+20105969,SDN Kebayoran Lama Selatan 14 Pagi,SD,Kebayoran Lama,Jakarta Selatan ,259
+20105970,SD NEGERI KEBAYORAN LAMA SELATAN 16 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,240
+20105971,SD NEGERI KEBAYORAN LAMA SELATAN 17 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,277
+20105972,SDN Keb. Lama Selatan 19 Pg.,SD,Kebayoran Lama,Jakarta Selatan ,565
+20105975,SDN Kebayoran Lama Utara 01,SD,Kebayoran Lama,Jakarta Selatan ,197
+20105977,SDN Keb. Lama Utara 03 Pg.,SD,Kebayoran Lama,Jakarta Selatan ,488
+20105980,SD NEGERI KEBAYORAN LAMA UTARA 07 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,290
+20105982,SDN Kebayoran Lama Utara 09 Pagi,SD,Kebayoran Lama,Jakarta Selatan ,307
+20105984,SD NEGERI KEBAYORAN LAMA UTARA 11,SD,Kebayoran Lama,Jakarta Selatan ,553
+20105986,SD NEGERI KEBAYORAN LAMA UTARA 13 PAGI,SD,Kebayoran Lama,Jakarta Selatan ,363
+20105987,SD NEGERI KEBAGUSAN 01 PAGI,SD,Pasar Minggu,Jakarta Selatan ,733
+20105989,SDN KEBAGUSAN 04 PAGI,SD,Pasar Minggu,Jakarta Selatan ,366
+20106004,SDN KRAMAT PELA 01 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,188
+20106014,SD NEGERI KUNINGAN BARAT 01 PG,SD,Mampang Prapatan,Jakarta Selatan ,110
+20106016,SD NEGERI KUNINGAN BARAT 05,SD,Mampang Prapatan,Jakarta Selatan ,177
+20106019,SDN Lebak Bulus 01 Pg.,SD,Cilandak,Jakarta Selatan ,533
+20106020,SD NEGERI LEBAK BULUS 02,SD,Cilandak,Jakarta Selatan ,382
+20106021,SDN Lebak Bulus 03 Pg.,SD,Cilandak,Jakarta Selatan ,298
+20106022,SDN Lebak Bulus 04 Pg.,SD,Cilandak,Jakarta Selatan ,484
+20106025,SDN Lebak Bulus 07 Pg.,SD,Cilandak,Jakarta Selatan ,258
+20106026,SDN Lenteng Agung 01 Pg.,SD,Jagakarsa,Jakarta Selatan ,657
+20106028,SD NEGERI LENTENG AGUNG 06 PAGI,SD,Jagakarsa,Jakarta Selatan ,349
+20106029,SD NEGERI LENTENG AGUNG 09 PAGI,SD,Jagakarsa,Jakarta Selatan ,591
+20106032,SD NEGERI MAMPANG PRAPATAN 01 PG,SD,Mampang Prapatan,Jakarta Selatan ,202
+20106035,SD NEGERI MAMPANG PRAPATAN 05 PG,SD,Mampang Prapatan,Jakarta Selatan ,297
+20106040,SDN MANGGARAI 05 PAGI,SD,Tebet,Jakarta Selatan ,846
+20106050,SDN Manggarai Selatan 01,SD,Tebet,Jakarta Selatan ,334
+20106052,SDN MANGGARAI SELATAN 03,SD,Tebet,Jakarta Selatan ,275
+20106054,SDN Menteng Atas 01 Pg,SD,Setia Budi,Jakarta Selatan ,296
+20106055,SD NEGERI MENTENG ATAS 02,SD,Setia Budi,Jakarta Selatan ,280
+20106056,SD NEGERI MENTENG ATAS 05 PG,SD,Setia Budi,Jakarta Selatan ,494
+20106057,SDN Menteng Atas 11,SD,Setia Budi,Jakarta Selatan ,511
+20106059,SD NEGERI MENTENG ATAS 19 PAGI,SD,Setia Budi,Jakarta Selatan ,243
+20106060,SD MENTENG ATAS 21 PAGI,SD,Setia Budi,Jakarta Selatan ,299
+20106063,SD NEGERI MENTENG DALAM 05 PAGI,SD,Tebet,Jakarta Selatan ,278
+20106066,SD NEGERI MENTENG DALAM 11 PAGI,SD,Tebet,Jakarta Selatan ,278
+20106067,SD NEGERI PANCORAN 01 PAGI,SD,Pancoran,Jakarta Selatan ,376
+20106069,SD NEGERI PANCORAN 03 PAGI,SD,Pancoran,Jakarta Selatan ,173
+20106072,SD PASAR MANGGIS 01 PAGI,SD,Setia Budi,Jakarta Selatan ,483
+20106074,SDN Pasar Manggis 03,SD,Setia Budi,Jakarta Selatan ,504
+20106076,SDN Pasar Minggu 01 Pg.,SD,Pasar Minggu,Jakarta Selatan ,242
+20106077,SD NEGERI PASAR MINGGU 02 PG,SD,Pasar Minggu,Jakarta Selatan ,368
+20106078,SD NEGERI PASAR MINGGU 03 PG,SD,Pasar Minggu,Jakarta Selatan ,359
+20106079,SD NEGERI PASAR MINGGU 04 PG,SD,Pasar Minggu,Jakarta Selatan ,270
+20106081,SD NEGERI PEJATEN BARAT 01,SD,Pasar Minggu,Jakarta Selatan ,544
+20106084,SDN Pejaten Barat 05 Pg.,SD,Pasar Minggu,Jakarta Selatan ,243
+20106085,SD NEGERI PEJATEN BARAT 06 PG,SD,Pasar Minggu,Jakarta Selatan ,366
+20106087,SD NEGERI PEJATEN BARAT 08 PAGI,SD,Pasar Minggu,Jakarta Selatan ,272
+20106088,SD NEGERI PEJATEN BARAT 09 PG,SD,Pasar Minggu,Jakarta Selatan ,185
+20106089,SD NEGERI PEJATEN BARAT 10 PG,SD,Pasar Minggu,Jakarta Selatan ,216
+20106090,SD NEGERI PEJATEN BARAT 11,SD,Pasar Minggu,Jakarta Selatan ,477
+20106092,SD NEGERI PEJATEN TIMUR 01 PG,SD,Pasar Minggu,Jakarta Selatan ,993
+20106097,SDN PEJATEN TIMUR 07 PAGI,SD,Pasar Minggu,Jakarta Selatan ,391
+20106099,SD NEGERI PEJATEN TIMUR 11 PG,SD,Pasar Minggu,Jakarta Selatan ,605
+20106102,SD NEGERI PEJATEN TIMUR 15 PG,SD,Pasar Minggu,Jakarta Selatan ,138
+20106103,SD NEGERI PEJATEN TIMUR 17 PG,SD,Pasar Minggu,Jakarta Selatan ,184
+20106104,SD NEGERI PEJATEN TIMUR 18 PG,SD,Pasar Minggu,Jakarta Selatan ,175
+20106105,SDN Pejaten Timur 20,SD,Pasar Minggu,Jakarta Selatan ,360
+20106107,SD NEGERI PEJATEN TIMUR 22 PG,SD,Pasar Minggu,Jakarta Selatan ,173
+20106108,SD N PELA MAMPANG 01,SD,Mampang Prapatan,Jakarta Selatan ,307
+20106110,SDN Pela Mampang 03 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,314
+20106113,SDN Pela Mampang 05 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,345
+20106114,SD NEGERI PELA MAMPANG 07,SD,Mampang Prapatan,Jakarta Selatan ,248
+20106115,SD N PELA MAMPANG 08,SD,Mampang Prapatan,Jakarta Selatan ,232
+20106117,SDN Pela Mampang 11 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,313
+20106118,SDN Pela Mampang 12 Pg.,SD,Mampang Prapatan,Jakarta Selatan ,195
+20106119,SD N PELA MAMPANG 14 PG,SD,Mampang Prapatan,Jakarta Selatan ,220
+20106120,SD NEGERI PESANGGRAHAN 01,SD,Pesanggrahan,Jakarta Selatan ,409
+20106121,SD NEGERI PESANGGRAHAN 02 PAGI,SD,Pesanggrahan,Jakarta Selatan ,508
+20106122,SD NEGERI PESANGGRAHAN 03,SD,Pesanggrahan,Jakarta Selatan ,563
+20106124,SDN Pesanggrahan 04 Pg.,SD,Pesanggrahan,Jakarta Selatan ,417
+20106125,SDN Pesanggrahan 05 Pg.,SD,Pesanggrahan,Jakarta Selatan ,336
+20106129,SD NEGERI PESANGGRAHAN 09 PAGI,SD,Pesanggrahan,Jakarta Selatan ,437
+20106130,SDN Pesanggrahan 10 Pg.,SD,Pesanggrahan,Jakarta Selatan ,402
+20106131,SD NEGERI PETUKANGAN SELATAN 01,SD,Pesanggrahan,Jakarta Selatan ,458
+20106132,SD NEGERI PETUKANGAN SELATAN 02,SD,Pesanggrahan,Jakarta Selatan ,395
+20106133,SDN PETUKANGAN SELATAN 03,SD,Pesanggrahan,Jakarta Selatan ,550
+20106135,SDN PETUKANGAN SELATAN 05,SD,Pesanggrahan,Jakarta Selatan ,540
+20106139,SD NEGERI PETUKANGAN UTARA 01 PG,SD,Pesanggrahan,Jakarta Selatan ,540
+20106140,SDN Petukangan Utara 05 Pg.,SD,Pesanggrahan,Jakarta Selatan ,559
+20106141,SDN Petukangan Utara 06 Pg.,SD,Pesanggrahan,Jakarta Selatan ,409
+20106142,SDN Petukangan Utara 07 Pagi,SD,Pesanggrahan,Jakarta Selatan ,478
+20106143,SD NEGERI PETUKANGAN UTARA 08,SD,Pesanggrahan,Jakarta Selatan ,470
+20106144,SD NEGERI PETUKANGAN UTARA 09 PG,SD,Pesanggrahan,Jakarta Selatan ,446
+20106145,SDN PONDOK LABU 01 PAGI,SD,Cilandak,Jakarta Selatan ,381
+20106146,SDN Pondok Labu 02 Pg.,SD,Cilandak,Jakarta Selatan ,654
+20106147,SDN PONDOK LABU 03,SD,Cilandak,Jakarta Selatan ,830
+20106148,SD NEGERI PONDOK LABU 05 PAGI,SD,Cilandak,Jakarta Selatan ,318
+20106150,SD NEGERI PONDOK LABU 07,SD,Cilandak,Jakarta Selatan ,605
+20106154,SDN PONDOK LABU 11 PAGI,SD,Cilandak,Jakarta Selatan ,380
+20106155,SD NEGERI PONDOK LABU 12,SD,Cilandak,Jakarta Selatan ,707
+20106156,SDN Pondok Labu 13 Pg.,SD,Cilandak,Jakarta Selatan ,381
+20106157,SDN Pondok Labu 14 Pg.,SD,Cilandak,Jakarta Selatan ,345
+20106159,SD NEGERI PONDOK LABU 16,SD,Cilandak,Jakarta Selatan ,275
+20106162,SDN PONDOK PINANG 03,SD,Kebayoran Lama,Jakarta Selatan ,412
+20106164,SD NEGERI PULO 01 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,204
+20106165,SD NEGERI PULO 03 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,177
+20106172,SD NEGERI RAGUNAN 5 PAGI,SD,Pasar Minggu,Jakarta Selatan ,320
+20106174,SDN RAGUNAN 12,SD,Pasar Minggu,Jakarta Selatan ,445
+20106176,SD NEGERI RAGUNAN 14 PAGI,SD,Pasar Minggu,Jakarta Selatan ,380
+20106183,SD NEGERI RAWAJATI 08 PG,SD,Pancoran,Jakarta Selatan ,376
+20106184,SD NEGERI RAWA BARAT 09 PAGI,SD,Kebayoran Baru,Jakarta Selatan ,132
+20106186,SD NEGERI SETIABUDI 01,SD,Setia Budi,Jakarta Selatan ,158
+20106193,SDN Srengseng Sawah 07,SD,Jagakarsa,Jakarta Selatan ,824
+20106195,SDN Srengseng Sawah 11 Pg.,SD,Jagakarsa,Jakarta Selatan ,430
+20106196,SD NEGERI SRENGSENG SAWAH 12 PAGI,SD,Jagakarsa,Jakarta Selatan ,300
+20106198,SD NEGERI SRENGSENG SAWAH 14 PG,SD,Jagakarsa,Jakarta Selatan ,265
+20106199,SDN Srengseng Sawah 15 Pagi,SD,Jagakarsa,Jakarta Selatan ,487
+20106201,SD NEGERI SRENGSENG SAWAH 17,SD,Jagakarsa,Jakarta Selatan ,406
+20106202,SD NEGERI TANJUNG BARAT 01 PAGI,SD,Jagakarsa,Jakarta Selatan ,296
+20106203,SD NEGERI TANJUNG BARAT 05 PAGI,SD,Jagakarsa,Jakarta Selatan ,373
+20106214,SD NEGERI TEBET TIMUR 15 PAGI,SD,Tebet,Jakarta Selatan ,252
+20106220,SDN ULUJAMI 05 PAGI,SD,Pesanggrahan,Jakarta Selatan ,374
+20106270,SDN Grogol Utara 05 Pagi,SD,Kebayoran Lama,Jakarta Selatan ,211
+20106342,SMP NEGERI 133 JAKARTA,SMP,Kepulauan Seribu Utara,Kepulauan Seribu,208
+20106343,SMP NEGERI 241,SMP,Kepulauan Seribu Selatan,Kepulauan Seribu,183
+20106344,SMPN 288 JAKARTA,SMP,Kepulauan Seribu Selatan,Kepulauan Seribu,132
+20106346,SMP NEGERI 260 JAKARTA,SMP,Kepulauan Seribu Utara,Kepulauan Seribu,265
+20106347,SMP NEGERI 285 JAKARTA,SMP,Kepulauan Seribu Selatan,Kepulauan Seribu,128
+20106401,SMP Negeri 39 Jakarta,SMP,Gambir,Jakarta Pusat ,553
+20106410,SMP Negeri 71,SMP,Cempaka Putih,Jakarta Pusat ,584
+20106716,SMP NEGERI 136 JAKARTA,SMP,Koja,Jakarta Utara ,810
+20107034,SMP NEGERI 16 JAKARTA,SMP,Kebayoran Lama,Jakarta Selatan ,865
+20107179,SMP Negeri 283,SMP,Cipayung,Jakarta Timur ,659
+20107180,SMP NEGERI 284 JAKARTA,SMP,Cakung,Jakarta Timur ,513
+20107181,SMP Negeri 287,SMP,Makasar,Jakarta Timur ,726
+20107182,SMP Negeri 35,SMP,Kramat Jati,Jakarta Timur ,1170
+20107183,SMP NEGERI SATU ATAP 01 P. PARI,SMP,Kepulauan Seribu Selatan,Kepulauan Seribu,60
+20107185,SMAN 69 JAKARTA,SMA,Kepulauan Seribu Utara,Kepulauan Seribu,555
+20107319,SMAN 28 JAKARTA,SMA,Pasar Minggu,Jakarta Selatan ,779
+20107320,SMAN 79 JAKARTA,SMA,Setia Budi,Jakarta Selatan ,702
+20107358,SMKN 59 JAKARTA,SMK,Kebayoran Lama,Jakarta Selatan ,492
+20107433,SMKN 23 JAKARTA,SMK,Pademangan,Jakarta Utara ,664
+20107434,SMKN 33 JAKARTA,SMK,Kelapa Gading,Jakarta Utara ,681
+20107436,SMKN 4 JAKARTA,SMK,Cilincing,Jakarta Utara ,1508
+20107437,SMKN 49 JAKARTA,SMK,Cilincing,Jakarta Utara ,922
+20107438,SMKN 55 JAKARTA,SMK,Pademangan,Jakarta Utara ,889
+20107439,SMKN 56 JAKARTA,SMK,Penjaringan,Jakarta Utara ,1570
+20107711,SMP NEGERI SATU ATAP 02 PULAU SABIRA,SMP,Kepulauan Seribu Utara,Kepulauan Seribu,24
+20108286,SDN Kayumanis 02 Petang,SD,Matraman,Jakarta Timur ,183
+20108287,SD NEGERI KAYUMANIS 03 PAGI,SD,Matraman,Jakarta Timur ,192
+20108288,SDN Kebon Manggis 01,SD,Matraman,Jakarta Timur ,689
+20108298,SD NEGERI KEBON MANGGIS 11 PAGI,SD,Matraman,Jakarta Timur ,232
+20108302,SD NEGERI PALMERIAM 01 PAGI,SD,Matraman,Jakarta Timur ,218
+20108303,SDN Palmeriam 02 Petang,SD,Matraman,Jakarta Timur ,243
+20108309,SDN Pisangan Baru 07 Pg.,SD,Matraman,Jakarta Timur ,640
+20108311,SDN Pisangan Baru 09 Pg.,SD,Matraman,Jakarta Timur ,187
+20108316,SD NEGERI KAYUMANIS 01 PAGI,SD,Matraman,Jakarta Timur ,190
+20108317,SDN Kayumanis 04 Pt.,SD,Matraman,Jakarta Timur ,168
+20108318,SDN Kebon Manggis 12 Pt.,SD,Matraman,Jakarta Timur ,111
+20108344,SDN Kebon Manggis 08 Pg.,SD,Matraman,Jakarta Timur ,320
+20108378,SDN UTAN KAYU SELATAN 01 PAGI,SD,Matraman,Jakarta Timur ,193
+20108379,SDN UTAN KAYU SELATAN 02 PETANG,SD,Matraman,Jakarta Timur ,160
+20108380,SDN Utan Kayu Selatan 03 Pagi.,SD,Matraman,Jakarta Timur ,191
+20108381,SD Negeri Utan Kayu Selatan 04 Pt.,SD,Matraman,Jakarta Timur ,116
+20108382,SDN Utan Kayu Selatan 05,SD,Matraman,Jakarta Timur ,398
+20108387,SD NEGERI BIDARACINA 03 PG,SD,Jatinegara,Jakarta Timur ,331
+20108389,SD NEGERI BIDARACINA 05 PG,SD,Jatinegara,Jakarta Timur ,408
+20108390,SDN Cipinang Besar Selatan 07 Pagi.,SD,Jatinegara,Jakarta Timur ,236
+20108393,SD NEGERI CIPINANG BESAR SELATAN 01 PAGI,SD,Jatinegara,Jakarta Timur ,290
+20108400,SD NEGERI CIPINANG BESAR SELATAN 02 PG,SD,Jatinegara,Jakarta Timur ,152
+20108401,SD NEGERI CIPINANG BESAR SELATAN 04,SD,Jatinegara,Jakarta Timur ,326
+20108402,SD NEGERI CIPINANG BESAR SELATAN 05 PG,SD,Jatinegara,Jakarta Timur ,310
+20108411,SDN Utan Kayu Utara 07 Pg.,SD,Matraman,Jakarta Timur ,184
+20108414,SD NEGERI UTAN KAYU SELATAN 09 PAGI,SD,Matraman,Jakarta Timur ,214
+20108416,SDN Utan Kayu Selatan 11 Pg.,SD,Matraman,Jakarta Timur ,225
+20108418,SD NEGERI UTAN KAYU SELATAN 13 PAGI,SD,Matraman,Jakarta Timur ,345
+20108419,SDN UTAN KAYU SELATAN 14 PAGI,SD,Matraman,Jakarta Timur ,210
+20108421,SDN Utan Kayu Selatan 19 Pt.,SD,Matraman,Jakarta Timur ,119
+20108422,SDN Utan Kayu Selatan 21,SD,Matraman,Jakarta Timur ,363
+20108425,SDN Pondok Bambu 10 Pg.,SD,Duren Sawit,Jakarta Timur ,321
+20108440,SDN Cipinang Besar Selatan 08 Pg.,SD,Jatinegara,Jakarta Timur ,359
+20108442,SDN Cipinang Besar Selatan 13 Pg.,SD,Jatinegara,Jakarta Timur ,306
+20108445,SD NEGERI CIPINANG BESAR SELATAN 15 PG,SD,Jatinegara,Jakarta Timur ,315
+20108446,SD NEGERI CIPINANG BESAR SELATAN 16,SD,Jatinegara,Jakarta Timur ,269
+20108447,SD NEGERI CIPINANG BESAR SELATAN 17 PG,SD,Jatinegara,Jakarta Timur ,228
+20108448,SD NEGERI CIPINANG BESAR SELATAN 18 PG,SD,Jatinegara,Jakarta Timur ,271
+20108449,SDN Cipinang Besar Selatan 19 Pg.,SD,Jatinegara,Jakarta Timur ,207
+20108450,SD NEGERI CIPINANG BESAR SELATAN 20,SD,Jatinegara,Jakarta Timur ,316
+20108451,SDN Cipinang Besar Utara 01 Pg.,SD,Jatinegara,Jakarta Timur ,280
+20108452,SDN Cipinang Besar Utara 02 Pt.,SD,Jatinegara,Jakarta Timur ,202
+20108453,SDN Cipinang Besar Utara 03 Pg.,SD,Jatinegara,Jakarta Timur ,230
+20108454,SDN Cipinang Besar Utara 04 Pt.,SD,Jatinegara,Jakarta Timur ,160
+20108455,SD NEGERI CIPINANG BESAR UTARA 05 PG,SD,Jatinegara,Jakarta Timur ,306
+20108457,SDN Cipinang Besar Utara 06 Petang,SD,Jatinegara,Jakarta Timur ,251
+20108458,SD NEGERI CIPINANG BESAR UTARA 07 PETANG,SD,Jatinegara,Jakarta Timur ,281
+20108459,SD NEGERI CIPINANG BESAR UTARA 08 PG,SD,Jatinegara,Jakarta Timur ,373
+20108460,SD NEGERI CIPINANG BESAR UTARA 09 PG (SEKOLAH STAN,SD,Jatinegara,Jakarta Timur ,375
+20108461,SD NEGERI CIPINANG BESAR UTARA 10 PAGI,SD,Jatinegara,Jakarta Timur ,376
+20108462,SD NEGERI CIPINANG BESAR UTARA 11 PG,SD,Jatinegara,Jakarta Timur ,366
+20108463,SDN Cipinang Cempedak 01 Pagi,SD,Jatinegara,Jakarta Timur ,312
+20108521,SD NEGERI CIPINANG CEMPEDAK 02 PAGI,SD,Jatinegara,Jakarta Timur ,318
+20108523,SD NEGERI CIPINANG CEMPEDAK 04,SD,Jatinegara,Jakarta Timur ,355
+20108524,SD NEGERI CIPINANG CEMPEDAK 05 PG,SD,Jatinegara,Jakarta Timur ,232
+20108525,SD NEGERI CIPINANG CEMPEDAK 06 PG,SD,Jatinegara,Jakarta Timur ,185
+20108526,SD NEGERI CIPINANG CEMPEDAK 07,SD,Jatinegara,Jakarta Timur ,361
+20108528,SD NEGERI CIPINANG CEMPEDAK 09 PAGI,SD,Jatinegara,Jakarta Timur ,242
+20108529,SDN CIPINANG MUARA 01,SD,Jatinegara,Jakarta Timur ,372
+20108530,SDN Cipinang Muara 02 Pg.,SD,Jatinegara,Jakarta Timur ,345
+20108532,SD NEGERI CIPINANG MUARA 04,SD,Jatinegara,Jakarta Timur ,396
+20108533,SDN CIPINANG MUARA 05 PAGI,SD,Jatinegara,Jakarta Timur ,381
+20108534,SDN Cipinang Muara 06 Pg.,SD,Jatinegara,Jakarta Timur ,375
+20108535,SD NEGERI CIPINANG MUARA 07,SD,Jatinegara,Jakarta Timur ,408
+20108538,SDN CIPINANG MUARA 12,SD,Jatinegara,Jakarta Timur ,356
+20108540,SD Negeri Cipinang Muara 14 Pagi,SD,Jatinegara,Jakarta Timur ,305
+20108541,SD NEGERI CIPINANG MUARA 15 PAGI,SD,Jatinegara,Jakarta Timur ,301
+20108545,SDN CIPINANG 01 PAGI,SD,Pulo Gadung,Jakarta Timur ,381
+20108547,SD NEGERI CIPINANG MUARA 16 PAGI,SD,Jatinegara,Jakarta Timur ,299
+20108548,SD NEGERI CIPINANG MUARA 17 PAGI,SD,Jatinegara,Jakarta Timur ,284
+20108550,SD NEGERI CIPINANG MUARA 19 PG,SD,Jatinegara,Jakarta Timur ,191
+20108551,SD Negeri Cipinang Muara 20 Pg.,SD,Jatinegara,Jakarta Timur ,182
+20108552,SDN Cipinang Muara 21 Pg.,SD,Jatinegara,Jakarta Timur ,162
+20108557,SD NEGERI DUREN SAWIT 01,SD,Duren Sawit,Jakarta Timur ,568
+20108558,SD NEGERI DUREN SAWIT 02,SD,Duren Sawit,Jakarta Timur ,422
+20108560,SD NEGERI DUREN SAWIT 05 PG,SD,Duren Sawit,Jakarta Timur ,556
+20108561,SD NEGERI DUREN SAWIT 06,SD,Duren Sawit,Jakarta Timur ,344
+20108562,SDN Duren Sawit 07 Pg.,SD,Duren Sawit,Jakarta Timur ,361
+20108563,SDN Duren Sawit 08 Pg.,SD,Duren Sawit,Jakarta Timur ,366
+20108565,SDN Duren Sawit 10 Pagi,SD,Duren Sawit,Jakarta Timur ,420
+20108568,SD NEGERI DUREN SAWIT 13 PG,SD,Duren Sawit,Jakarta Timur ,485
+20108569,SDN DUREN SAWIT 14,SD,Duren Sawit,Jakarta Timur ,211
+20108570,SD NEGERI DUREN SAWIT 15 PG,SD,Duren Sawit,Jakarta Timur ,332
+20108571,SD NEGERI DUREN SAWIT 16 PG,SD,Duren Sawit,Jakarta Timur ,484
+20108573,SD NEGERI DUREN SAWIT 18,SD,Duren Sawit,Jakarta Timur ,320
+20108574,SD NEGERI KAMPUNG MELAYU 01 PAGI,SD,Jatinegara,Jakarta Timur ,436
+20108576,SDN KLENDER 01,SD,Duren Sawit,Jakarta Timur ,611
+20108578,SDN Klender 03 Pg.,SD,Duren Sawit,Jakarta Timur ,574
+20108579,SDN KLENDER 04,SD,Duren Sawit,Jakarta Timur ,486
+20108580,SD NEGERI KLENDER 06 PAGI,SD,Duren Sawit,Jakarta Timur ,599
+20108583,SDN KLENDER 10 PAGI,SD,Duren Sawit,Jakarta Timur ,468
+20108584,SDN Klender 12 Pg.,SD,Duren Sawit,Jakarta Timur ,287
+20108585,SDN KLENDER 13,SD,Duren Sawit,Jakarta Timur ,376
+20108586,SD NEGERI KLENDER 14,SD,Duren Sawit,Jakarta Timur ,368
+20108587,SD NEGERI KLENDER 15 PAGI,SD,Duren Sawit,Jakarta Timur ,454
+20108588,SDN Klender 16 Pg.,SD,Duren Sawit,Jakarta Timur ,435
+20108591,SD NEGERI KLENDER 20 PAGI,SD,Duren Sawit,Jakarta Timur ,272
+20108592,SDN KLENDER 21,SD,Duren Sawit,Jakarta Timur ,371
+20108593,SD NEGERI KLENDER 22 PAGI,SD,Duren Sawit,Jakarta Timur ,445
+20108597,SD N MALAKA JAYA 01,SD,Duren Sawit,Jakarta Timur ,599
+20108599,SDN Malaka Jaya 04 Pg.,SD,Duren Sawit,Jakarta Timur ,373
+20108600,SD NEGERI MALAKA JAYA 05 PG,SD,Duren Sawit,Jakarta Timur ,375
+20108601,SDN Malaka Jaya 06 Pg.,SD,Duren Sawit,Jakarta Timur ,360
+20108602,SDN Malaka Jaya 07 Pg.,SD,Duren Sawit,Jakarta Timur ,378
+20108603,SDN Malaka Jaya 08,SD,Duren Sawit,Jakarta Timur ,351
+20108604,SDN Malaka Jaya 09,SD,Duren Sawit,Jakarta Timur ,309
+20108605,SDN Malaka Jaya 10,SD,Duren Sawit,Jakarta Timur ,465
+20108606,SDN MALAKA JAYA 11,SD,Duren Sawit,Jakarta Timur ,436
+20108607,SDN MALAKA JAYA 12 PAGI,SD,Duren Sawit,Jakarta Timur ,289
+20108612,SD NEGERI MALAKA SARI 01 PG,SD,Duren Sawit,Jakarta Timur ,182
+20108613,SD NEGERI MALAKA SARI 02 PG,SD,Duren Sawit,Jakarta Timur ,404
+20108614,SDN Malaka Sari 03,SD,Duren Sawit,Jakarta Timur ,574
+20108615,SD NEGERI MALAKA SARI 04,SD,Duren Sawit,Jakarta Timur ,541
+20108616,SDN MALAKA SARI 05,SD,Duren Sawit,Jakarta Timur ,610
+20108620,SDN MALAKA SARI 13,SD,Duren Sawit,Jakarta Timur ,403
+20108623,SD NEGERI PONDOK BAMBU 01 PG,SD,Duren Sawit,Jakarta Timur ,476
+20108624,SD NEGERI PONDOK BAMBU 02 PG,SD,Duren Sawit,Jakarta Timur ,586
+20108626,SDN PONDOK BAMBU 04,SD,Duren Sawit,Jakarta Timur ,650
+20108628,SDN PONDOK BAMBU 06,SD,Duren Sawit,Jakarta Timur ,435
+20108629,SDN PONDOK BAMBU 07,SD,Duren Sawit,Jakarta Timur ,544
+20108632,SDN Pondok Bambu 11 Pg.,SD,Duren Sawit,Jakarta Timur ,414
+20108634,SD NEGERI PONDOK BAMBU 13 PG,SD,Duren Sawit,Jakarta Timur ,352
+20108635,SD NEGERI PONDOK BAMBU 15 PG,SD,Duren Sawit,Jakarta Timur ,385
+20108638,SD NEGERI PONDOK KELAPA 01 PAGI,SD,Duren Sawit,Jakarta Timur ,752
+20108640,SD NEGERI PONDOK KELAPA 03 PAGI,SD,Duren Sawit,Jakarta Timur ,415
+20108641,SDN Pondok Kelapa 04,SD,Duren Sawit,Jakarta Timur ,483
+20108642,SD NEGERI PONDOK KELAPA 05 PG,SD,Duren Sawit,Jakarta Timur ,759
+20108643,SD NEGERI PONDOK KELAPA 06,SD,Duren Sawit,Jakarta Timur ,574
+20108644,SD NEGERI PONDOK KELAPA 07 PAGI,SD,Duren Sawit,Jakarta Timur ,506
+20108646,SDN PONDOK KELAPA 09 PAGI,SD,Duren Sawit,Jakarta Timur ,486
+20108647,SD NEGERI PONDOK KELAPA 10 PAGI,SD,Duren Sawit,Jakarta Timur ,568
+20108650,SD NEGERI PONDOK KOPI 01 PAGI,SD,Duren Sawit,Jakarta Timur ,381
+20108651,SD NEGERI PONDOK KOPI 02 PAGI,SD,Duren Sawit,Jakarta Timur ,647
+20108652,SDN Pondok Kopi 03 Pg.,SD,Duren Sawit,Jakarta Timur ,530
+20108653,SD NEGERI PONDOK KOPI 04 PAGI,SD,Duren Sawit,Jakarta Timur ,730
+20108655,SD NEGERI PONDOK KOPI 07 PAGI,SD,Duren Sawit,Jakarta Timur ,370
+20108656,SD NEGERI PONDOK KOPI 08 PG,SD,Duren Sawit,Jakarta Timur ,472
+20108657,SDN Rawa Bunga 01 Pg.,SD,Jatinegara,Jakarta Timur ,332
+20108659,SDN RAWA BUNGA 11 PAGI,SD,Jatinegara,Jakarta Timur ,531
+20108660,SDN Rawa Bunga 12,SD,Jatinegara,Jakarta Timur ,532
+20108665,SD NEGERI BALIMESTER 01 PG,SD,Jatinegara,Jakarta Timur ,377
+20108668,SDN Balimester 03 Petang,SD,Jatinegara,Jakarta Timur ,346
+20108670,SDN BARU 07 PAGI,SD,Pasar Rebo,Jakarta Timur ,400
+20108671,SDN Cibubur 09 Pg.,SD,Ciracas,Jakarta Timur ,670
+20108672,SDN CIBUBUR 11 PAGI,SD,Ciracas,Jakarta Timur ,479
+20108690,SDN Cipinang Muara 18 Pagi,SD,Jatinegara,Jakarta Timur ,296
+20108696,SDN Ciracas 01,SD,Ciracas,Jakarta Timur ,462
+20108706,SD NEGERI JATINEGARA 03 PAGI,SD,Cakung,Jakarta Timur ,491
+20108708,SDN JATINEGARA 06,SD,Cakung,Jakarta Timur ,1039
+20108709,SD NEGERI JATINEGARA 14 PETANG,SD,Cakung,Jakarta Timur ,293
+20108710,SDN KALISARI 02 PAGI,SD,Pasar Rebo,Jakarta Timur ,410
+20108711,SDN Kalisari 05,SD,Pasar Rebo,Jakarta Timur ,903
+20108715,SDN Kampung Melayu 02 Pt.,SD,Jatinegara,Jakarta Timur ,413
+20108716,SDN Kebon Pala 01 Pg.,SD,Makasar,Jakarta Timur ,382
+20108743,SDN PENGGILINGAN 05,SD,Cakung,Jakarta Timur ,639
+20108744,SD NEGERI UJUNG MENTENG 01 PAGI,SD,Cakung,Jakarta Timur ,379
+20108751,SD NEGERI PONDOK BAMBU 14,SD,Duren Sawit,Jakarta Timur ,332
+20108774,SD NEGERI RAWATERATE 01 PAGI,SD,Cakung,Jakarta Timur ,366
+20108780,SDN Rawaterate 02 Pt.,SD,Cakung,Jakarta Timur ,384
+20108781,SD NEGERI RAWATERATE 03 PAGI,SD,Cakung,Jakarta Timur ,378
+20108782,SDN Susukan 01,SD,Ciracas,Jakarta Timur ,345
+20108788,SDN Batu Ampar 10 Pg.,SD,Kramat Jati,Jakarta Timur ,345
+20108812,SDN Baru 05 Pg.,SD,Pasar Rebo,Jakarta Timur ,308
+20108813,SDN BARU 06 PAGI,SD,Pasar Rebo,Jakarta Timur ,378
+20108814,SDN Cijantung 01 Pg.,SD,Pasar Rebo,Jakarta Timur ,374
+20108815,SDN Cijantung 03 Pg.,SD,Pasar Rebo,Jakarta Timur ,379
+20108816,SDN Cijantung 05 Pg.,SD,Pasar Rebo,Jakarta Timur ,479
+20108817,SDN Cijantung 06 Pg.,SD,Pasar Rebo,Jakarta Timur ,528
+20108821,SDN GEDONG 01,SD,Pasar Rebo,Jakarta Timur ,375
+20108822,SDN Gedong 05,SD,Pasar Rebo,Jakarta Timur ,515
+20108824,SDN Gedong 10 Pg.,SD,Pasar Rebo,Jakarta Timur ,401
+20108826,SDN KALISARI 03 PAGI,SD,Pasar Rebo,Jakarta Timur ,546
+20108829,SDN PEKAYON 12,SD,Pasar Rebo,Jakarta Timur ,369
+20108830,SDN Pekayon 15 Pg.,SD,Pasar Rebo,Jakarta Timur ,444
+20108831,SDN Pekayon 16 Pg.,SD,Pasar Rebo,Jakarta Timur ,658
+20108833,SDN PEKAYON 18 PG,SD,Pasar Rebo,Jakarta Timur ,378
+20108834,SDN Pekayon 01 Pg.,SD,Pasar Rebo,Jakarta Timur ,381
+20108836,SDN Pekayon 03 Pg.,SD,Pasar Rebo,Jakarta Timur ,522
+20108838,SDN PEKAYON 05,SD,Pasar Rebo,Jakarta Timur ,490
+20108839,SDN Pekayon 07 Pg.,SD,Pasar Rebo,Jakarta Timur ,413
+20108841,SDN Pekayon 10 Pg.,SD,Pasar Rebo,Jakarta Timur ,382
+20108842,SDN Pekayon 11 Pg.,SD,Pasar Rebo,Jakarta Timur ,382
+20108844,SDN Utan Kayu Utara 01,SD,Matraman,Jakarta Timur ,520
+20108848,SDN Utan Kayu Utara 08 Pg.,SD,Matraman,Jakarta Timur ,191
+20108849,SD NEGERI UTAN KAYU UTARA 11 PAGI,SD,Matraman,Jakarta Timur ,280
+20108854,SMP NEGERI 286 JAKARTA,SMP,Grogol Petamburan,Jakarta Barat ,583
+20108940,SD NEGERI JOGLO 09 PG,SD,Kembangan,Jakarta Barat ,711
+20108945,SD NEGERI PEGADUNGAN 14 PG,SD,Kali Deres,Jakarta Barat ,395
+20108946,SDN PEGADUNGAN 15 PT,SD,Kali Deres,Jakarta Barat ,311
+20108950,SDN CENGKARENG BARAT 20 PETANG,SD,Cengkareng,Jakarta Barat ,275
+20108967,SDN KALISARI 01 PAGI,SD,Pasar Rebo,Jakarta Timur ,890
+20108968,SDN KELAPA DUA WETAN 04 PAGI,SD,Ciracas,Jakarta Timur ,390
+20108976,SD NEGERI BALIMESTER 06 PG,SD,Jatinegara,Jakarta Timur ,569
+20108981,SDN Pekayon 09,SD,Pasar Rebo,Jakarta Timur ,500
+20108989,SDN BARU 01 PAGI,SD,Pasar Rebo,Jakarta Timur ,344
+20108990,SDN BARU 03 PAGI,SD,Pasar Rebo,Jakarta Timur ,527
+20108994,SDN Gedong 12 Pg.,SD,Pasar Rebo,Jakarta Timur ,546
+20108996,SDN Gedong 11 Pg.,SD,Pasar Rebo,Jakarta Timur ,325
+20108997,SDN BARU 02 PAGI,SD,Pasar Rebo,Jakarta Timur ,376
+20109002,SDN Halim 01,SD,Makasar,Jakarta Timur ,570
+20109019,SD NEGERI BIDARACINA 01 PG,SD,Jatinegara,Jakarta Timur ,278
+20109021,SDN CIPINANG BESAR SELATAN 12 PG,SD,Jatinegara,Jakarta Timur ,176
+20109024,SDN Gedong 08 Pg.,SD,Pasar Rebo,Jakarta Timur ,500
+20109025,SDN Palmeriam 03 Pg.,SD,Matraman,Jakarta Timur ,215
+20109029,SDN PISANGAN BARU 01,SD,Matraman,Jakarta Timur ,540
+20109030,SDN Pisangan Baru 11 Pagi,SD,Matraman,Jakarta Timur ,307
+20109031,SDN PISANGAN BARU 13 PG.,SD,Matraman,Jakarta Timur ,204
+20109047,SDN Rorotan 07 Pg.,SD,Cilincing,Jakarta Utara ,352
+20109049,SD NEGERI CENGKARENG TIMUR 21 PG,SD,Cengkareng,Jakarta Barat ,380
+20109050,SD NEGERI DURI KOSAMBI 10 PG,SD,Cengkareng,Jakarta Barat ,365
+20109067,SD NEGERI JOGLO 01 PG,SD,Kembangan,Jakarta Barat ,381
+20109084,SDN Makasar 01 Pg.,SD,Makasar,Jakarta Timur ,346
+20109093,SDN BARU 08 PAGI,SD,Pasar Rebo,Jakarta Timur ,362
+20109104,SDN Pinang Ranti 01,SD,Makasar,Jakarta Timur ,555
+20109105,SD Negeri Jelambar Baru 03 Pagi,SD,Grogol Petamburan,Jakarta Barat ,403
+20109110,SDN Gedong 03 Pg.,SD,Pasar Rebo,Jakarta Timur ,803
+20109115,SDN Cibubur 05,SD,Ciracas,Jakarta Timur ,674
+20109126,SDN Susukan 09 Pg.,SD,Ciracas,Jakarta Timur ,469
+20109137,SDN Pisangan Baru 10 Pt.,SD,Matraman,Jakarta Timur ,145
+20109142,SD NEGERI PEGADUNGAN 07 PG,SD,Kali Deres,Jakarta Barat ,255
+20109151,SDN Cibubur 10 Pg.,SD,Ciracas,Jakarta Timur ,608
+20109161,SDN Cipinang Melayu 07 Pg.,SD,Makasar,Jakarta Timur ,364
+20109164,SDN Pisangan Baru 05 Pg.,SD,Matraman,Jakarta Timur ,178
+20109165,SMKN 61 JAKARTA,SMK,Kepulauan Seribu Selatan,Kepulauan Seribu,603
+20109169,SD NEGERI UTAN KAYU SELATAN 27 PAGI,SD,Matraman,Jakarta Timur ,249
+20109170,SDN Kayu Putih 01 Pg.,SD,Pulo Gadung,Jakarta Timur ,473
+20109175,SD NEGERI PLUIT 05 PG,SD,Penjaringan,Jakarta Utara ,655
+20109179,SDN Cijantung 02 Pagi,SD,Pasar Rebo,Jakarta Timur ,530
+20109183,SMP Negeri 49 Jakarta,SMP,Kramat Jati,Jakarta Timur ,961
+20109194,SDN Kelapa Dua Wetan 03 Pg.,SD,Ciracas,Jakarta Timur ,509
+20109211,SD NEGERI CAKUNG TIMUR 09 PAGI,SD,Cakung,Jakarta Timur ,491
+20109212,SMP Negeri 229,SMP,Kebon Jeruk,Jakarta Barat ,886
+20109214,SDN CIPINANG BESAR SELATAN 03 PAGI,SD,Jatinegara,Jakarta Timur ,364
+20109221,SDN Rawamangun 12 PAGI,SD,Pulo Gadung,Jakarta Timur ,822
+20109225,SDN Batu Ampar 09 Pg.,SD,Kramat Jati,Jakarta Timur ,295
+20109242,SDN Ciracas 03 Pg.,SD,Ciracas,Jakarta Timur ,758
+20109246,SMKN 62 JAKARTA,SMK,Jagakarsa,Jakarta Selatan ,528
+20109257,SMP Negeri 180,SMP,Cipayung,Jakarta Timur ,605
+20109262,SDN Cijantung 07 Pg.,SD,Pasar Rebo,Jakarta Timur ,531
+20109268,SD NEGERI PALMERAH 09 PAGI,SD,Palmerah,Jakarta Barat ,392
+20109289,SDN Pulogebang 25 Pg.,SD,Cakung,Jakarta Timur ,441
+20109298,SD NEGERI PULO 07 PG,SD,Kebayoran Baru,Jakarta Selatan ,182
+20109299,SDN PONDOK PINANG 01,SD,Kebayoran Lama,Jakarta Selatan ,496
+20109301,SD NEGERI KEMBANGAN UTARA 05 PG,SD,Kembangan,Jakarta Barat ,361
+20109302,SD NEGERI CIKOKO 03 PAGI,SD,Pancoran,Jakarta Selatan ,387
+20109327,SDN Pekojan 06 Petang,SD,Tambora,Jakarta Barat ,178
+20112443,SMK NEGERI 63 JAKARTA,SMK,Jagakarsa,Jakarta Selatan ,711
+21104166,SD NEGERI JATINEGARA 05 PAGI,SD,Cakung,Jakarta Timur ,376
+69800097,SMP NEGERI 289 JAKARTA,SMP,Cilincing,Jakarta Utara ,889
+69862980,SD NEGERI RAWAMANGUN 07 PAGI,SD,Pulo Gadung,Jakarta Timur ,296
+69980873,SDN MARUNDA 05,SD,Cilincing,Jakarta Utara ,639
+69980874,SMPN 290,SMP,Cilincing,Jakarta Utara ,485
+69992314,SMK Negeri 70 Jakarta,SMK,Duren Sawit,Jakarta Timur ,205
+69992315,SMK Negeri 64 Jakarta,SMK,Kramat Jati,Jakarta Timur ,139
+69992316,SMK Negeri 65 Jakarta,SMK,Jatinegara,Jakarta Timur ,210
+69992317,SMK Negeri 66 Jakarta,SMK,Cipayung,Jakarta Timur ,315
+69992318,SMK Negeri 67 Jakarta,SMK,Pasar Rebo,Jakarta Timur ,205
+69992319,SMK Negeri 68 Jakarta,SMK,Ciracas,Jakarta Timur ,207
+69992321,SMK Negeri 69 Jakarta,SMK,Cakung,Jakarta Timur ,314
+69992322,SMK Negeri 71 Jakarta,SMK,Cakung,Jakarta Timur ,416
+69992323,SMK Negeri 73 Jakarta,SMK,Cengkareng,Jakarta Barat ,212
+69992346,SMK Negeri 72 Jakarta,SMK,Cengkareng,Jakarta Barat ,198
+20109280,SLB NEGERI 7 JAKARTA,SLB,Jatinegara,Jakarta Timur ,278
+20109970,SLBN 3 JAKARTA,SLB,Tanah Abang,Jakarta Pusat ,201
+20109425,SLB Negeri 01 Jakarta,SLB,Cilandak,Jakarta Selatan ,310
+20103099,SLB A PEMBINA TINGKAT NASIONAL,SLB,Cilandak,Jakarta Selatan ,91
+20103089,SLB N 02 JAKARTA,SLB,Jagakarsa,Jakarta Selatan ,237
+69980881,SLBN 8,SLB,Cilincing,Jakarta Utara ,118
+69988460,SLB NEGERI 11 JAKARTA,SLB,Tebet,Jakarta Selatan ,122
+20109529,SLB Negeri 6 Jakarta,SLB,Kembangan,Jakarta Barat ,138
+69988475,SLB NEGERI 10,SLB,Kali Deres,Jakarta Barat ,177
+20112403,SLB NEGERI 5 JAKARTA,SLB,Palmerah,Jakarta Barat ,170
+69988408,SLB NEGERI 12 JAKARTA,SLB,Jagakarsa,Jakarta Selatan ,136
+69988210,SLB Negeri 9 Jakarta,SLB,Tanjung Priok,Jakarta Utara ,261
+20110821,SLB NEGERI 4 JAKARTA,SLB,Koja,Jakarta Utara ,219
+20109795,TK Negeri Penggilingan,PAUD,Cakung,Jakarta Timur ,50
+20110450,TK Negeri Kebon Kacang,PAUD,Tanah Abang,Jakarta Pusat ,19
+20110491,TK Negeri Besuki,PAUD,Menteng,Jakarta Pusat ,27
+20110492,TK Negeri Cilacap ,PAUD,Menteng,Jakarta Pusat ,26
+69949368,TK Negeri Bendungan Hilir,PAUD,Tanah Abang,Jakarta Pusat ,31
+20110494,TK Negeri Tegal,PAUD,Menteng,Jakarta Pusat ,33
+69857136,TK Negeri Semper,PAUD,Cilincing,Jakarta Utara ,62
+20110688,TK Negeri Sunter Agung,PAUD,Tanjung Priok,Jakarta Utara ,46
+69857113,TK Negeri Rorotan,PAUD,Cilincing,Jakarta Utara ,63
+20110716,TK Negeri Papanggo,PAUD,Tanjung Priok,Jakarta Utara ,46
+20111015,TK Negeri Meruya Utara 01,PAUD,Kembangan,Jakarta Barat ,34
+20111016,TK Negeri Meruya Utara 02,PAUD,Kembangan,Jakarta Barat ,40
+20111017,TK Negeri Meruya Selatan,PAUD,Kembangan,Jakarta Barat ,59
+69830838,TK Negeri Bintaro,PAUD,Pesanggrahan,Jakarta Selatan ,32
+20111591,TK Negeri Cipete,PAUD,Cilandak,Jakarta Selatan ,31
+69830867,TK Negeri Pembina Tingkat Nasional,PAUD,Pesanggrahan,Jakarta Selatan ,60
+20112079,TK Negeri Pembina DKI,PAUD,Duren Sawit,Jakarta Timur ,36
+69831047,TK Negeri Latihan II,PAUD,Setia Budi,Jakarta Selatan ,21
+69920820,TKN Menteng 01,PAUD,Menteng,Jakarta Pusat ,28
+69946822,TKN Sawah Besar 01,PAUD,Sawah Besar,Jakarta Pusat ,20
+69820326,TKN Kemayoran 01,PAUD,Kemayoran,Jakarta Pusat ,32
+69820409,TKN Kemayoran 02,PAUD,Kemayoran,Jakarta Pusat ,29
+69922070,TKN Cilincing 01,PAUD,Cilincing,Jakarta Utara ,25
+69857065,TKN Koja 01,PAUD,Koja,Jakarta Utara ,40
+69790218,TKN Keb. Lama 01,PAUD,Kebayoran Lama,Jakarta Selatan ,15
+69820655,TKN Jagakarsa 01,PAUD,Jagakarsa,Jakarta Selatan ,25
+69945300,TKN Cilandak 01,PAUD,Cilandak,Jakarta Selatan ,21
+69978626,TKN Mampang P 01,PAUD,Mampang Prapatan,Jakarta Selatan ,11
+69785991,TKN Keb. Baru 01,PAUD,Kebayoran Baru,Jakarta Selatan ,17
+69820775,TKN Duren Sawit 01,PAUD,Duren Sawit,Jakarta Timur ,23
+69827381,TKN Duren Sawit 02,PAUD,Duren Sawit,Jakarta Timur ,24
+20109732,TKN Pulogadung 01,PAUD,Pulo Gadung,Jakarta Timur ,23
+20110174,TKN Kramat Jati 02,PAUD,Kramat Jati,Jakarta Timur ,26
+69917439,TKN Pasar Rebo 01,PAUD,Pasar Rebo,Jakarta Timur ,25
+20177833,TKN Pasar Rebo 02,PAUD,Pasar Rebo,Jakarta Timur ,16
+20112469,TKN Pasar Rebo 03,PAUD,Pasar Rebo,Jakarta Timur ,18
+20109948,TKN Pasar Rebo 04,PAUD,Pasar Rebo,Jakarta Timur ,24
+69830164,TKN Cipayung 01,PAUD,Cipayung,Jakarta Timur ,17
+69917840,TKN Cipayung 02,PAUD,Cipayung,Jakarta Timur ,15
+69963091,TKN Kebon Jeruk 01,PAUD,Kebon Jeruk,Jakarta Barat ,31
+69768536,TKN P. Untung J. 01,PAUD,Kepulauan Seribu Selatan,Kepulauan Seribu,47
+69768531,TKN P. Tidung 01,PAUD,Kepulauan Seribu Selatan,Kepulauan Seribu,22
+69768532,TKN P. Tidung 02,PAUD,Kepulauan Seribu Selatan,Kepulauan Seribu,29
+69768533,TKN P. Tidung 03,PAUD,Kepulauan Seribu Selatan,Kepulauan Seribu,25
+69768535,TKN P. Pari 01,PAUD,Kepulauan Seribu Selatan,Kepulauan Seribu,31
+20112492,TKN P. Kelapa 01,PAUD,Kepulauan Seribu Utara,Kepulauan Seribu,33
+69768538,TKN P. Harapan 01,PAUD,Kepulauan Seribu Utara,Kepulauan Seribu,37
+69768537,TKN P. Panggang 01,PAUD,Kepulauan Seribu Utara,Kepulauan Seribu,33
+69988258,TKN Kalideres 01,PAUD,Kali Deres,Jakarta Barat ,33
+69988567,TKN Tambora 01,PAUD,Tambora,Jakarta Barat ,23
+69988293,TKN Cengkareng 01,PAUD,Cengkareng,Jakarta Barat ,43
+69989277,TKN Pancoran 01,PAUD,Pancoran,Jakarta Selatan ,28
+69989178,TKN Pasar Minggu 01,PAUD,Pasar Minggu,Jakarta Selatan ,32
+69988862,TKN Tebet 01,PAUD,Tebet,Jakarta Selatan ,29
+69988920,TKN Pulogadung 02,PAUD,Pulo Gadung,Jakarta Timur ,33
+69988919,TKN Matraman 01,PAUD,Matraman,Jakarta Timur ,25
+69988921,TKN Jatinegara 01,PAUD,Jatinegara,Jakarta Timur ,29
+69988000,TKN Kramat Jati 03,PAUD,Kramat Jati,Jakarta Timur ,19
+69987999,TKN Makasar 01,PAUD,Makasar,Jakarta Timur ,20
+69988059,TKN Ciracas 01,PAUD,Ciracas,Jakarta Timur ,19
+69988193,TKN Cipayung 03,PAUD,Cipayung,Jakarta Timur ,20
+69986230,TKN Pademangan 01,PAUD,Pademangan,Jakarta Utara ,33
+69988621,TKN Penjaringan 01,PAUD,Penjaringan,Jakarta Utara ,75
+69987715,TKN Kelapa Gading 01,PAUD,Kelapa Gading,Jakarta Utara ,26
+69980385,TKN Koja 02,PAUD,Koja,Jakarta Utara ,45
+69981918,TKN Cilincing 02,PAUD,Cilincing,Jakarta Utara ,38
+69979428,TPA Negeri Bale Bermain Balai Kota,PAUD,Gambir,Jakarta Pusat ,5
+69990118,TPAN BB Pelangi,PAUD,Kembangan,Jakarta Barat ,14
+69991042,TPAN BB Serasi,PAUD,Kebayoran Baru,Jakarta Selatan ,10
+69990294,TPAN BB Maju Bersama,PAUD,Gambir,Jakarta Pusat ,4
+69990878,TPAN BB Anwari,PAUD,Cakung,Jakarta Timur ,22
+69987433,TPA Negeri Bale Bermain Yos Sudarso,PAUD,Tanjung Priok,Jakarta Utara ,5
+69989306,TPAN Bina Tunas Jaya Ii,PAUD,Kebayoran Baru,Jakarta Selatan ,13
+69990946,TPAN Bina Tunas Jaya Iii,PAUD,Sawah Besar,Jakarta Pusat ,8
+69989245,TPAN Bina Tunas Jaya Iv,PAUD,Senen,Jakarta Pusat ,20
+69989585,TPAN Bina Tunas Jaya V,PAUD,Ciracas,Jakarta Timur ,8
+69991331,TPAN Bina Tunas Jaya Ix,PAUD,Pulo Gadung,Jakarta Timur ,18
+69991740,TPAN Bina Tunas Jaya X,PAUD,Pesanggrahan,Jakarta Selatan ,27
+69991431,TPAN Bina Tunas Jaya Xiii,PAUD,Tebet,Jakarta Selatan ,11
+69990347,SPSN BB Bahagia,PAUD,Sawah Besar,Jakarta Pusat ,12
+69990299,SPSN BB Bunda Menteng,PAUD,Menteng,Jakarta Pusat ,10
+69990205,SPSN BB Cempaka Putih Ceria,PAUD,Cempaka Putih,Jakarta Pusat ,6
+69990204,SPSN BB Johar Baru,PAUD,Johar Baru,Jakarta Pusat ,12
+69991742,SPSN BB Ceria,PAUD,Pesanggrahan,Jakarta Selatan ,10
+69991741,SPSN BB Alpukat,PAUD,Kebayoran Lama,Jakarta Selatan ,7
+69991016,SPSN BB Manggala Praja,PAUD,Pasar Minggu,Jakarta Selatan ,11
+69991012,SPSN BB Unggul Dan Terdepan,PAUD,Pancoran,Jakarta Selatan ,9
+69991277,SPSN BB Cerdas Ceria,PAUD,Duren Sawit,Jakarta Timur ,6
+69990120,SPSN BB Mawar Cipayung,PAUD,Cipayung,Jakarta Timur ,15
+69990038,SPSN BB Ciracas Cerdas,PAUD,Ciracas,Jakarta Timur ,15
+69990121,SPSN BB Makasar Meriah-,PAUD,Makasar,Jakarta Timur ,12
+69990387,SPSN BB Petura,PAUD,Kali Deres,Jakarta Barat ,13
+69990099,SPSN BB Palem Merah,PAUD,Palmerah,Jakarta Barat ,10
+69990117,SPSN BB Melati,PAUD,Kembangan,Jakarta Barat ,8
+69990116,SPSN BB Harapan Jaya,PAUD,Grogol Petamburan,Jakarta Barat ,13
+69990089,SPSN BB Demang Ceria,PAUD,Pademangan,Jakarta Utara ,19
+69990088,SPSN BB Sahabat Anak,PAUD,Penjaringan,Jakarta Utara ,36
+69990708,SPSN BB Gading Kuncup Harmoni,PAUD,Kelapa Gading,Jakarta Utara ,12
+69990758,SPSN BB Abdi Praja,PAUD,Cilincing,Jakarta Utara ,21
+69917839,TK NEGERI KRAMAT JATI 01,PAUD,Kramat Jati,Jakarta Timur ,45
